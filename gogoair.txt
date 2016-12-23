@@ -1,0 +1,201 @@
+[+] Getting nameservers
+208.109.255.50 - pdns02.domaincontrol.com
+216.69.185.50 - pdns01.domaincontrol.com
+[-] Zone transfer failed
+
+[+] TXT records found
+"4WVSSPEpzO6z8iudofmYgzoMA66Nua95Bd448+awtJqV/u6AuJjmQTZ8xG3xRhQ5gcTWJ4n+sS1qcCeH9a+JZw=="
+"google-site-verification=WS0PNrutv7h0PfHYH4xCsxJ9pA87FTp-1MN3IxI__Zc"
+"MS=ms62887526"
+"v=spf1 include:_netblocks.mimecast.com include:spf.mandrillapp.com include:spf.protection.outlook.com ip4:64.179.52.214 ip4:69.128.11.68 ip4:204.92.19.176 ip4:204.92.19.177 ip4:204.92.19.178 ip4:12.130.115.33 mx -all"
+"w5DqNsbWOz8oDcqDKn/4MymHhPbIbx4PaUNv8kPNE+KXCq/jFef250DNMXRfZGKPua8gdrEy0BnCKAMrrTiZjA=="
+
+[+] MX records found, added to target list
+5 us-smtp-inbound-1.mimecast.com.
+5 us-smtp-inbound-2.mimecast.com.
+
+[*] Scanning gogoair.com for A records
+12.130.115.24 - gogoair.com
+208.44.211.12 - ftp.gogoair.com
+54.172.23.245 - www.gogoair.com
+52.55.152.79 - www.gogoair.com
+40.84.227.180 - webmail.gogoair.com
+40.101.1.88 - autodiscover.gogoair.com
+132.245.79.248 - autodiscover.gogoair.com
+40.96.21.40 - autodiscover.gogoair.com
+40.101.60.8 - autodiscover.gogoair.com
+40.96.21.56 - autodiscover.gogoair.com
+40.101.9.8 - autodiscover.gogoair.com
+40.101.44.184 - autodiscover.gogoair.com
+132.245.194.248 - autodiscover.gogoair.com
+40.101.28.184 - autodiscover.gogoair.com
+134.170.68.88 - autodiscover.gogoair.com
+50.63.202.14 - blog.gogoair.com
+10.241.1.61 - dev.gogoair.com
+12.130.115.5 - vpn.gogoair.com
+12.130.115.25 - mobile.gogoair.com
+12.130.115.28 - demo.gogoair.com
+208.44.211.31 - cp.gogoair.com
+23.99.136.190 - wiki.gogoair.com
+52.112.193.139 - sip.gogoair.com
+52.4.84.217 - api.gogoair.com
+52.0.71.112 - api.gogoair.com
+174.143.32.28 - staging.gogoair.com
+12.130.115.29 - my.gogoair.com
+52.112.193.142 - lyncdiscover.gogoair.com
+67.133.173.228 - files.gogoair.com
+12.130.115.24 - ww.gogoair.com
+52.206.171.81 - git.gogoair.com
+52.86.23.108 - git.gogoair.com
+209.167.231.15 - go.gogoair.com
+52.70.207.158 - partner.gogoair.com
+54.208.251.229 - partner.gogoair.com
+54.244.2.181 - av.gogoair.com
+12.130.115.18 - sftp.gogoair.com
+50.63.202.19 - s2.gogoair.com
+50.63.202.10 - archive.gogoair.com
+23.99.136.190 - jira.gogoair.com
+198.211.114.71 - events.gogoair.com
+12.130.106.51 - speedtest.gogoair.com
+23.99.136.190 - reports.gogoair.com
+12.130.115.10 - content.gogoair.com
+50.112.186.109 - access.gogoair.com
+199.7.201.46 - e.gogoair.com
+168.61.162.7 - ftp1.gogoair.com
+174.143.32.28 - business.gogoair.com
+205.186.161.125 - tracker.gogoair.com
+205.186.161.125 - careers.gogoair.com
+52.0.16.118 - tech.gogoair.com
+52.1.119.170 - tech.gogoair.com
+52.1.147.205 - tech.gogoair.com
+52.1.173.203 - tech.gogoair.com
+52.4.145.119 - tech.gogoair.com
+52.4.175.111 - tech.gogoair.com
+52.4.225.124 - tech.gogoair.com
+52.4.240.221 - tech.gogoair.com
+52.4.38.70 - tech.gogoair.com
+52.5.181.79 - tech.gogoair.com
+52.6.46.142 - tech.gogoair.com
+12.130.115.24 - shopping.gogoair.com
+184.168.221.20 - pr.gogoair.com
+195.215.247.67 - ir.gogoair.com
+195.215.247.73 - ir.gogoair.com
+63.171.91.104 - delta.gogoair.com
+205.186.161.125 - people.gogoair.com
+65.112.207.52 - updates.gogoair.com
+23.99.136.190 - inside.gogoair.com
+208.44.211.31 - fc.gogoair.com
+40.84.227.180 - rd.gogoair.com
+12.130.115.24 - contest.gogoair.com
+10.1.90.51 - nexus.gogoair.com
+208.44.211.31 - mysite.gogoair.com
+12.130.115.42 - buy.gogoair.com
+23.99.136.190 - crl.gogoair.com
+54.174.97.181 - vision.gogoair.com
+12.130.115.26 - myaccount.gogoair.com
+10.241.152.100 - ft.gogoair.com
+23.99.206.151 - brand.gogoair.com
+10.1.81.120 - ats.gogoair.com
+208.44.211.18 - hybrid.gogoair.com
+208.44.211.19 - hybrid.gogoair.com
+12.130.115.42 - promotions.gogoair.com
+54.209.254.129 - stash.gogoair.com
+12.130.115.35 - cmp.gogoair.com
+54.174.97.181 - visa.gogoair.com
+12.130.115.10 - utils.gogoair.com
+40.84.227.180 - signin.gogoair.com
+208.44.211.31 - ku.gogoair.com
+54.175.111.184 - commercial.gogoair.com
+23.99.136.190 - reports2.gogoair.com
+54.174.97.181 - ucs.gogoair.com
+208.44.211.31 - customercare.gogoair.com
+23.99.136.190 - tableau.gogoair.com
+54.164.107.138 - aspera.gogoair.com
+
+
+
+[+] Getting nameservers
+208.109.255.50 - pdns02.domaincontrol.com
+216.69.185.50 - pdns01.domaincontrol.com
+[-] Zone transfer failed
+
+[+] TXT records found
+"v=spf1 a include:_netblocks.eloqua.com include:_spf.google.com ~all"
+
+[+] MX records found, added to target list
+20 alt1.aspmx.l.google.com.
+20 alt2.aspmx.l.google.com.
+10 aspmx.l.google.com.
+30 aspmx2.googlemail.com.
+30 aspmx3.googlemail.com.
+30 aspmx4.googlemail.com.
+30 aspmx5.googlemail.com.
+
+[*] Scanning gogoinflight.com for A records
+12.130.115.15 - gogoinflight.com
+12.130.115.15 - www.gogoinflight.com
+12.130.115.33 - smtp.gogoinflight.com
+209.167.231.15 - test.gogoinflight.com
+205.186.161.125 - blog.gogoinflight.com
+63.171.91.213 - dev.gogoinflight.com
+12.130.115.16 - mobile.gogoinflight.com
+204.92.191.93 - secure.gogoinflight.com
+12.130.115.19 - video.gogoinflight.com
+12.130.115.12 - owa.gogoinflight.com
+216.58.201.179 - gmail.gogoinflight.com
+209.167.231.15 - go.gogoinflight.com
+12.130.115.32 - partner.gogoinflight.com
+12.130.115.18 - sftp.gogoinflight.com
+12.130.115.17 - reports.gogoinflight.com
+205.186.161.125 - pr.gogoinflight.com
+12.130.115.17 - dashboard.gogoinflight.com
+209.167.231.15 - one.gogoinflight.com
+54.174.159.92 - crl.gogoinflight.com
+12.130.115.24 - ft.gogoinflight.com
+12.130.115.88 - drm.gogoinflight.com
+217.204.10.87 - guides.gogoinflight.com
+12.130.115.42 - promotions.gogoinflight.com
+74.205.236.20 - selfcare.gogoinflight.com
+172.18.10.207 - mvc.gogoinflight.com
+172.18.9.10 - mvc.gogoinflight.com
+
+
+
+POST /cmp/j_spring_security_check HTTP/1.1
+Host: cmp.gogoair.com
+Connection: keep-alive
+Content-Length: 29
+Cache-Control: max-age=0
+Origin: https://cmp.gogoair.com
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.95 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: https://cmp.gogoair.com/cmp/login.jsp
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.8,id;q=0.6
+Cookie: JSESSIONID=-GIr7adLp3fveh+btL0ihzw+; s_sq=%5B%5BB%5D%5D; trwv.uid=gogoair-1482452762783-ae085ac3%3A1; trwsa.sid=gogoair-1482452762785-f5e38985%3A2; _mkto_trk=id:097-RTO-429&token:_mch-gogoair.com-1482452762663-67113; uppsid=F60A50494B54DBB4B0451654E0426E89; chocolatechip=63f671d27c106b395c35e353816b4ce2; s_fid=7832074957042D72-3ABCEB2368E4361B; s_cc=true
+
+
+j_username=asd&j_password=asd
+
+
+
+
+POST /gogoServices/j_spring_security_check HTTP/1.1
+Host: utils.gogoair.com
+Connection: keep-alive
+Content-Length: 28
+Cache-Control: max-age=0
+Origin: https://utils.gogoair.com
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.95 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: https://utils.gogoair.com/gogoServices/login.jsp
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.8,id;q=0.6
+Cookie: JSESSIONID=9EC201F10E3B98413B35074A09828334; s_sq=%5B%5BB%5D%5D; trwv.uid=gogoair-1482452762783-ae085ac3%3A1; trwsa.sid=gogoair-1482452762785-f5e38985%3A2; _mkto_trk=id:097-RTO-429&token:_mch-gogoair.com-1482452762663-67113; uppsid=F60A50494B54DBB4B0451654E0426E89; chocolatechip=63f671d27c106b395c35e353816b4ce2; s_fid=7832074957042D72-3ABCEB2368E4361B; s_cc=true
+
+j_username=ad&j_password=asd
+

