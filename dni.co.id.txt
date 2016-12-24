@@ -1,0 +1,28 @@
+Database: dnicoid_web137
+Table: member
+[99245 entries]
++------------+---------------------------------------------------+----------------------+------------+----------------------------------------------+
+| no_anggota | password                                          | jawaban              | serial     | pin                                          |
++------------+---------------------------------------------------+----------------------+------------+----------------------------------------------+
+| DMA108999  | e10adc3949ba59abbe56e057f20f883e (123456)         | SINGA                | 88885814   | f9a7bdb36af708041806e271ed3566ac             |
+| DMA109000  | e10adc3949ba59abbe56e057f20f883e (123456)         | SINGA                | 88885815   | f447a514a35318310ff81b0e1b66a1c1             |
+| DMA109001  | e10adc3949ba59abbe56e057f20f883e (123456)         | SINGA                | 88885816   | c5a3b503c72b6eeccdd0776d97b85d68             |
+| DMA109002  | 81dc9bdb52d04dc20036dbd8313ed055 (1234)           | Kelinci              | 888006233  | ab2f7787262d63b9fad6986d281aa7e5             |
+| DMA109003  | 81dc9bdb52d04dc20036dbd8313ed055 (1234)           | KUCING               | 888007617  | 3e87e0ee15494769eab6b5c40100f88f             |
+| DMA109004  | e10adc3949ba59abbe56e057f20f883e (123456)         | KUCING               | 888013918  | 0eb1cce67080779f1f75779da62609c7             |
+| DMA109005  | e10adc3949ba59abbe56e057f20f883e (123456)         | KUCING               | 888013919  | e5b4f828bd187eb5e47dfdc038c1f915             |
+| DMA109006  | e10adc3949ba59abbe56e057f20f883e (123456)         | KUCING               | 888013920  | e5149d547ec663584b0a63cf86491922             |
+| DMA109007  | e10adc3949ba59abbe56e057f20f883e (123456)         | KUCING               | 888013921  | b9d5c56245975df7d3d79c3532b35aaa             |
+| DMA109008  | e10adc3949ba59abbe56e057f20f883e (123456)         | KUCING               | 888013922  | 984bb9491b7371712fae2cd67febc233             |
+| DMA109009  | e10adc3949ba59abbe56e057f20f883e (123456)         | KUCING               | 888013923  | efa2fcac87268cea56529e4eff3ee628             |
+| DMA109010  | e10adc3949ba59abbe56e057f20f883e (123456)         | KUCING               | 888013924  | 9151edfdb1d29441f4f389a51ed3c0c8             |
+| DMA109011  | e10adc3949ba59abbe56e057f20f883e (123456)         | AYAM                 | 88867674   | 8aa336445fa6143fd8e5c2b459477807             |
+| DMA109012  | 0d57cb7bad5071b5993047df8a5873a2                  | ANGSA                | 888013911  | 776a797d1e4adc5a47ef2097993ea30b             |
+| DMA109013  | 0d57cb7bad5071b5993047df8a5873a2                  | ANGSA                | 888013912  | 3ad30d97a2c45df9a23845b50484d893             |
+| DMA109014  | 0d57cb7bad5071b5993047df8a5873a2                  | ANGSA                | 888013913  | 57203a3d74b5c0f670d98e139a478386             |
+| DMA109015  | 0d57cb7bad5071b5993047df8a5873a2                  | ANGSA                | 888013914  | 996ad29c9b9516d9a12ce792f17c81f6             |
+| DMA109016  | 0d57cb7bad5071b5993047df8a5873a2                  | ANGSA                | 888013915  | b95b73a8b03b9bafa8524871f464b424             |
+| DMA109017  | 0d57cb7bad5071b5993047df8a5873a2                  | ANGSA                | 888013916  | 998899cbe032ea2e863db0e53aa649ac             |
+| DMA109018  | 0d57cb7bad5071b5993047df8a5873a2                  | ANGSA                | 888013917  | ca6758bae78f4e8a420abe2a60a2f52c             |
+
+concact xrobot.mr[at]gmail
