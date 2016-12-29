@@ -1,0 +1,73 @@
+Database: jsry18jws59
+Table: admin
+[7 entries]
++----+-----------------------------+---------+-----------+-------------------------------------------+
+| id | email                       | level   | username  | password                                  |
++----+-----------------------------+---------+-----------+-------------------------------------------+
+| 3  | admin@localhost.com         | 0       | admin     | 0b1e50e1fd71c96bac94144cc59cff40 (kosong) |
+| 4  | budi@budi.com               | 4       | budi      | 0b1e50e1fd71c96bac94144cc59cff40 (kosong) |
+| 5  | valent@virtual.co.id        | 0       | valent    | 0b1e50e1fd71c96bac94144cc59cff40 (kosong) |
+| 7  | sekretariat@jiwasraya.co.id | 0       | humas     | 94da7343e47802652a24444298012b8c (humas)  |
+| 6  | fonny@jiwasraya.co.id       | 0       | fonny     | nonaktif                                  |
+| 8  | askes@jiwasraya.co.id       | 0       | askes     | 5b7078fde78e2af5e4233613c3ef441b (askes)  |
+| 9  | marketing@jiwasraya.co.id   | 4       | marketing | 94da7343e47802652a24444298012b8c (humas)  |
+
+
+Database: jsry18jws59
+[41 tables]
++------------------+
+| REPORTING_PMK    |
+| admin            |
+| article          |
+| articlecat       |
+| award            |
+| banner           |
+| dplk_group       |
+| dplk_pin         |
+| email_us         |
+| faq_pmk          |
+| intro            |
+| intro_flash      |
+| j_quiz           |
+| jawab_faq_pmk    |
+| kantor           |
+| layanan          |
+| log_pmk_akses    |
+| log_pmk_akses_bk |
+| magazine         |
+| mail_service     |
+| memberarea       |
+| newmenu          |
+| p_admin          |
+| p_choices        |
+| p_ip             |
+| p_question       |
+| pengumuman       |
+| pengumuman_cat   |
+| pmk_pin          |
+| produk           |
+| produk_cat       |
+| produk_kel       |
+| produk_sub       |
+| quiz             |
+| static           |
+| static_cat       |
+| upload           |
+| user_quiz        |
+| user_quiz_old    |
+| userid           |
+| vk               |
++------------------+
+
+[*] information_schema
+[*] jsry18jws59
+[*] mysql
+[*] newjiwasraya
+rahasiaDatabase: jsry18jws59
+Table: p_admin
+[1 entry]
++----+----------+----------------------------------+
+| ID | username | password                         |
++----+----------+----------------------------------+
+| 1  | admin    | ac43724f16e9241d990427ab7c8f4228 | rahasia
++----+----------+----------------------------------+
