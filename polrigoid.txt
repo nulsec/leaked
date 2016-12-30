@@ -1,3 +1,78 @@
+[+] Getting nameservers
+120.29.230.230 - dns2.polri.go.id
+120.29.229.229 - dns1.polri.go.id
+118.97.127.217 - dns3.polri.go.id
+[-] Zone transfer failed
+
+[+] TXT records found
+"v=spf1 a mx ip4:139.162.12.252 ip4:118.97.127.201 -all"
+"host:google-site-verification=OcXUTRBue3A7zVQ681F_4ceib1iVRBxQzVxU8Ua_7so"
+
+[+] MX records found, added to target list
+20 mailprotection2.polri.go.id.
+30 mailprotection3.polri.go.id.
+10 mailprotection1.polri.go.id.
+
+[+] Wildcard domain found - 36.86.63.180
+[*] Scanning polri.go.id for A records
+118.97.127.233 - mailprotection1.polri.go.id             
+118.97.127.227 - mail.polri.go.id
+118.97.127.235 - mailprotection2.polri.go.id     
+120.29.225.249 - polri.go.id
+118.97.127.236 - mailprotection3.polri.go.id 
+120.29.225.249 - www.polri.go.id                 
+118.97.127.221 - smtp.polri.go.id            
+118.97.127.225 - webmail.polri.go.id                  
+118.97.127.227 - pop.polri.go.id                    
+120.29.229.229 - cpanel.polri.go.id           
+120.29.229.229 - whm.polri.go.id              
+118.97.127.226 - imap.polri.go.id              
+120.29.229.229 - blog.polri.go.id              
+120.29.229.229 - dev.polri.go.id               
+120.29.228.22 - vpn.polri.go.id                  
+120.29.228.152 - mail2.polri.go.id              
+118.97.127.227 - mx.polri.go.id                 
+120.29.230.230 - dns2.polri.go.id                 
+120.29.229.229 - dns1.polri.go.id              
+120.29.228.229 - chat.polri.go.id                
+120.29.228.151 - mail1.polri.go.id            
+118.97.127.222 - helpdesk.polri.go.id                 
+203.130.236.200 - web1.polri.go.id               
+120.29.228.162 - smtp2.polri.go.id               
+118.97.127.217 - dns3.polri.go.id                 
+203.130.236.222 - hosting.polri.go.id             
+120.29.229.229 - elearning.polri.go.idsp.polri.go.id                              
+120.29.225.101 - fw.polri.go.id                       
+120.29.225.40 - noc.polri.go.id               
+118.97.127.227 - spam.polri.go.id                 
+203.130.236.208 - groups.polri.go.id              
+203.130.236.206 - monitoring.polri.go.id            
+203.130.236.222 - software.polri.go.id               
+118.97.127.202 - nms.polri.go.id                     
+118.97.127.226 - proxy2.polri.go.id               
+120.29.229.230 - edge.polri.go.id                      
+118.97.127.225 - proxy1.polri.go.id              
+120.29.228.153 - mailtest.polri.go.id                    
+118.97.127.243 - lk.polri.go.id                      
+120.29.228.162 - pop2.polri.go.id                   
+118.97.127.227 - proxy3.polri.go.id                    
+203.130.236.211 - hosting2.polri.go.id             
+120.29.228.226 - lpse.polri.go.id                    
+202.69.111.154 - metro.polri.go.id                    
+120.29.228.222 - meetings.polri.go.id                         
+120.29.228.162 - imap2.polri.go.id                               
+118.98.97.165 - eoffice.polri.go.id                     
+118.97.127.228 - proxy4.polri.go.id                              
+120.29.228.43 - spot.polri.go.id                       
+118.97.27.85 - bali.polri.go.id                        
+203.130.236.204 - hosting3.polri.go.id                  
+120.29.229.229 - qrcode.polri.go.id                     
+107.178.97.99 - babel.polri.go.id                        
+118.97.127.229 - proxy5.polri.go.id                             
+120.29.228.4 - smk.polri.go.id                         
+118.97.127.230 - proxy6.polri.go.id                         
+174.120.70.217 - ntt.polri.go.id   
+
 List local network from server polri.go.id
 
 Nmap scan report for 10.100.101.11
