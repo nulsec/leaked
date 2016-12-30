@@ -956,3 +956,9 @@ PORT    STATE SERVICE VERSION
 SF-Port22-TCP:V=6.47%I=7%D=12/21%Time=585A40B2%P=x86_64-redhat-linux-gnu%r
 SF:(NULL,1F,"SSH-2\.0-OpenSSH_6\.2\x20PKIX\x20FIPS\r\n");
 Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+
+
+
+LIST MEMBER FROM AKPOL
+https://1drv.ms/u/s!Ar0PcX_BTdgphizC3dotuuyTV2zr
