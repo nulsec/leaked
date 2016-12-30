@@ -1,3 +1,101 @@
+[+] Getting nameservers
+112.215.37.183 - snbdc-dns2.xl.net.id
+202.152.254.245 - socrates.xl.net.id
+112.215.37.182 - snbdc-dns1.xl.net.id
+202.152.254.246 - hertz.xl.net.id
+[-] Zone transfer failed
+
+[+] IPv6 (AAAA) records found. Try running dnscan with the -6 option.
+64:ff9b::ca98:e052
+
+64:ff9c::ca98:e052
+
+[+] TXT records found
+"MS=ms58499430"
+"GcWtvXH+AYzV4ipe+0/Si1oaUaRK3weetfWln/QjMkrIQvzFUFq9QUlfMieX84hd4JAfkyfv+Y1bXCohqirTxQ=="
+"v=spf1 mx:xl.co.id  ip4:208.74.204.5 ip4:208.74.204.9 include:spf.protection.outlook.com -all"
+
+[+] MX records found, added to target list
+50 mail3.xl.co.id.
+50 mail4.xl.co.id.
+10 mail1.xl.co.id.
+10 mail2.xl.co.id.
+
+[*] Scanning xl.co.id for A records
+202.152.224.136 - webmail.xl.co.id              
+202.152.224.82 - xl.co.id
+202.152.224.82 - www.xl.co.id                 
+202.152.254.245 - ns1.xl.co.id                     
+112.215.37.178 - ns2.xl.co.id
+202.152.224.82 - m.xl.co.id                      
+132.245.43.120 - autodiscover.xl.co.id     
+40.100.20.8 - autodiscover.xl.co.id
+40.100.16.24 - autodiscover.xl.co.id
+40.100.17.24 - autodiscover.xl.co.id
+132.245.254.88 - autodiscover.xl.co.id
+40.96.2.136 - autodiscover.xl.co.id
+40.100.0.200 - autodiscover.xl.co.id
+40.100.54.200 - autodiscover.xl.co.id
+132.245.69.40 - autodiscover.xl.co.id
+202.152.224.63 - mail2.xl.co.id               
+202.152.254.249 - www1.xl.co.id                
+202.152.254.249 - portal.xl.co.id           
+65.49.33.90 - video.xl.co.id
+112.215.105.11 - my.xl.co.id                  
+202.153.129.73 - wap.xl.co.id               
+202.152.224.8 - mail1.xl.co.id             
+202.152.224.29 - ads.xl.co.id                
+202.152.224.152 - apps.xl.co.id                    
+52.113.64.139 - sip.xl.co.id                
+202.152.224.137 - mail3.xl.co.id                 
+52.112.66.14 - lyncdiscover.xl.co.id        
+112.215.105.53 - service.xl.co.id              
+202.152.224.82 - cloud.xl.co.id                
+112.215.81.228 - connect.xl.co.id                           
+112.215.105.25 - speedtest.xl.co.id             
+202.152.254.249 - sso.xl.co.id                     
+202.152.224.138 - mail4.xl.co.id              
+13.67.50.225 - msoid.xl.co.id              
+23.100.112.64 - msoid.xl.co.id
+13.67.50.226 - msoid.xl.co.id
+202.152.224.30 - sslvpn.xl.co.id                 
+202.152.224.135 - corp.xl.co.id            
+54.251.37.78 - love.xl.co.id                      
+202.152.224.60 - corporate.xl.co.id               
+202.152.224.91 - life.xl.co.id                      
+106.187.45.75 - ems.xl.co.id                         
+202.152.224.92 - play.xl.co.id                
+202.152.224.169 - mp.xl.co.id                      
+202.152.224.167 - ims.xl.co.id                    
+128.199.250.248 - wow.xl.co.id                        
+202.152.224.167 - youth.xl.co.id                  
+202.152.224.29 - ads2.xl.co.id                   
+202.152.224.183 - front.xl.co.id                 
+23.92.53.225 - gm.xl.co.id                          
+202.152.224.162 - sipexternal.xl.co.id            
+112.215.105.11 - 123.xl.co.id                   
+54.255.130.217 - awards.xl.co.id                
+119.235.30.33 - csr.xl.co.id                       
+202.152.224.190 - ics.xl.co.id                   
+112.215.105.46 - bpm.xl.co.id                      
+112.215.105.62 - hc.xl.co.id                                  
+202.152.224.165 - failover.xl.co.id                           
+202.152.224.148 - test123.xl.co.id                           
+112.215.105.59 - smt.xl.co.id                        
+184.82.232.192 - east.xl.co.id                    
+202.152.224.192 - prm.xl.co.id                      
+202.153.129.73 - wap1.xl.co.id                      
+202.152.224.89 - spc.xl.co.id                        
+202.152.224.163 - rproxy.xl.co.id                    
+202.152.224.152 - tower.xl.co.id                     
+112.215.105.16 - ccp.xl.co.id                         
+202.152.224.196 - karaoke.xl.co.id                   
+202.152.224.222 - rbt.xl.co.id                        
+202.152.224.82 - m2m.xl.co.id                                
+202.152.224.76 - mbm.xl.co.id                              
+112.215.105.63 - registrasi.xl.co.id 
+
+
 Parameter: number (GET)
     Type: boolean-based blind
     Title: MySQL RLIKE boolean-based blind - WHERE, HAVING, ORDER BY or GROUP BY clause
