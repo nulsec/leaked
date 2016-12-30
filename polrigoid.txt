@@ -1,0 +1,883 @@
+List local network from server polri.go.id
+
+Nmap scan report for 10.100.101.11
+Host is up (0.00064s latency).
+Scanned at 2016-12-21 15:20:41 WIB for 12s
+Not shown: 995 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+22/tcp   open  ssh
+80/tcp   open  http
+111/tcp  open  rpcbind
+3306/tcp open  mysql
+
+Nmap scan report for 10.100.101.31
+Host is up (0.00029s latency).
+Scanned at 2016-12-21 15:20:41 WIB for 87s
+Not shown: 997 filtered ports
+PORT    STATE SERVICE
+22/tcp  open  ssh
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 10.100.101.32
+Host is up (0.00032s latency).
+Scanned at 2016-12-21 15:20:41 WIB for 90s
+Not shown: 997 filtered ports
+PORT    STATE SERVICE
+22/tcp  open  ssh
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 10.100.101.42
+Host is up (0.00045s latency).
+Scanned at 2016-12-21 15:20:41 WIB for 93s
+Not shown: 997 filtered ports
+PORT    STATE  SERVICE
+22/tcp  open   ssh
+80/tcp  open   http
+443/tcp closed https
+
+Nmap scan report for 10.100.101.51
+Host is up (0.00061s latency).
+Scanned at 2016-12-21 15:20:41 WIB for 12s
+Not shown: 995 closed ports
+PORT     STATE SERVICE
+22/tcp   open  ssh
+80/tcp   open  http
+111/tcp  open  rpcbind
+443/tcp  open  https
+3306/tcp open  mysql
+
+Nmap scan report for 10.100.101.52
+Host is up (0.00048s latency).
+Scanned at 2016-12-21 15:20:41 WIB for 93s
+Not shown: 996 filtered ports
+PORT     STATE  SERVICE
+22/tcp   open   ssh
+80/tcp   open   http
+443/tcp  open   https
+2196/tcp closed unknown
+
+Nmap scan report for 10.100.101.53
+Host is up (0.00048s latency).
+Scanned at 2016-12-21 15:20:41 WIB for 93s
+Not shown: 997 filtered ports
+PORT    STATE SERVICE
+22/tcp  open  ssh
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 10.100.101.66
+Host is up (0.00055s latency).
+Scanned at 2016-12-21 15:20:41 WIB for 12s
+Not shown: 995 closed ports
+PORT     STATE SERVICE
+22/tcp   open  ssh
+80/tcp   open  http
+111/tcp  open  rpcbind
+443/tcp  open  https
+3306/tcp open  mysql
+
+Nmap scan report for 10.100.101.91
+Host is up (0.00036s latency).
+Scanned at 2016-12-21 15:20:41 WIB for 145s
+Not shown: 982 closed ports
+PORT     STATE    SERVICE
+80/tcp   open     http
+135/tcp  open     msrpc
+139/tcp  open     netbios-ssn
+443/tcp  open     https
+445/tcp  open     microsoft-ds
+1025/tcp open     NFS-or-IIS
+1026/tcp open     LSA-or-nterm
+1027/tcp open     IIS
+1028/tcp open     unknown
+1031/tcp open     iad2
+1042/tcp open     afrog
+1043/tcp open     boinc
+1044/tcp open     dcutility
+1110/tcp filtered nfsd-status
+1947/tcp open     sentinelsrm
+2383/tcp open     ms-olap4
+3389/tcp open     ms-wbt-server
+5432/tcp open     postgresql
+
+Nmap scan report for 10.100.101.92
+Host is up (0.00039s latency).
+Scanned at 2016-12-21 15:20:41 WIB for 147s
+Not shown: 983 closed ports
+PORT      STATE    SERVICE
+80/tcp    open     http
+85/tcp    filtered mit-ml-dev
+135/tcp   open     msrpc
+139/tcp   open     netbios-ssn
+443/tcp   open     https
+445/tcp   open     microsoft-ds
+902/tcp   open     iss-realsecure
+912/tcp   open     apex-mesh
+1110/tcp  filtered nfsd-status
+3389/tcp  open     ms-wbt-server
+3690/tcp  open     svn
+49152/tcp open     unknown
+49153/tcp open     unknown
+49154/tcp open     unknown
+49155/tcp open     unknown
+49157/tcp open     unknown
+49163/tcp open     unknown
+
+Nmap scan report for 10.100.101.101
+Host is up (0.00044s latency).
+Scanned at 2016-12-21 15:20:41 WIB for 83s
+Not shown: 997 filtered ports
+PORT    STATE SERVICE
+22/tcp  open  ssh
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 10.100.101.102
+Host is up (0.00067s latency).
+Scanned at 2016-12-21 15:20:41 WIB for 12s
+Not shown: 998 closed ports
+PORT    STATE SERVICE
+22/tcp  open  ssh
+111/tcp open  rpcbind
+
+Nmap scan report for 10.100.101.201
+Host is up (0.00043s latency).
+Scanned at 2016-12-21 15:20:41 WIB for 91s
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+22/tcp   open  ssh
+80/tcp   open  http
+443/tcp  open  https
+3306/tcp open  mysql
+
+Nmap scan report for 10.100.101.220
+Host is up (0.00026s latency).
+Scanned at 2016-12-21 15:20:41 WIB for 93s
+Not shown: 994 filtered ports
+PORT     STATE  SERVICE
+22/tcp   open   ssh
+80/tcp   open   http
+139/tcp  open   netbios-ssn
+445/tcp  open   microsoft-ds
+631/tcp  closed ipp
+3306/tcp open   mysql
+
+Nmap scan report for 10.100.101.222
+Host is up (0.00038s latency).
+Scanned at 2016-12-21 15:20:41 WIB for 93s
+Not shown: 997 filtered ports
+PORT    STATE SERVICE
+22/tcp  open  ssh
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 10.100.101.224
+Host is up (0.00038s latency).
+Scanned at 2016-12-21 15:20:41 WIB for 94s
+Not shown: 996 filtered ports
+PORT    STATE SERVICE
+22/tcp  open  ssh
+80/tcp  open  http
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+
+Nmap scan report for 10.100.101.233
+Host is up (0.00062s latency).
+Scanned at 2016-12-21 15:20:41 WIB for 12s
+Not shown: 995 closed ports
+PORT     STATE SERVICE
+22/tcp   open  ssh
+111/tcp  open  rpcbind
+4444/tcp open  krb524
+7001/tcp open  afs3-callback
+8888/tcp open  sun-answerbook
+
+Nmap scan report for 10.100.101.234
+Host is up (0.00039s latency).
+Scanned at 2016-12-21 15:20:41 WIB for 94s
+Not shown: 996 filtered ports
+PORT     STATE  SERVICE
+22/tcp   open   ssh
+80/tcp   open   http
+443/tcp  closed https
+3306/tcp closed mysql
+
+Nmap scan report for 10.100.101.235
+Host is up (0.00029s latency).
+Scanned at 2016-12-21 15:20:41 WIB for 93s
+Not shown: 996 filtered ports
+PORT     STATE  SERVICE
+22/tcp   open   ssh
+80/tcp   open   http
+443/tcp  closed https
+3306/tcp closed mysql
+
+Nmap scan report for 10.100.101.238
+Host is up (0.00034s latency).
+Scanned at 2016-12-21 15:20:41 WIB for 93s
+Not shown: 996 filtered ports
+PORT     STATE  SERVICE
+22/tcp   open   ssh
+80/tcp   open   http
+443/tcp  closed https
+3306/tcp open   mysql
+
+Nmap scan report for 10.100.101.239
+Host is up (0.00059s latency).
+Scanned at 2016-12-21 15:20:41 WIB for 12s
+Not shown: 996 closed ports
+PORT     STATE SERVICE
+22/tcp   open  ssh
+80/tcp   open  http
+111/tcp  open  rpcbind
+3306/tcp open  mysql
+
+Nmap scan report for 10.100.101.240
+Host is up (0.00073s latency).
+Scanned at 2016-12-21 15:20:41 WIB for 12s
+Not shown: 998 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+80/tcp open  http
+
+Nmap scan report for 10.100.101.252
+Host is up (0.00036s latency).
+Scanned at 2016-12-21 15:20:41 WIB for 121s
+Not shown: 997 closed ports
+PORT    STATE SERVICE
+22/tcp  open  ssh
+23/tcp  open  telnet
+161/tcp open  snmp
+
+
+Nmap scan report for 10.100.101.11
+Host is up (0.0012s latency).
+Not shown: 995 closed ports
+PORT     STATE SERVICE VERSION
+21/tcp   open  ftp     vsftpd 2.2.2
+22/tcp   open  ssh     OpenSSH 5.3 (protocol 2.0)
+| ssh-hostkey:
+|   1024 b0:5f:e3:fb:4e:7b:e3:ef:e0:42:e0:e0:f3:a2:dc:7c (DSA)
+|_  2048 c9:22:d7:04:43:49:2c:ba:40:35:a8:22:af:20:82:7f (RSA)
+80/tcp   open  http    Apache httpd 2.2.15 ((CentOS))
+|_http-methods: No Allow or Public header in OPTIONS response (status code 200)
+|_http-title: PUSDOKKES | Beranda
+111/tcp  open  rpcbind 2-4 (RPC #100000)
+| rpcinfo:
+|   program version   port/proto  service
+|   100000  2,3,4        111/tcp  rpcbind
+|   100000  2,3,4        111/udp  rpcbind
+|   100024  1          43019/udp  status
+|_  100024  1          60367/tcp  status
+3306/tcp open  mysql   MySQL 5.1.73
+| mysql-info:
+|   Protocol: 53
+|   Version: .1.73
+|   Thread ID: 115045
+|   Capabilities flags: 63487
+|   Some Capabilities: SupportsCompression, SupportsTransactions, LongPassword, IgnoreSpaceBeforeParenthesis, FoundRows, Speaks41ProtocolOld, LongColumnFlag, IgnoreSigpipes, ConnectWithDatabase, DontAllowDatabaseTableColumn, SupportsLoadDataLocal, InteractiveClient, Speaks41ProtocolNew, ODBCClient, Support41Auth
+|   Status: Autocommit
+|_  Salt: La#*Iou}77Oe0^is)le:
+Service Info: OS: Unix
+
+Nmap scan report for 10.100.101.31
+Host is up (0.00028s latency).
+Not shown: 997 filtered ports
+PORT    STATE SERVICE  VERSION
+22/tcp  open  ssh      OpenSSH 5.3 (protocol 2.0)
+| ssh-hostkey:
+|   1024 b1:8c:8d:a8:1b:b1:ca:a0:a7:7a:86:4b:0f:cf:c9:b2 (DSA)
+|_  2048 a5:b3:32:2e:3d:48:b2:fd:61:1b:75:e1:b2:4b:40:46 (RSA)
+80/tcp  open  http     Apache httpd 2.2.15 ((CentOS))
+|_http-methods: No Allow or Public header in OPTIONS response (status code 200)
+|_http-title: PHP Test
+443/tcp open  ssl/http Apache httpd 2.2.15 ((CentOS))
+|_http-methods: No Allow or Public header in OPTIONS response (status code 200)
+|_http-title: PHP Test
+| ssl-cert: Subject: commonName=localhost.localdomain/organizationName=SomeOrganization/stateOrProvinceName=SomeState/countryName=--
+| Not valid before: 2016-10-22T02:54:36+00:00
+|_Not valid after:  2017-10-22T02:54:36+00:00
+|_ssl-date: 2016-12-21T08:45:04+00:00; -3s from local time.
+
+Nmap scan report for 10.100.101.32
+Host is up (0.00024s latency).
+Not shown: 997 filtered ports
+PORT    STATE SERVICE  VERSION
+22/tcp  open  ssh      OpenSSH 5.3 (protocol 2.0)
+| ssh-hostkey:
+|   1024 af:24:03:a9:d7:b6:f0:bd:91:0e:50:06:b6:05:02:35 (DSA)
+|_  2048 08:15:bc:2f:e0:c5:a9:49:7e:51:93:13:40:e5:83:fd (RSA)
+80/tcp  open  http     Apache httpd 2.2.15 ((CentOS))
+|_http-methods: No Allow or Public header in OPTIONS response (status code 200)
+|_http-title: PHP Test
+443/tcp open  ssl/http Apache httpd 2.2.15 ((CentOS))
+|_http-methods: No Allow or Public header in OPTIONS response (status code 200)
+|_http-title: PHP Test
+| ssl-cert: Subject: commonName=localhost.localdomain/organizationName=SomeOrganization/stateOrProvinceName=SomeState/countryName=--
+| Not valid before: 2016-10-22T04:12:26+00:00
+|_Not valid after:  2017-10-22T04:12:26+00:00
+|_ssl-date: 2016-12-21T08:45:11+00:00; +10s from local time.
+
+Nmap scan report for 10.100.101.42
+Host is up (0.00033s latency).
+Not shown: 997 filtered ports
+PORT    STATE  SERVICE VERSION
+22/tcp  open   ssh     OpenSSH 5.3 (protocol 2.0)
+| ssh-hostkey:
+|   1024 ab:f4:ed:52:66:7e:c8:05:c5:64:6e:df:89:3e:52:31 (DSA)
+|_  2048 77:e4:78:38:3f:5c:7b:c8:f1:47:1f:ee:2e:66:55:6b (RSA)
+80/tcp  open   http
+|_http-methods: No Allow or Public header in OPTIONS response (status code 405)
+|_http-title: SKCK - Kepolisian Republik Indonesia (POLRI)
+443/tcp closed https
+
+Nmap scan report for 10.100.101.51
+Host is up (0.0010s latency).
+Not shown: 995 closed ports
+PORT     STATE SERVICE  VERSION
+22/tcp   open  ssh      OpenSSH 5.3 (protocol 2.0)
+| ssh-hostkey:
+|   1024 df:dd:85:cf:04:d2:85:9d:4d:40:a9:c6:75:00:bd:b0 (DSA)
+|_  2048 ef:cb:30:7f:61:a3:1c:dc:e4:4d:7b:a7:e5:f3:37:d8 (RSA)
+80/tcp   open  http     Apache httpd 2.2.15 ((CentOS))
+|_http-methods: No Allow or Public header in OPTIONS response (status code 302)
+|_http-title: Did not follow redirect to https://10.100.101.51/
+111/tcp  open  rpcbind  2-4 (RPC #100000)
+| rpcinfo:
+|   program version   port/proto  service
+|   100000  2,3,4        111/tcp  rpcbind
+|   100000  2,3,4        111/udp  rpcbind
+|   100024  1          52950/udp  status
+|_  100024  1          54859/tcp  status
+443/tcp  open  ssl/http Apache httpd 2.2.15 ((CentOS))
+|_http-methods: No Allow or Public header in OPTIONS response (status code 200)
+|_http-title: Pengaduan Masyarakat
+| ssl-cert: Subject: commonName=*.polri.go.id/organizationName=Kepolisian Negara Republik Indonesia/stateOrProvinceName=DKI Jakarta/countryName=ID
+| Not valid before: 2015-06-29T00:00:00+00:00
+|_Not valid after:  2018-07-03T12:00:00+00:00
+|_ssl-date: 2016-12-21T08:45:04+00:00; 0s from local time.
+3306/tcp open  mysql    MySQL (unauthorized)
+
+Nmap scan report for 10.100.101.52
+Host is up (0.00036s latency).
+Not shown: 996 filtered ports
+PORT     STATE  SERVICE  VERSION
+22/tcp   open   ssh      OpenSSH 5.3 (protocol 2.0)
+| ssh-hostkey:
+|   1024 10:6f:5c:dc:b5:e8:62:56:14:d3:d3:ba:55:2f:89:c7 (DSA)
+|_  2048 1c:93:be:e0:b1:04:d5:c5:a5:8f:a8:9c:e3:2c:c2:5a (RSA)
+80/tcp   open   http     Apache httpd 2.2.15 ((CentOS))
+|_http-methods: No Allow or Public header in OPTIONS response (status code 302)
+|_http-title: Did not follow redirect to https://10.100.101.52/
+443/tcp  open   ssl/http Apache httpd 2.2.15 ((CentOS))
+|_http-methods: No Allow or Public header in OPTIONS response (status code 200)
+|_http-title: HALO POLISI
+| ssl-cert: Subject: commonName=*.polri.go.id/organizationName=Kepolisian Negara Republik Indonesia/stateOrProvinceName=DKI Jakarta/countryName=ID
+| Not valid before: 2015-06-29T00:00:00+00:00
+|_Not valid after:  2018-07-03T12:00:00+00:00
+|_ssl-date: 2016-12-21T08:45:22+00:00; +20s from local time.
+2196/tcp closed unknown
+
+Nmap scan report for 10.100.101.53
+Host is up (0.00036s latency).
+Not shown: 997 filtered ports
+PORT    STATE SERVICE  VERSION
+22/tcp  open  ssh      OpenSSH 5.3 (protocol 2.0)
+| ssh-hostkey:
+|   1024 21:79:1d:0b:19:12:88:b5:05:1c:31:9b:25:6d:d9:b1 (DSA)
+|_  2048 76:5f:f7:7b:97:da:4b:e0:05:da:77:61:8d:44:a3:49 (RSA)
+80/tcp  open  http     Apache httpd 2.2.15 ((CentOS))
+|_http-methods: No Allow or Public header in OPTIONS response (status code 302)
+|_http-title: Did not follow redirect to https://10.100.101.53/
+443/tcp open  ssl/http Apache httpd 2.2.15 ((CentOS))
+|_http-methods: No Allow or Public header in OPTIONS response (status code 200)
+|_http-title: POLISIKU
+| ssl-cert: Subject: commonName=*.polri.go.id/organizationName=Kepolisian Negara Republik Indonesia/stateOrProvinceName=DKI Jakarta/countryName=ID
+| Not valid before: 2015-06-29T00:00:00+00:00
+|_Not valid after:  2018-07-03T12:00:00+00:00
+|_ssl-date: 2016-12-21T08:45:57+00:00; +58s from local time.
+
+Nmap scan report for 10.100.101.66
+Host is up (0.0010s latency).
+Not shown: 995 closed ports
+PORT     STATE SERVICE  VERSION
+22/tcp   open  ssh      OpenSSH 5.3 (protocol 2.0)
+| ssh-hostkey:
+|   1024 5e:11:a9:a0:09:49:e8:71:0c:4f:61:ee:25:e7:c7:3f (DSA)
+|_  2048 ef:a7:b1:bf:0e:75:35:f2:b3:92:e9:23:66:a8:ee:1a (RSA)
+80/tcp   open  http     Apache httpd 2.2.15 ((CentOS))
+|_http-methods: No Allow or Public header in OPTIONS response (status code 200)
+|_http-title: Sistem Informasi Penerimaan Polri
+111/tcp  open  rpcbind  2-4 (RPC #100000)
+| rpcinfo:
+|   program version   port/proto  service
+|   100000  2,3,4        111/tcp  rpcbind
+|   100000  2,3,4        111/udp  rpcbind
+|   100024  1          35548/tcp  status
+|_  100024  1          47412/udp  status
+443/tcp  open  ssl/http Apache httpd 2.2.15 ((CentOS))
+|_http-methods: No Allow or Public header in OPTIONS response (status code 200)
+|_http-title: Sistem Informasi Penerimaan Polri
+| ssl-cert: Subject: commonName=penerimaan/organizationName=SomeOrganization/stateOrProvinceName=SomeState/countryName=--
+| Not valid before: 2016-02-03T11:27:09+00:00
+|_Not valid after:  2017-02-02T11:27:09+00:00
+|_ssl-date: 2016-12-21T08:45:02+00:00; -2s from local time.
+|_sstp-discover: SSTP is supported.
+3306/tcp open  mysql    MySQL 5.1.73
+| mysql-info:
+|   Protocol: 53
+|   Version: .1.73
+|   Thread ID: 1371142
+|   Capabilities flags: 63487
+|   Some Capabilities: SupportsCompression, SupportsTransactions, LongPassword, IgnoreSpaceBeforeParenthesis, FoundRows, Speaks41ProtocolOld, LongColumnFlag, IgnoreSigpipes, ConnectWithDatabase, DontAllowDatabaseTableColumn, SupportsLoadDataLocal, InteractiveClient, Speaks41ProtocolNew, ODBCClient, Support41Auth
+|   Status: Autocommit
+|_  Salt: E/XN^m+*4bs>xbbG{Vz%
+
+Nmap scan report for 10.100.101.91
+Host is up (0.00034s latency).
+Not shown: 982 closed ports
+PORT     STATE    SERVICE        VERSION
+80/tcp   open     http           Apache httpd 2.4.12 ((Win32) OpenSSL/1.0.1l PHP/5.6.8)
+|_http-methods: No Allow or Public header in OPTIONS response (status code 200)
+|_http-title: Sistem Informasi Aset Polri Sarana & Prasarana (SIAP SARPRAS)
+135/tcp  open     msrpc          Microsoft Windows RPC
+139/tcp  open     netbios-ssn
+443/tcp  open     ssl/http       Apache httpd 2.4.12 ((Win32) OpenSSL/1.0.1l PHP/5.6.8)
+|_http-methods: No Allow or Public header in OPTIONS response (status code 200)
+|_http-title: Sistem Informasi Aset Polri Sarana & Prasarana (SIAP SARPRAS)
+| ssl-cert: Subject: commonName=localhost
+| Not valid before: 2009-11-10T23:48:47+00:00
+|_Not valid after:  2019-11-08T23:48:47+00:00
+|_ssl-date: 1982-09-30T02:19:15+00:00; -34y82d6h25m43s from local time.
+445/tcp  open     netbios-ssn
+1025/tcp open     msrpc          Microsoft Windows RPC
+1026/tcp open     msrpc          Microsoft Windows RPC
+1027/tcp open     msrpc          Microsoft Windows RPC
+1028/tcp open     msrpc          Microsoft Windows RPC
+1031/tcp open     msrpc          Microsoft Windows RPC
+1042/tcp open     msrpc          Microsoft Windows RPC
+1043/tcp open     msrpc          Microsoft Windows RPC
+1044/tcp open     msrpc          Microsoft Windows RPC
+1110/tcp filtered nfsd-status
+1947/tcp open     http           Aladdin HASP license manager 17.02
+|_http-methods: No Allow or Public header in OPTIONS response (status code 501)
+|_http-title: 403 Forbidden
+2383/tcp open     ms-olap4?
+3389/tcp open     ms-wbt-server?
+5432/tcp open     postgresql     PostgreSQL DB
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+|_nbstat: NetBIOS name: SRVCPLUS, NetBIOS user: <unknown>, NetBIOS MAC: 2c:60:0c:73:29:d9 (Quanta Computer)
+| smb-security-mode:
+|   Account that was used for smb scripts: guest
+|   User-level authentication
+|   SMB Security: Challenge/response passwords supported
+|_  Message signing disabled (dangerous, but default)
+|_smbv2-enabled: Server supports SMBv2 protocol
+
+Nmap scan report for 10.100.101.92
+Host is up (0.00037s latency).
+Not shown: 984 closed ports
+PORT      STATE    SERVICE         VERSION
+80/tcp    open     http            Apache Tomcat/Coyote JSP engine 1.1
+|_http-favicon: Apache Tomcat
+|_http-generator: ERROR: Script execution failed (use -d to debug)
+|_http-methods: No Allow or Public header in OPTIONS response (status code 302)
+|_http-title: Did not follow redirect to http://infosarpras.polri.go.id/BOE/BI
+135/tcp   open     msrpc           Microsoft Windows RPC
+139/tcp   open     netbios-ssn
+443/tcp   open     ssl/http        VMware VirtualCenter Web service
+|_http-methods: No Allow or Public header in OPTIONS response (status code 501)
+|_http-title: Site doesn't have a title (text; charset=plain).
+| ssl-cert: Subject: commonName=VMware/countryName=US
+| Not valid before: 2015-10-02T09:07:58+00:00
+|_Not valid after:  2016-10-01T09:07:58+00:00
+445/tcp   open     netbios-ssn
+902/tcp   open     ssl/vmware-auth VMware Authentication Daemon 1.10 (Uses VNC, SOAP)
+912/tcp   open     vmware-auth     VMware Authentication Daemon 1.0 (Uses VNC, SOAP)
+1110/tcp  filtered nfsd-status
+3389/tcp  open     ms-wbt-server?
+3690/tcp  open     svnserve        Subversion
+49152/tcp open     msrpc           Microsoft Windows RPC
+49153/tcp open     msrpc           Microsoft Windows RPC
+49154/tcp open     msrpc           Microsoft Windows RPC
+49155/tcp open     msrpc           Microsoft Windows RPC
+49157/tcp open     msrpc           Microsoft Windows RPC
+49163/tcp open     msrpc           Microsoft Windows RPC
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+|_nbstat: NetBIOS name: SRVCPLUSCSS, NetBIOS user: <unknown>, NetBIOS MAC: 2c:60:0c:73:29:4d (Quanta Computer)
+| smb-security-mode:
+|   Account that was used for smb scripts: guest
+|   User-level authentication
+|   SMB Security: Challenge/response passwords supported
+|_  Message signing disabled (dangerous, but default)
+|_smbv2-enabled: Server supports SMBv2 protocol
+
+Nmap scan report for 10.100.101.101
+Host is up (0.00033s latency).
+Not shown: 997 filtered ports
+PORT    STATE SERVICE  VERSION
+22/tcp  open  ssh      OpenSSH 5.3 (protocol 2.0)
+| ssh-hostkey:
+|   1024 9f:df:36:78:27:2e:82:b2:fe:cc:c5:e3:7b:e5:27:d5 (DSA)
+|_  2048 81:ca:62:6e:51:e4:38:69:b1:1b:39:a1:92:bb:fa:3a (RSA)
+80/tcp  open  http     Apache httpd 2.2.15 ((CentOS))
+|_http-methods: No Allow or Public header in OPTIONS response (status code 302)
+|_http-title: Did not follow redirect to https://10.100.101.101/
+443/tcp open  ssl/http Apache httpd 2.2.15 ((CentOS))
+|_http-methods: No Allow or Public header in OPTIONS response (status code 200)
+|_http-title: POLRI | Website Resmi Kepolisian Negara Republik Indonesia
+| ssl-cert: Subject: commonName=*.polri.go.id/organizationName=Kepolisian Negara Republik Indonesia/stateOrProvinceName=DKI Jakarta/countryName=ID
+| Not valid before: 2015-06-29T00:00:00+00:00
+|_Not valid after:  2018-07-03T12:00:00+00:00
+|_ssl-date: 2016-12-21T08:45:35+00:00; +39s from local time.
+
+Nmap scan report for 10.100.101.102
+Host is up (0.00093s latency).
+Not shown: 998 closed ports
+PORT    STATE SERVICE VERSION
+22/tcp  open  ssh     OpenSSH 5.3 (protocol 2.0)
+| ssh-hostkey:
+|   1024 36:7a:e3:00:e1:23:09:cd:c0:0c:3a:59:e1:6e:39:fb (DSA)
+|_  2048 97:15:0f:5c:7f:20:6a:2d:9d:2d:10:51:44:0a:6a:3a (RSA)
+111/tcp open  rpcbind 2-4 (RPC #100000)
+| rpcinfo:
+|   program version   port/proto  service
+|   100000  2,3,4        111/tcp  rpcbind
+|   100000  2,3,4        111/udp  rpcbind
+|   100024  1          32973/udp  status
+|_  100024  1          52903/tcp  status
+
+Nmap scan report for 10.100.101.201
+Host is up (0.00029s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE  VERSION
+22/tcp   open  ssh      OpenSSH 5.3 (protocol 2.0)
+| ssh-hostkey:
+|   1024 46:55:82:dc:1b:9d:17:16:ca:95:33:a2:cf:43:3d:b0 (DSA)
+|_  2048 92:e8:e2:f2:49:0e:45:28:ba:c0:c8:a9:d8:e6:2d:0c (RSA)
+80/tcp   open  http     Apache httpd 2.2.15 ((CentOS))
+|_http-methods: No Allow or Public header in OPTIONS response (status code 200)
+|_http-title: Seleksi Online Pendidikan Pengembangan Polri
+443/tcp  open  ssl/http Apache httpd 2.2.15 ((CentOS))
+|_http-methods: No Allow or Public header in OPTIONS response (status code 200)
+|_http-title: Seleksi Online Pendidikan Pengembangan Polri
+| ssl-cert: Subject: commonName=localhost.localdomain/organizationName=SomeOrganization/stateOrProvinceName=SomeState/countryName=--
+| Not valid before: 2016-01-14T12:06:26+00:00
+|_Not valid after:  2017-01-13T12:06:26+00:00
+|_ssl-date: 2016-12-21T08:46:09+00:00; +1m10s from local time.
+|_sstp-discover: SSTP is supported.
+3306/tcp open  mysql    MySQL (unauthorized)
+
+Nmap scan report for 10.100.101.220
+Host is up (0.00018s latency).
+Not shown: 994 filtered ports
+PORT     STATE  SERVICE     VERSION
+22/tcp   open   ssh         OpenSSH 4.3 (protocol 2.0)
+|_ssh-hostkey:
+80/tcp   open   http        Apache httpd 2.2.3 ((CentOS))
+| http-methods: Potentially risky methods: TRACE
+|_See http://nmap.org/nsedoc/scripts/http-methods.html
+|_http-title: Apache HTTP Server Test Page powered by CentOS
+139/tcp  open   netbios-ssn Samba smbd 3.X (workgroup: PAMINAL)
+445/tcp  open   netbios-ssn Samba smbd 3.X (workgroup: PAMINAL)
+631/tcp  closed ipp
+3306/tcp open   mysql       MySQL (unauthorized)
+
+Host script results:
+|_nbstat: NetBIOS name: PAMINAL, NetBIOS user: <unknown>, NetBIOS MAC: <unknown> (unknown)
+| smb-os-discovery:
+|   OS: Unix (Samba 3.0.33-3.40.el5_10)
+|   NetBIOS computer name:
+|   Workgroup: PAMINAL
+|_  System time: 2016-12-21T22:45:36+07:00
+| smb-security-mode:
+|   Account that was used for smb scripts: <blank>
+|   User-level authentication
+|   SMB Security: Challenge/response passwords supported
+|_  Message signing disabled (dangerous, but default)
+|_smbv2-enabled: Server doesn't support SMBv2 protocol
+
+Nmap scan report for 10.100.101.222
+Host is up (0.00032s latency).
+Not shown: 997 filtered ports
+PORT    STATE SERVICE  VERSION
+22/tcp  open  ssh      OpenSSH 5.3 (protocol 2.0)
+| ssh-hostkey:
+|   1024 56:54:21:da:84:ae:48:aa:bb:f7:b6:e5:e2:0d:43:26 (DSA)
+|_  2048 75:2f:70:e0:2e:bb:5a:cf:e6:65:44:33:1a:3b:25:7c (RSA)
+80/tcp  open  http     Apache httpd 2.2.15 ((CentOS))
+|_http-methods: No Allow or Public header in OPTIONS response (status code 302)
+| http-title: Site doesn't have a title (text/html; charset=UTF-8).
+|_Requested resource was prelogin.php
+443/tcp open  ssl/http Apache httpd 2.2.15 ((CentOS))
+|_http-methods: No Allow or Public header in OPTIONS response (status code 302)
+| http-title: Site doesn't have a title (text/html; charset=UTF-8).
+|_Requested resource was prelogin.php
+| ssl-cert: Subject: commonName=app-programprioritaskapolri/organizationName=SomeOrganization/stateOrProvinceName=SomeState/countryName=--
+| Not valid before: 2016-04-14T06:55:28+00:00
+|_Not valid after:  2017-04-14T06:55:28+00:00
+|_ssl-date: 2016-12-21T08:45:35+00:00; +33s from local time.
+
+Nmap scan report for 10.100.101.224
+Host is up (0.00028s latency).
+Not shown: 996 filtered ports
+PORT    STATE SERVICE     VERSION
+22/tcp  open  ssh         OpenSSH 5.3 (protocol 2.0)
+| ssh-hostkey:
+|   1024 82:1e:c1:40:1c:1a:b9:f2:85:ee:b9:ec:d9:60:3a:f5 (DSA)
+|_  2048 2a:ed:31:b0:8a:3d:47:95:45:9c:be:a5:da:28:e2:fe (RSA)
+80/tcp  open  http        Apache httpd 2.2.15 ((CentOS))
+|_http-methods: No Allow or Public header in OPTIONS response (status code 200)
+|_http-title: Bagrimdik PNS Rodalpers SSDM Polri
+139/tcp open  netbios-ssn Samba smbd 3.X (workgroup: SSDM)
+445/tcp open  netbios-ssn Samba smbd 3.X (workgroup: SSDM)
+
+Host script results:
+| smb-os-discovery:
+|   OS: Unix (Samba 3.6.23-35.el6_8)
+|   NetBIOS computer name:
+|   Workgroup: SSDM
+|_  System time: 2016-12-21T15:44:42+07:00
+| smb-security-mode:
+|   Account that was used for smb scripts: guest
+|   User-level authentication
+|   SMB Security: Challenge/response passwords supported
+|_  Message signing disabled (dangerous, but default)
+|_smbv2-enabled: Server doesn't support SMBv2 protocol
+
+Nmap scan report for 10.100.101.233
+Host is up (0.00094s latency).
+Not shown: 995 closed ports
+PORT     STATE SERVICE         VERSION
+22/tcp   open  ssh             OpenSSH 5.3 (protocol 2.0)
+| ssh-hostkey:
+|   1024 b9:3e:35:b1:e3:13:53:ff:59:a2:65:1d:d9:a5:df:6c (DSA)
+|_  2048 71:a7:11:3f:1d:c2:df:33:3e:2d:91:e1:54:4b:a6:34 (RSA)
+111/tcp  open  rpcbind         2-4 (RPC #100000)
+| rpcinfo:
+|   program version   port/proto  service
+|   100000  2,3,4        111/tcp  rpcbind
+|   100000  2,3,4        111/udp  rpcbind
+|   100024  1          34603/udp  status
+|_  100024  1          49209/tcp  status
+4444/tcp open  krb524?
+7001/tcp open  afs3-callback   WebLogic application server 12.2.1.1 (T3 enabled)
+|_weblogic-t3-info: T3 protocol in use (WebLogic version: 12.2.1.1)
+8888/tcp open  sun-answerbook?
+2 services unrecognized despite returning data. If you know the service/version, please submit the following fingerprints at http://www.insecure.org/cgi-bin/servicefp-submit.cgi :
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port4444-TCP:V=6.47%I=7%D=12/21%Time=585A40A5%P=x86_64-redhat-linux-gnu
+SF:%r(GetRequest,1A9,"HTTP/1\.1\x20502\x20Bad\x20Gateway\r\nContent-Type:\
+SF:x20text/html\r\nContent-Length:\x20351\r\n\r\n<html>\n<head>\n<meta\x20
+SF:http-equiv=\"Content-Type\"\x20content=\"text/html;\x20charset=utf-8\">
+SF:\n<title>\nContent\x20Server\x20Message</title></head>\n<body>\nNetwork
+SF:\x20message\x20format\x20error\.\x20Unable\x20to\x20parse\x20browser\x2
+SF:0environment\x20or\x20content\x20item\.\x20Unable\x20to\x20parse\x20pro
+SF:perties\.\x20Name-value\x20pair\x20'GET\x20/\x20HTTP/1\.0'\x20is\x20mis
+SF:sing\x20an\x20equal\x20sign\x20\(=\)\.\n<!---\nStatusCode=-1\n---!>\n</
+SF:body>\n</html>\n")%r(SSLv23SessionReq,1F4,"HTTP/1\.1\x20502\x20Bad\x20G
+SF:ateway\r\nContent-Type:\x20text/html\r\nContent-Length:\x20426\r\n\r\n<
+SF:html>\n<head>\n<meta\x20http-equiv=\"Content-Type\"\x20content=\"text/h
+SF:tml;\x20charset=utf-8\">\n<title>\nContent\x20Server\x20Message</title>
+SF:</head>\n<body>\nNetwork\x20message\x20format\x20error\.\x20Unable\x20t
+SF:o\x20parse\x20browser\x20environment\x20or\x20content\x20item\.\x20Unab
+SF:le\x20to\x20parse\x20properties\.\x20Name-value\x20pair\x20'\xef\xbe\x8
+SF:0\xef\xbe\x9e\x01\x03\x01\0u\0\0\0\x20\0\0f\0\0e\0\0d\0\0c\0\0b\0\0:\0\
+SF:x009\0\x008\0\x005\0\x004\0\x003\0\x002\0\0/\0\0\x1b\0\0\x1a\0\0\x19\0\
+SF:0\x18\0\0\x17\0\0\x16\0\0\x15\0\0\x14\0\0\x13\0\0\x12\0\0\x11\0\0'\x20i
+SF:s\x20missing\x20an\x20equal\x20sign\x20\(=\)\.\n<!---\nStatusCode=-1\n-
+SF:--!>\n</body>\n</html>\n")%r(GenericLines,1AC,"HTTP/1\.1\x20502\x20Bad\
+SF:x20Gateway\r\nContent-Type:\x20text/html\r\nContent-Length:\x20354\r\n\
+SF:r\n<html>\n<head>\n<meta\x20http-equiv=\"Content-Type\"\x20content=\"te
+SF:xt/html;\x20charset=utf-8\">\n<title>\nContent\x20Server\x20Message</ti
+SF:tle></head>\n<body>\nNetwork\x20message\x20format\x20error\.\x20Unable\
+SF:x20to\x20parse\x20browser\x20environment\x20or\x20content\x20item\.\x20
+SF:Unable\x20to\x20parse\x20properties\.\x20Name-value\x20pair\x20&#60;und
+SF:efined&#62;\x20is\x20missing\x20an\x20equal\x20sign\x20\(=\)\.\n<!---\n
+SF:StatusCode=-1\n---!>\n</body>\n</html>\n")%r(HTTPOptions,1AD,"HTTP/1\.1
+SF:\x20502\x20Bad\x20Gateway\r\nContent-Type:\x20text/html\r\nContent-Leng
+SF:th:\x20355\r\n\r\n<html>\n<head>\n<meta\x20http-equiv=\"Content-Type\"\
+SF:x20content=\"text/html;\x20charset=utf-8\">\n<title>\nContent\x20Server
+SF:\x20Message</title></head>\n<body>\nNetwork\x20message\x20format\x20err
+SF:or\.\x20Unable\x20to\x20parse\x20browser\x20environment\x20or\x20conten
+SF:t\x20item\.\x20Unable\x20to\x20parse\x20properties\.\x20Name-value\x20p
+SF:air\x20'OPTIONS\x20/\x20HTTP/1\.0'\x20is\x20missing\x20an\x20equal\x20s
+SF:ign\x20\(=\)\.\n<!---\nStatusCode=-1\n---!>\n</body>\n</html>\n");
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port8888-TCP:V=6.47%I=7%D=12/21%Time=585A40A6%P=x86_64-redhat-linux-gnu
+SF:%r(GetRequest,51C,"HTTP/1\.1\x20404\x20Not\x20Found\r\nConnection:\x20c
+SF:lose\r\nDate:\x20Wed,\x2021\x20Dec\x202016\x2008:44:18\x20GMT\r\nConten
+SF:t-Length:\x201164\r\nContent-Type:\x20text/html;\x20charset=UTF-8\r\n\r
+SF:\n<!DOCTYPE\x20HTML\x20PUBLIC\x20\"-//W3C//DTD\x20HTML\x204\.0\x20Draft
+SF://EN\">\n<HTML>\n<HEAD>\n<TITLE>Error\x20404--Not\x20Found</TITLE>\n</H
+SF:EAD>\n<BODY\x20bgcolor=\"white\">\n<FONT\x20FACE=Helvetica><BR\x20CLEAR
+SF:=all>\n<TABLE\x20border=0\x20cellspacing=5><TR><TD><BR\x20CLEAR=all>\n<
+SF:FONT\x20FACE=\"Helvetica\"\x20COLOR=\"black\"\x20SIZE=\"3\"><H2>Error\x
+SF:20404--Not\x20Found</H2>\n</FONT></TD></TR>\n</TABLE>\n<TABLE\x20border
+SF:=0\x20width=100%\x20cellpadding=10><TR><TD\x20VALIGN=top\x20WIDTH=100%\
+SF:x20BGCOLOR=white><FONT\x20FACE=\"Courier\x20New\"><FONT\x20FACE=\"Helve
+SF:tica\"\x20SIZE=\"3\"><H3>From\x20RFC\x202068\x20<i>Hypertext\x20Transfe
+SF:r\x20Protocol\x20--\x20HTTP/1\.1</i>:</H3>\n</FONT><FONT\x20FACE=\"Helv
+SF:etica\"\x20SIZE=\"3\"><H4>10\.4\.5\x20404\x20Not\x20Found</H4>\n</FONT>
+SF:<P><FONT\x20FACE=\"Courier\x20New\">The\x20server\x20has\x20not\x20foun
+SF:d\x20anything\x20matching\x20the\x20Request-URI\.\x20No\x20indication\x
+SF:20is\x20given\x20of\x20whether\x20the\x20condition\x20i")%r(HTTPOptions
+SF:,51C,"HTTP/1\.1\x20404\x20Not\x20Found\r\nConnection:\x20close\r\nDate:
+SF:\x20Wed,\x2021\x20Dec\x202016\x2008:44:18\x20GMT\r\nContent-Length:\x20
+SF:1164\r\nContent-Type:\x20text/html;\x20charset=UTF-8\r\n\r\n<!DOCTYPE\x
+SF:20HTML\x20PUBLIC\x20\"-//W3C//DTD\x20HTML\x204\.0\x20Draft//EN\">\n<HTM
+SF:L>\n<HEAD>\n<TITLE>Error\x20404--Not\x20Found</TITLE>\n</HEAD>\n<BODY\x
+SF:20bgcolor=\"white\">\n<FONT\x20FACE=Helvetica><BR\x20CLEAR=all>\n<TABLE
+SF:\x20border=0\x20cellspacing=5><TR><TD><BR\x20CLEAR=all>\n<FONT\x20FACE=
+SF:\"Helvetica\"\x20COLOR=\"black\"\x20SIZE=\"3\"><H2>Error\x20404--Not\x2
+SF:0Found</H2>\n</FONT></TD></TR>\n</TABLE>\n<TABLE\x20border=0\x20width=1
+SF:00%\x20cellpadding=10><TR><TD\x20VALIGN=top\x20WIDTH=100%\x20BGCOLOR=wh
+SF:ite><FONT\x20FACE=\"Courier\x20New\"><FONT\x20FACE=\"Helvetica\"\x20SIZ
+SF:E=\"3\"><H3>From\x20RFC\x202068\x20<i>Hypertext\x20Transfer\x20Protocol
+SF:\x20--\x20HTTP/1\.1</i>:</H3>\n</FONT><FONT\x20FACE=\"Helvetica\"\x20SI
+SF:ZE=\"3\"><H4>10\.4\.5\x20404\x20Not\x20Found</H4>\n</FONT><P><FONT\x20F
+SF:ACE=\"Courier\x20New\">The\x20server\x20has\x20not\x20found\x20anything
+SF:\x20matching\x20the\x20Request-URI\.\x20No\x20indication\x20is\x20given
+SF:\x20of\x20whether\x20the\x20condition\x20i");
+
+Nmap scan report for 10.100.101.234
+Host is up (0.00029s latency).
+Not shown: 996 filtered ports
+PORT     STATE  SERVICE VERSION
+22/tcp   open   ssh     OpenSSH 5.3 (protocol 2.0)
+| ssh-hostkey:
+|   1024 e1:c4:9d:ce:82:19:52:84:15:49:1d:4b:89:d3:99:64 (DSA)
+|_  2048 fa:d9:d9:d8:9a:56:7f:76:ad:8f:fe:b4:9c:2a:86:93 (RSA)
+80/tcp   open   http    nginx 1.10.1
+|_http-methods: No Allow or Public header in OPTIONS response (status code 405)
+|_http-title: Site doesn't have a title (text/html).
+443/tcp  closed https
+3306/tcp closed mysql
+
+Nmap scan report for 10.100.101.235
+Host is up (0.00025s latency).
+Not shown: 996 filtered ports
+PORT     STATE  SERVICE VERSION
+22/tcp   open   ssh     OpenSSH 5.3 (protocol 2.0)
+| ssh-hostkey:
+|   1024 e3:1d:87:17:73:0c:54:a8:a9:30:26:40:b1:be:33:95 (DSA)
+|_  2048 ec:ec:bd:dc:f7:01:4a:cc:e3:ad:a0:44:62:00:f7:aa (RSA)
+80/tcp   open   http    nginx 1.10.1
+|_http-methods: No Allow or Public header in OPTIONS response (status code 405)
+|_http-title: Site doesn't have a title (text/html).
+443/tcp  closed https
+3306/tcp closed mysql
+
+Nmap scan report for 10.100.101.238
+Host is up (0.00031s latency).
+Not shown: 996 filtered ports
+PORT     STATE  SERVICE VERSION
+22/tcp   open   ssh     OpenSSH 5.3 (protocol 2.0)
+| ssh-hostkey:
+|   1024 c3:fc:03:35:0e:14:79:0b:a5:e6:8e:53:27:8d:93:0b (DSA)
+|_  2048 5e:de:fb:27:5d:9e:89:3b:75:61:39:d1:ba:92:a8:85 (RSA)
+80/tcp   open   http    Apache httpd 2.2.15 ((CentOS))
+|_http-generator: ERROR: Script execution failed (use -d to debug)
+|_http-methods: No Allow or Public header in OPTIONS response (status code 302)
+| http-robots.txt: 1 disallowed entry
+|_/
+|_http-title: Did not follow redirect to http://120.29.228.238/admin
+443/tcp  closed https
+3306/tcp open   mysql   MySQL 5.5.51-log
+| mysql-info:
+|   Protocol: 53
+|   Version: .5.51-log
+|   Thread ID: 53497756
+|   Capabilities flags: 63487
+|   Some Capabilities: SupportsCompression, SupportsTransactions, LongPassword, IgnoreSpaceBeforeParenthesis, FoundRows, Speaks41ProtocolOld, LongColumnFlag, IgnoreSigpipes, ConnectWithDatabase, DontAllowDatabaseTableColumn, SupportsLoadDataLocal, InteractiveClient, Speaks41ProtocolNew, ODBCClient, Support41Auth
+|   Status: Autocommit
+|_  Salt: 0e.T<l0FN7f{Z1"WqQ"T
+
+Nmap scan report for 10.100.101.239
+Host is up (0.00098s latency).
+Not shown: 996 closed ports
+PORT     STATE SERVICE VERSION
+22/tcp   open  ssh     OpenSSH 5.3 (protocol 2.0)
+| ssh-hostkey:
+|   1024 78:cf:ef:bd:31:b1:ef:d3:f4:88:2c:8e:b3:85:1d:79 (DSA)
+|_  2048 2d:f7:84:1a:94:f2:6d:d8:87:66:ab:db:ce:18:6d:1f (RSA)
+80/tcp   open  http    Apache httpd 2.2.15 ((CentOS))
+|_http-methods: No Allow or Public header in OPTIONS response (status code 302)
+| http-title: Login
+|_Requested resource was http://10.100.101.239/index.php/site/login
+111/tcp  open  rpcbind 2-4 (RPC #100000)
+| rpcinfo:
+|   program version   port/proto  service
+|   100000  2,3,4        111/tcp  rpcbind
+|   100000  2,3,4        111/udp  rpcbind
+|   100024  1          40236/tcp  status
+|_  100024  1          47046/udp  status
+3306/tcp open  mysql?
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at http://www.insecure.org/cgi-bin/servicefp-submit.cgi :
+SF-Port3306-TCP:V=6.47%I=7%D=12/21%Time=585A40A9%P=x86_64-redhat-linux-gnu
+SF:%r(NULL,4C,"H\0\0\0\xffj\x04Host\x20'10\.100\.101\.51'\x20is\x20not\x20
+SF:allowed\x20to\x20connect\x20to\x20this\x20MariaDB\x20server")%r(Generic
+SF:Lines,4C,"H\0\0\0\xffj\x04Host\x20'10\.100\.101\.51'\x20is\x20not\x20al
+SF:lowed\x20to\x20connect\x20to\x20this\x20MariaDB\x20server")%r(GetReques
+SF:t,4C,"H\0\0\0\xffj\x04Host\x20'10\.100\.101\.51'\x20is\x20not\x20allowe
+SF:d\x20to\x20connect\x20to\x20this\x20MariaDB\x20server")%r(HTTPOptions,4
+SF:C,"H\0\0\0\xffj\x04Host\x20'10\.100\.101\.51'\x20is\x20not\x20allowed\x
+SF:20to\x20connect\x20to\x20this\x20MariaDB\x20server")%r(RTSPRequest,4C,"
+SF:H\0\0\0\xffj\x04Host\x20'10\.100\.101\.51'\x20is\x20not\x20allowed\x20t
+SF:o\x20connect\x20to\x20this\x20MariaDB\x20server")%r(RPCCheck,4C,"H\0\0\
+SF:0\xffj\x04Host\x20'10\.100\.101\.51'\x20is\x20not\x20allowed\x20to\x20c
+SF:onnect\x20to\x20this\x20MariaDB\x20server")%r(DNSVersionBindReq,4C,"H\0
+SF:\0\0\xffj\x04Host\x20'10\.100\.101\.51'\x20is\x20not\x20allowed\x20to\x
+SF:20connect\x20to\x20this\x20MariaDB\x20server")%r(DNSStatusRequest,4C,"H
+SF:\0\0\0\xffj\x04Host\x20'10\.100\.101\.51'\x20is\x20not\x20allowed\x20to
+SF:\x20connect\x20to\x20this\x20MariaDB\x20server")%r(Help,4C,"H\0\0\0\xff
+SF:j\x04Host\x20'10\.100\.101\.51'\x20is\x20not\x20allowed\x20to\x20connec
+SF:t\x20to\x20this\x20MariaDB\x20server")%r(SSLSessionReq,4C,"H\0\0\0\xffj
+SF:\x04Host\x20'10\.100\.101\.51'\x20is\x20not\x20allowed\x20to\x20connect
+SF:\x20to\x20this\x20MariaDB\x20server")%r(Kerberos,4C,"H\0\0\0\xffj\x04Ho
+SF:st\x20'10\.100\.101\.51'\x20is\x20not\x20allowed\x20to\x20connect\x20to
+SF:\x20this\x20MariaDB\x20server")%r(SMBProgNeg,4C,"H\0\0\0\xffj\x04Host\x
+SF:20'10\.100\.101\.51'\x20is\x20not\x20allowed\x20to\x20connect\x20to\x20
+SF:this\x20MariaDB\x20server")%r(X11Probe,4C,"H\0\0\0\xffj\x04Host\x20'10\
+SF:.100\.101\.51'\x20is\x20not\x20allowed\x20to\x20connect\x20to\x20this\x
+SF:20MariaDB\x20server")%r(FourOhFourRequest,4C,"H\0\0\0\xffj\x04Host\x20'
+SF:10\.100\.101\.51'\x20is\x20not\x20allowed\x20to\x20connect\x20to\x20thi
+SF:s\x20MariaDB\x20server")%r(LPDString,4C,"H\0\0\0\xffj\x04Host\x20'10\.1
+SF:00\.101\.51'\x20is\x20not\x20allowed\x20to\x20connect\x20to\x20this\x20
+SF:MariaDB\x20server");
+
+Nmap scan report for 10.100.101.240
+Host is up (0.00044s latency).
+Not shown: 998 closed ports
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     (protocol 2.0)
+| ssh-hostkey:
+|   1024 30:61:cd:c4:32:95:8b:f8:6e:18:20:39:08:01:4d:81 (DSA)
+|   2048 bc:b3:9d:88:74:b9:e7:67:8b:f5:d4:01:28:23:0e:18 (RSA)
+|_  256 40:6a:65:45:59:46:93:fb:27:ff:60:8b:ae:7c:6c:42 (ECDSA)
+80/tcp open  http    Apache httpd 2.4.7 ((Ubuntu))
+|_http-title: Apache2 Ubuntu Default Page: It works
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at http://www.insecure.org/cgi-bin/servicefp-submit.cgi :
+SF-Port22-TCP:V=6.47%I=7%D=12/21%Time=585A40AF%P=x86_64-redhat-linux-gnu%r
+SF:(NULL,2B,"SSH-2\.0-OpenSSH_6\.6\.1p1\x20Ubuntu-2ubuntu2\.8\r\n");
+
+Nmap scan report for 10.100.101.252
+Host is up (0.064s latency).
+Not shown: 997 closed ports
+PORT    STATE SERVICE VERSION
+22/tcp  open  ssh     (protocol 2.0)
+| ssh-hostkey:
+|_  1024 fd:7c:ef:7c:c2:23:b2:74:88:5f:75:2b:e9:93:dc:f5 (RSA)
+23/tcp  open  telnet  Linux telnetd
+161/tcp open  snmp?
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at http://www.insecure.org/cgi-bin/servicefp-submit.cgi :
+SF-Port22-TCP:V=6.47%I=7%D=12/21%Time=585A40B2%P=x86_64-redhat-linux-gnu%r
+SF:(NULL,1F,"SSH-2\.0-OpenSSH_6\.2\x20PKIX\x20FIPS\r\n");
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
