@@ -1,0 +1,364 @@
+[+] Getting nameservers
+103.202.227.5 - ns2.banyuwangikab.go.id
+103.202.227.3 - noc.banyuwangikab.go.id
+[+] Zone transfer sucessful using nameserver noc.banyuwangikab.go.id
+banyuwangikab.go.id. 38400 IN SOA noc.banyuwangikab.go.id. noc.banyuwangikab.go.id. 176 1398261966 10800 3600 604800
+banyuwangikab.go.id. 38400 IN TXT "v=spf1 mx mx:mail.banyuwangikab.go.id ip4:103.202.227.0/24 -all"
+banyuwangikab.go.id. 38400 IN TXT "google-site-verification=CYsLS6sQwdhsIDOcsZCCD71B4OpJI8TrCfF3KktGZpc"
+banyuwangikab.go.id. 38400 IN NS noc.banyuwangikab.go.id.
+banyuwangikab.go.id. 38400 IN NS ns1.banyuwangikab.go.id.
+banyuwangikab.go.id. 38400 IN NS ns2.banyuwangikab.go.id.
+banyuwangikab.go.id. 38400 IN NS ns3.banyuwangikab.go.id.
+banyuwangikab.go.id. 38400 IN NS ns4.banyuwangikab.go.id.
+banyuwangikab.go.id. 38400 IN NS ns5.banyuwangikab.go.id.
+banyuwangikab.go.id. 14400 IN A 118.98.64.178
+banyuwangikab.go.id. 14400 IN MX 10 mail.banyuwangikab.go.id.
+dkim._domainkey.banyuwangikab.go.id. 38400 IN TXT "v=DKIM1; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCuYpomcVYfnZFfcHLP1Stqcf/y3HVViIRWDeYenrzadmykrtIe8bCDFHJ4lRBiOeeCu7B5w2pIEinkX+AVrUN/EAtaAAWHE1SgqwU5W03aa8HQgxk/ET/6Wa1B3GBFcVnNR+6gV33Dy4wmWL8OC8LYuYF69bPwL7HtTGIP9hNsgwIDAQAB"
+email._domainkey.banyuwangikab.go.id. 38400 IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQChm9jIvT5BPg6EVM0U+DAfpwvbq9y618LS3OloGEAQ+ovIWhQqJ3BmaOmDLQCapFYK4iaLrFptPOSJWhzNFnZ9TS6CAnoBY/Kk4++4Wo9hYj2udYwXZ7ggbJ5FCzyLkhDSjrm5ZCnbPzT9Qj9cKqDzg1PLTKm7JJ0Mwx3MO2OJhQIDAQAB"
+accrual.banyuwangikab.go.id. 38400 IN A 103.202.227.3
+admin.banyuwangikab.go.id. 38400 IN A 118.98.64.178
+akta.banyuwangikab.go.id. 38400 IN A 103.202.227.22
+album.banyuwangikab.go.id. 14400 IN A 103.202.227.31
+api.banyuwangikab.go.id. 38400 IN A 118.98.64.178
+api2.banyuwangikab.go.id. 38400 IN A 103.202.227.24
+appdesa.banyuwangikab.go.id. 38400 IN A 103.202.227.13
+arsip.banyuwangikab.go.id. 14400 IN A 103.202.227.24
+bangorejo.banyuwangikab.go.id. 14400 IN A 103.202.227.22
+bappeda.banyuwangikab.go.id. 14400 IN A 118.98.64.180
+baz.banyuwangikab.go.id. 38400 IN A 118.98.64.179
+bazda.banyuwangikab.go.id. 38400 IN A 103.202.227.22
+bcc.banyuwangikab.go.id. 38400 IN A 103.202.227.23
+bkbl.banyuwangikab.go.id. 14400 IN A 103.202.227.3
+bkd.banyuwangikab.go.id. 14400 IN A 103.202.227.23
+blh.banyuwangikab.go.id. 38400 IN A 103.202.227.23
+bnc.banyuwangikab.go.id. 14400 IN A 103.202.227.24
+bnc3.banyuwangikab.go.id. 14400 IN A 118.98.64.178
+bnk.banyuwangikab.go.id. 14400 IN A 222.124.210.251
+bpbd.banyuwangikab.go.id. 38400 IN A 103.202.227.23
+bpkad.banyuwangikab.go.id. 38400 IN A 103.202.227.23
+bpm.banyuwangikab.go.id. 38400 IN A 103.202.227.23
+bppkb.banyuwangikab.go.id. 38400 IN A 103.202.227.23
+cermin.banyuwangikab.go.id. 14400 IN A 103.202.227.10
+chat.banyuwangikab.go.id. 38400 IN A 118.98.64.178
+cluring.banyuwangikab.go.id. 14400 IN A 103.202.227.22
+cs.banyuwangikab.go.id. 38400 IN A 103.202.227.31
+dapodik.banyuwangikab.go.id. 38400 IN A 103.202.227.44
+dataprimer.banyuwangikab.go.id. 14400 IN A 222.124.210.251
+demo.banyuwangikab.go.id. 38400 IN A 103.202.227.32
+demografi.banyuwangikab.go.id. 38400 IN A 118.98.64.180
+dinaspu.banyuwangikab.go.id. 38400 IN A 103.202.227.23
+dinkes.banyuwangikab.go.id. 14400 IN A 103.202.227.41
+diperta.banyuwangikab.go.id. 38400 IN A 103.202.227.23
+dishubkominfo.banyuwangikab.go.id. 14400 IN A 103.202.227.23
+diskopumkm.banyuwangikab.go.id. 38400 IN A 103.202.227.23
+dislautkan.banyuwangikab.go.id. 38400 IN A 103.202.227.52
+disnak.banyuwangikab.go.id. 38400 IN A 103.202.227.23
+diso.banyuwangikab.go.id. 38400 IN A 103.202.227.22
+dispenda.banyuwangikab.go.id. 38400 IN A 103.202.227.23
+dispendik.banyuwangikab.go.id. 38400 IN A 103.202.227.24
+dispenduk.banyuwangikab.go.id. 14400 IN A 103.202.227.23
+dispendukcapil.banyuwangikab.go.id. 38400 IN A 103.202.227.23
+disperindagtam.banyuwangikab.go.id. 38400 IN A 103.202.227.23
+display.banyuwangikab.go.id. 38400 IN A 103.202.227.23
+dispora.banyuwangikab.go.id. 38400 IN A 103.202.227.23
+distanhutbun.banyuwangikab.go.id. 38400 IN A 103.202.227.23
+dkp.banyuwangikab.go.id. 38400 IN A 103.202.227.23
+dpmptspbwi.banyuwangikab.go.id. 38400 IN A 103.202.227.23
+dppkd.banyuwangikab.go.id. 14400 IN A 203.130.251.39
+dprd.banyuwangikab.go.id. 38400 IN A 103.202.227.23
+e-sakip.banyuwangikab.go.id. 38400 IN A 103.202.227.57
+ekinerja.banyuwangikab.go.id. 38400 IN A 103.202.227.15
+ekonomi.banyuwangikab.go.id. 38400 IN A 103.202.227.23
+emoneva.banyuwangikab.go.id. 38400 IN A 103.202.227.57
+ems.banyuwangikab.go.id. 38400 IN A 103.202.227.27
+eperformance.banyuwangikab.go.id. 38400 IN A 103.202.227.15
+evb.banyuwangikab.go.id. 14400 IN A 103.202.227.3
+forum.banyuwangikab.go.id. 14400 IN A 103.202.227.3
+ftp.banyuwangikab.go.id. 38400 IN A 118.98.64.178
+ga.banyuwangikab.go.id. 38400 IN A 103.202.227.59
+gallery.banyuwangikab.go.id. 14400 IN A 118.98.64.178
+gambiran.banyuwangikab.go.id. 14400 IN A 103.202.227.22
+genteng.banyuwangikab.go.id. 14400 IN A 103.202.227.22
+giri.banyuwangikab.go.id. 14400 IN A 103.202.227.22
+gis.banyuwangikab.go.id. 14400 IN A 103.202.227.44
+glagah.banyuwangikab.go.id. 14400 IN A 103.202.227.22
+glenmore.banyuwangikab.go.id. 14400 IN A 103.202.227.22
+helpdesk.banyuwangikab.go.id. 38400 IN A 103.202.227.22
+hibah.banyuwangikab.go.id. 38400 IN A 103.202.227.27
+hk.banyuwangikab.go.id. 14400 IN A 192.168.253.4
+inklusif.banyuwangikab.go.id. 38400 IN A 103.202.227.23
+inspektorat.banyuwangikab.go.id. 38400 IN A 103.202.227.23
+inventory.banyuwangikab.go.id. 38400 IN A 103.202.227.30
+jdih.banyuwangikab.go.id. 38400 IN A 103.202.227.23
+kabat.banyuwangikab.go.id. 14400 IN A 103.202.227.22
+kalibaru.banyuwangikab.go.id. 14400 IN A 103.202.227.22
+kaligondo.banyuwangikab.go.id. 14400 IN A 103.202.227.23
+kalipuro.banyuwangikab.go.id. 14400 IN A 103.202.227.22
+kantaya.banyuwangikab.go.id. 14400 IN A 103.202.227.3
+kesbangpol.banyuwangikab.go.id. 38400 IN A 103.52.146.75
+kesenian.banyuwangikab.go.id. 38400 IN A 103.202.227.22
+kinerja.banyuwangikab.go.id. 38400 IN A 103.202.227.39
+kkp.banyuwangikab.go.id. 14400 IN A 103.202.227.3
+klinikumkm.banyuwangikab.go.id. 38400 IN A 103.202.227.23
+kota.banyuwangikab.go.id. 14400 IN A 103.202.227.22
+licin.banyuwangikab.go.id. 14400 IN A 103.202.227.22
+live.banyuwangikab.go.id. 38400 IN A 118.98.64.178
+localhost.banyuwangikab.go.id. 38400 IN A 127.0.0.1
+lpm.banyuwangikab.go.id. 38400 IN A 118.98.64.178
+lppd.banyuwangikab.go.id. 38400 IN A 103.202.227.15
+lpse.banyuwangikab.go.id. 3600 IN A 103.202.227.16
+m.banyuwangikab.go.id. 38400 IN A 118.98.64.178
+mail.banyuwangikab.go.id. 14400 IN A 103.202.227.4
+media.banyuwangikab.go.id. 38400 IN A 103.202.227.31
+meeting.banyuwangikab.go.id. 14400 IN A 103.202.227.30
+muncar.banyuwangikab.go.id. 14400 IN A 103.202.227.22
+noc.banyuwangikab.go.id. 14400 IN A 103.202.227.3
+noc4.banyuwangikab.go.id. 38400 IN A 103.202.227.19
+ns1.banyuwangikab.go.id. 38400 IN A 103.202.227.4
+ns2.banyuwangikab.go.id. 14400 IN A 103.202.227.5
+ns3.banyuwangikab.go.id. 14400 IN A 118.98.64.179
+ns4.banyuwangikab.go.id. 14400 IN A 103.202.227.31
+ns5.banyuwangikab.go.id. 14400 IN A 118.98.64.178
+o2.banyuwangikab.go.id. 38400 IN A 103.202.227.23
+ocs.banyuwangikab.go.id. 38400 IN A 103.202.227.30
+pariwisata.banyuwangikab.go.id. 14400 IN A 103.202.227.3
+pbb.banyuwangikab.go.id. 38400 IN A 103.202.227.34
+pendidikan.banyuwangikab.go.id. 38400 IN A 103.202.227.38
+pengaduan.banyuwangikab.go.id. 38400 IN A 103.202.227.23
+pengairan.banyuwangikab.go.id. 38400 IN A 103.202.227.23
+perpusda.banyuwangikab.go.id. 14400 IN A 103.202.227.23
+pertanian.banyuwangikab.go.id. 14400 IN A 222.124.210.251
+pesanggaran.banyuwangikab.go.id. 14400 IN A 103.202.227.22
+pkk.banyuwangikab.go.id. 38400 IN A 118.98.64.178
+pkmsobo.banyuwangikab.go.id. 38400 IN A 103.202.227.23
+pns.banyuwangikab.go.id. 38400 IN A 103.202.227.3
+porprov5.banyuwangikab.go.id. 38400 IN A 103.202.227.23
+portal.banyuwangikab.go.id. 14400 IN A 103.202.227.22
+ppdb.banyuwangikab.go.id. 3600 IN A 103.202.227.54
+ppdb2.banyuwangikab.go.id. 3600 IN A 103.224.64.121
+ppid.banyuwangikab.go.id. 38400 IN A 103.202.227.23
+presensi.banyuwangikab.go.id. 38400 IN A 103.202.227.39
+protokol.banyuwangikab.go.id. 38400 IN A 103.202.227.23
+psmk.banyuwangikab.go.id. 38400 IN A 103.224.64.118
+purwoharjo.banyuwangikab.go.id. 14400 IN A 103.202.227.22
+rogojampi.banyuwangikab.go.id. 14400 IN A 103.202.227.22
+rsudblambangan.banyuwangikab.go.id. 38400 IN A 103.202.227.22
+rsudbwi.banyuwangikab.go.id. 38400 IN A 103.202.227.22
+saba.banyuwangikab.go.id. 14400 IN A 103.202.227.3
+saberpungli.banyuwangikab.go.id. 38400 IN A 103.202.227.23
+sempu.banyuwangikab.go.id. 14400 IN A 103.202.227.22
+sepanjang.banyuwangikab.go.id. 38400 IN A 103.202.227.15
+siak.banyuwangikab.go.id. 14400 IN A 103.202.227.7
+sibijak.banyuwangikab.go.id. 14400 IN A 103.202.227.3
+sikd.banyuwangikab.go.id. 86400 IN A 103.202.227.3
+siliragung.banyuwangikab.go.id. 14400 IN A 103.202.227.22
+simapdes.banyuwangikab.go.id. 38400 IN A 103.202.227.57
+simbada.banyuwangikab.go.id. 14400 IN A 103.202.227.9
+simbppt.banyuwangikab.go.id. 38400 IN A 103.202.227.3
+simda.banyuwangikab.go.id. 14400 IN A 103.202.227.9
+simpad.banyuwangikab.go.id. 14400 IN A 103.202.227.3
+simpeg.banyuwangikab.go.id. 14400 IN A 103.202.227.37
+simral.banyuwangikab.go.id. 14400 IN A 103.202.227.10
+singojuruh.banyuwangikab.go.id. 14400 IN A 103.202.227.22
+sipkb.banyuwangikab.go.id. 38400 IN A 103.202.227.22
+sipkb2.banyuwangikab.go.id. 38400 IN A 103.202.227.22
+sipo.banyuwangikab.go.id. 14400 IN A 103.202.227.23
+siskum.banyuwangikab.go.id. 14400 IN A 103.202.227.3
+sisop.banyuwangikab.go.id. 38400 IN A 103.202.227.22
+siupk.banyuwangikab.go.id. 38400 IN A 103.202.227.22
+siva.banyuwangikab.go.id. 14400 IN A 103.202.227.3
+soj.banyuwangikab.go.id. 38400 IN A 103.202.227.101
+songgon.banyuwangikab.go.id. 14400 IN A 103.202.227.22
+srono.banyuwangikab.go.id. 14400 IN A 103.202.227.22
+tegaldlimo.banyuwangikab.go.id. 14400 IN A 103.202.227.22
+tegalsari.banyuwangikab.go.id. 14400 IN A 103.202.227.22
+tkpk.banyuwangikab.go.id. 38400 IN A 118.98.64.180
+tourism.banyuwangikab.go.id. 14400 IN A 103.202.227.3
+tpid.banyuwangikab.go.id. 38400 IN A 103.202.227.23
+training.banyuwangikab.go.id. 38400 IN A 103.202.227.14
+umkm.banyuwangikab.go.id. 38400 IN A 103.202.227.23
+voip.banyuwangikab.go.id. 14400 IN A 103.202.227.27
+webmail.banyuwangikab.go.id. 38400 IN A 118.98.64.178
+wisata.banyuwangikab.go.id. 38400 IN A 103.202.227.23
+wongsorejo.banyuwangikab.go.id. 14400 IN A 103.202.227.22
+www.banyuwangikab.go.id. 14400 IN CNAME banyuwangikab.go.id.
+
+ack-end DBMS operating system: Linux Ubuntu
+back-end DBMS: MySQL >= 5.5
+banner:    '5.5.35-0ubuntu0.12.04.2'
+
+available databases [5]:
+[*] information_schema
+[*] kinerja
+[*] lakip
+[*] presensi
+[*] test
+
+[23:44:11] [INFO] fetching current user
+current user:    'kinerja@%'
+[23:44:11] [INFO] fetching current database
+current database:    'lakip'
+[23:44:11] [INFO] fetching server hostname
+hostname:    'presensi'
+[23:44:11] [INFO] fetching database users
+database management system users [1]:
+[*] 'kinerja'@'%'
+
+
+
+
+Database: lakip
+[29 tables]
++------------------+
+| bidang           |
+| ci_sessions      |
+| dasar_hukum      |
+| dokumen_lain     |
+| evaluasi_kinerja |
+| galeri           |
+| galeri_detail    |
+| groups           |
+| iku              |
+| indikator        |
+| misi             |
+| pelaksana        |
+| peralatan        |
+| peraturan        |
+| peringatan       |
+| periode          |
+| prestasi         |
+| program          |
+| prosedur         |
+| sasaran          |
+| simbol           |
+| sop              |
+| tujuan           |
+| unit_profiles    |
+| unor             |
+| users            |
+| users_copy       |
+| users_groups     |
+| visi             |
++------------------+
+
+
+Database: lakip
+Table: users
+[44 entries]
++-----+-----+-----+------+-------+---------------+---------------------------+--------+-----------+----------+------------------------------------------+-----------+---------------------------+------------+------------+------------+---------------+-----------------+-------------------------+-------------------------+
+| id  | ico | nip | salt | unit  | phone         | email                     | active | company   | username | password                                 | last_name | first_name                | created_on | last_login | ip_address | remember_code | activation_code | forgotten_password_code | forgotten_password_time |
++-----+-----+-----+------+-------+---------------+---------------------------+--------+-----------+----------+------------------------------------------+-----------+---------------------------+------------+------------+------------+---------------+-----------------+-------------------------+-------------------------+
+| 96  | 3   |     |      | 21001 | 081331927309  | 21001@banyuwangikab.go.id | 1      | puskesmas | 21001    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS WONGSOREJO      | 2014       | 1401672512 |            |               |                 |                         | 0                       |
+| 97  | 3   |     |      | 21002 | 081333400889  | 21002@banyuwangikab.go.id | 1      | puskesmas | 21002    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS BAJULMATI       | 2014       | 1400547757 |            |               |                 |                         | 0                       |
+| 98  | 3   |     |      | 21003 | 081233032212  | 21003@banyuwangikab.go.id | 1      | puskesmas | 21003    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS KELIR           | 2014       | 1405084662 |            |               |                 |                         | 0                       |
+| 99  | 3   |     |      | 21004 | 081358060172  | 21004@banyuwangikab.go.id | 1      | puskesmas | 21004    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS KLATAK          | 2014       | 1405084816 |            |               |                 |                         | 0                       |
+| 101 | 3   |     |      | 21006 | 08124987447   | 21006@banyuwangikab.go.id | 1      | puskesmas | 21006    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS PASPAN          | 2014       | 1400907841 |            |               |                 |                         | 0                       |
+| 102 | 3   |     |      | 21007 | 081934798435  | 21007@banyuwangikab.go.id | 1      | puskesmas | 21007    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS LICIN           | 2014       | 1400547956 |            |               |                 |                         | 0                       |
+| 103 | 3   |     |      | 21008 | 081233841628  | 21008@banyuwangikab.go.id | 1      | puskesmas | 21008    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS SOBO            | 2014       | 1400814323 |            |               |                 |                         | 0                       |
+| 104 | 3   |     |      | 21009 | 0811301475    | 21009@banyuwangikab.go.id | 1      | puskesmas | 21009    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS SINGOTRUNAN     | 2014       | 1400907415 |            |               |                 |                         | 0                       |
+| 105 | 3   |     |      | 21010 | 085336051170  | 21010@banyuwangikab.go.id | 1      | puskesmas | 21010    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS KERTOSARI       | 2014       | 1420503617 |            |               |                 |                         | 0                       |
+| 106 | 3   |     |      | 21011 | 081358942355  | 21011@banyuwangikab.go.id | 1      | puskesmas | 21011    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS KABAT           | 2014       | 1402365366 |            |               |                 |                         | 0                       |
+| 107 | 3   |     |      | 21012 | 081358667211  | 21012@banyuwangikab.go.id | 1      | puskesmas | 21012    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS BADEAN          | 2014       | 1410576232 |            |               |                 |                         | 0                       |
+| 108 | 3   |     |      | 21013 | 08123773517   | 21013@banyuwangikab.go.id | 1      | puskesmas | 21013    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS GITIK           | 2014       | 1402365541 |            |               |                 |                         | 0                       |
+| 109 | 3   |     |      | 21014 | 08123489179   | 21014@banyuwangikab.go.id | 1      | puskesmas | 21014    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS GLADAG          | 2014       | 1402545999 |            |               |                 |                         | 0                       |
+| 110 | 3   |     |      | 21015 | 08124968659   | 21015@banyuwangikab.go.id | 1      | puskesmas | 21015    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS SINGOJURUH      | 2014       | 1407891039 |            |               |                 |                         | 0                       |
+| 111 | 3   |     |      | 21016 | 085259623650  | 21016@banyuwangikab.go.id | 1      | puskesmas | 21016    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS SONGGON         | 2014       | 1413169352 |            |               |                 |                         | 0                       |
+| 112 | 3   |     |      | 21017 | 085336200058  | 21017@banyuwangikab.go.id | 1      | puskesmas | 21017    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS KEBAMAN         | 2014       | 1421804626 |            |               |                 |                         | 0                       |
+| 113 | 3   |     |      | 21018 | 081559584954  | 21018@banyuwangikab.go.id | 1      | puskesmas | 21018    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS PARIJATAH KULON | 2014       | 1402365794 |            |               |                 |                         | 0                       |
+| 114 | 3   |     |      | 21019 | 08123461378   | 21019@banyuwangikab.go.id | 1      | puskesmas | 21019    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS WONOSOBO        | 2014       | 1403924382 |            |               |                 |                         | 0                       |
+| 115 | 3   |     |      | 21020 | 08113508667   | 21020@banyuwangikab.go.id | 1      | puskesmas | 21020    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS KEDUNGREJO      | 2014       | 1402365964 |            |               |                 |                         | 0                       |
+| 116 | 3   |     |      | 21021 | 081234676729  | 21021@banyuwangikab.go.id | 1      | puskesmas | 21021    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS SUMBERBERAS     | 2014       | 1402711270 |            |               |                 |                         | 0                       |
+| 117 | 3   |     |      | 21022 | 081358117194  | 21022@banyuwangikab.go.id | 1      | puskesmas | 21022    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS TAPANREJO       | 2014       | 1407808500 |            |               |                 |                         | 0                       |
+| 118 | 3   |     |      | 21023 | 081249079800  | 21023@banyuwangikab.go.id | 1      | puskesmas | 21023    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS TEMBOKREJO      | 2014       | 1402366207 |            |               |                 |                         | 0                       |
+| 119 | 3   |     |      | 21024 | 0811301121    | 21024@banyuwangikab.go.id | 1      | puskesmas | 21024    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS TEGALDLIMO      | 2014       | 1402366265 |            |               |                 |                         | 0                       |
+| 120 | 3   |     |      | 21025 | 081336768904  | 21025@banyuwangikab.go.id | 1      | puskesmas | 21025    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS KEDUNGWUNGU     | 2014       | 1402366396 |            |               |                 |                         | 0                       |
+| 121 | 3   |     |      | 21026 | 082143286057  | 21026@banyuwangikab.go.id | 1      | puskesmas | 21026    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS PURWOHARJO      | 2014       | 1402366453 |            |               |                 |                         | 0                       |
+| 122 | 3   |     |      | 21027 | 08123234613   | 21027@banyuwangikab.go.id | 1      | puskesmas | 21027    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS GRAJAGAN        | 2014       | 1413342012 |            |               |                 |                         | 0                       |
+| 123 | 3   |     |      | 21028 | 08123461102   | 21028@banyuwangikab.go.id | 1      | puskesmas | 21028    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS BENCULUK        | 2014       | 1402366649 |            |               |                 |                         | 0                       |
+| 124 | 3   |     |      | 21029 | 085236340169  | 21029@banyuwangikab.go.id | 1      | puskesmas | 21029    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS TAMPO           | 2014       | 1402366738 |            |               |                 |                         | 0                       |
+| 125 | 3   |     |      | 21030 | 081336606800  | 21030@banyuwangikab.go.id | 1      | puskesmas | 21030    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS JAJAG           | 2014       | 1402367150 |            |               |                 |                         | 0                       |
+| 126 | 3   |     |      | 21031 | 081249286050  | 21031@banyuwangikab.go.id | 1      | puskesmas | 21031    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS YOSOMULYO       | 2014       | 1402367169 |            |               |                 |                         | 0                       |
+| 127 | 3   |     |      | 21032 | 08123458382   | 21032@banyuwangikab.go.id | 1      | puskesmas | 21032    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS TEGALSARI       | 2014       | 1402367444 |            |               |                 |                         | 0                       |
+| 128 | 3   |     |      | 21033 | 081235128586  | 21033@banyuwangikab.go.id | 1      | puskesmas | 21033    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS GENTENG KULON   | 2014       | 1406166640 |            |               |                 |                         | 0                       |
+| 129 | 3   |     |      | 21034 | 08124903696   | 21034@banyuwangikab.go.id | 1      | puskesmas | 21034    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS KEMBIRITAN      | 2014       | 1402367587 |            |               |                 |                         | 0                       |
+| 130 | 3   |     |      | 21035 | 08124973673   | 21035@banyuwangikab.go.id | 1      | puskesmas | 21035    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS SEMPU           | 2014       | 1402534381 |            |               |                 |                         | 0                       |
+| 131 | 3   |     |      | 21036 | 08124945181   | 21036@banyuwangikab.go.id | 1      | puskesmas | 21036    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS KARANGSARI      | 2014       | 1407294819 |            |               |                 |                         | 0                       |
+| 132 | 3   |     |      | 21037 | 0811370398    | 21037@banyuwangikab.go.id | 1      | puskesmas | 21037    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS GENDOH          | 2014       | 1402368029 |            |               |                 |                         | 0                       |
+| 133 | 3   |     |      | 21038 | 081336777906  | 21038@banyuwangikab.go.id | 1      | puskesmas | 21038    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS TULUNGREJO      | 2014       | 1414554448 |            |               |                 |                         | 0                       |
+| 134 | 3   |     |      | 21039 | 085850224344  | 21039@banyuwangikab.go.id | 1      | puskesmas | 21039    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS SEPANJANG       | 2014       | 1412557499 |            |               |                 |                         | 0                       |
+| 135 | 3   |     |      | 21040 | 085859369158  | 21040@banyuwangikab.go.id | 1      | puskesmas | 21040    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS KALIBARU        | 2014       | 1414370401 |            |               |                 |                         | 0                       |
+| 136 | 3   |     |      | 21041 | 08563344444   | 21041@banyuwangikab.go.id | 1      | puskesmas | 21041    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS KEBONDALEM      | 2014       | 0          |            |               |                 |                         | 0                       |
+| 137 | 3   |     |      | 21042 | 085649277029  | 21042@banyuwangikab.go.id | 1      | puskesmas | 21042    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS SAMBIREJO       | 2014       | 1399443163 |            |               |                 |                         | 0                       |
+| 138 | 3   |     |      | 21043 | 0813580522222 | 21043@banyuwangikab.go.id | 1      | puskesmas | 21043    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS PESANGGARAN     | 2014       | 1406084791 |            |               |                 |                         | 0                       |
+| 139 | 3   |     |      | 21044 | 085257249494  | 21044@banyuwangikab.go.id | 1      | puskesmas | 21044    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS SUMBERAGUNG     | 2014       | 1402918686 |            |               |                 |                         | 0                       |
+| 140 | 3   |     |      | 21045 | 081358184278  | 21045@banyuwangikab.go.id | 1      | puskesmas | 21045    | 0669f7aad925e055885f3bd79d4d5bf38786ad19 |           | PUSKESMAS SILIRAGUNG      | 2014       | 1402918579 |            |               |                 |                         | 0                       |
++-----+-----+-----+------+-------+---------------+---------------------------+--------+-----------+----------+------------------------------------------+-----------+---------------------------+------------+------------+------------+---------------+-----------------+-------------------------+-------------------------+
+
+web server operating system: Linux Ubuntu
+web application technology: PHP 5.3.10
+back-end DBMS: MySQL >= 5.5
+
+[23:56:30] [INFO] fetching current user
+[23:56:30] [WARNING] reflective value(s) found and filtering out
+[23:56:30] [INFO] retrieved: kinerja@localhost
+current user:    'kinerja@localhost'
+[23:56:30] [INFO] fetching current database
+[23:56:30] [INFO] retrieved: kinerja
+current database:    'kinerja'
+[23:56:30] [INFO] fetching server hostname
+[23:56:30] [INFO] retrieved: presensi
+hostname:    'presensi'
+[23:56:30] [INFO] fetching database users
+[23:56:30] [INFO] the SQL query used returns 1 entries
+[23:56:30] [INFO] retrieved: 'kinerja'@'localhost'
+database management system users [1]:
+[*] 'kinerja'@'localhost'
+
+
+
+[*] information_schema
+[*] kg1
+[*] kg2
+[*] kinerja
+[*] lakip
+[*] presensi
+[*] sop
+[*] test
+
+Database: kg1
+[11 tables]
++---------------+
+| akun          |
+| f             |
+| jurnal        |
+| jurnal_detail |
+| kelompok_akun |
+| klien         |
+| lap_pph21     |
+| lap_ssp       |
+| login         |
+| proyek        |
+| wp            |
++---------------+
+Database: kg1
+Table: login
+[2 entries]
++----+-------+----------+------------------------------------------+------------+---------------+---------------+
+| id | aktif | username | password                                 | nama_depan | administrator | nama_belakang |
++----+-------+----------+------------------------------------------+------------+---------------+---------------+
+| 1  | 1     | admin    | 1ad7e5064bb2a4da1ae8016de40723087a857c1b | Admin      | 1             | Lazuardi      |
+| 3  | 1     | ali      | 1ad7e5064bb2a4da1ae8016de40723087a857c1b | Ali        | 1             | Ruchi         |
++----+-------+----------+------------------------------------------+------------+---------------+---------------+
+
+
+
+
+A PHP Error was encountered
+Severity: Warning
+
+Message: imagecreatefromjpeg(): '/home/klinikumkm/public_html/resource/user/profile/5ef059938ba799aaa845e1c2e8a762bd.jpg' is not a valid JPEG file
+
+Filename: libraries/Image_lib.php
+
+Line Number: 1155
+http://klinikumkm.banyuwangikab.go.id/account/account_profile
