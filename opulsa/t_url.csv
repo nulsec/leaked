@@ -1,0 +1,4 @@
+status,server,bri_log,bni_log,bri_jpg,bni_php,bni_jpg,bni_out,bri_out,bri_php,bri_lib1,bni_lib1
+0,vps,http://49.50.10.178/bank/bri/bri.log,http://49.50.10.178/bank/bni2/bni.log,http://49.50.10.178/bank/bri/bri.jpg,http://49.50.10.178/bank/bni2/bni.php,http://49.50.10.178/bank/bni2/bni.jpg,http://49.50.10.178/bank/bni2/bniout.log,http://49.50.10.178/bank/bri/briout.log,http://49.50.10.178/bank/bri/bri.php,http://49.50.10.178/bank/bri/lib1.php,http://49.50.10.178/bank/bni2/lib1.php
+1,askom,http://117.102.106.170/bank/bri/bri.log,http://117.102.106.170/bank/bni2/bni.log,http://117.102.106.170/bank/bri/bri.jpg,http://117.102.106.170/bank/bni2/bni.php,http://117.102.106.170/bank/bni2/bni.jpg,http://36.71.102.216:8788/bni/bniout.log,http://117.102.106.170/bank/bri/briout.log,http://117.102.106.170/bank/bri/bri.php,http://117.102.106.170/bank/bri/lib1.php,http://117.102.106.170/bank/bni2/lib1.php
+
