@@ -1,0 +1,12 @@
+id,Tabel,Judul,Status,Posisi,Urutan,Katakunci
+1,tbl_direktorat_s2,Direktorat Program S2,0,0,2,PascaSarjana
+2,tbl_direktorat_s1,Direktorat Program S1,0,0,1,Sarjana
+3,tbl_direktorat,Sekilas PTIK,1,0,0,Institusi
+4,tbl_minwa,Bidang MinWa,0,0,1,Minwa
+9,tbl_isppi,Informasi ISPPI,1,0,5,ISPPI
+6,tbl_akademik,Bidang Akademik,0,0,3,Akademik
+7,tbl_dianmas,Bidang Kerma & DianMas,0,0,4,Dianmas
+8,tbl_agenda,Agenda Kegiatan,1,0,7,
+10,tbl_yaptik,Informasi YAPTIK,1,0,6,YAPTIK
+11,tbl_ppitk,Bidang PPITK,0,0,2,PPITK
+

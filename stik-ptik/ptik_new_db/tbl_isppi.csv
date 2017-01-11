@@ -1,0 +1,11 @@
+id,url,aktif,judul,menu_order
+1,index.php?module=layanan_isppi,Y,Layanan Umum,5
+2,index.php?module=sekilas_isppi,Y,Sekilas ISPPI,0
+3,index.php?module=so_isppi,Y,Struktur Organisasi ISPPI,1
+4,index.php?module=tupoksi_isppi,Y,Tugas Pokok dan Fungsi,2
+5,index.php?module=pk_isppi,Y,Program Kegiatan,3
+6,index.php?module=berita_isppi,Y,Berita,6
+7,index.php?module=informasi_isppi,Y,Informasi Penting,7
+8,index.php?module=ISPPI&ar_id=13,Y,Hubungi Kami,7
+9,index.php?module=alumni,Y,Sisfo Alumni,8
+

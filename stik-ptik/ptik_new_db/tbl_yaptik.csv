@@ -1,0 +1,10 @@
+id,url,aktif,judul,menu_order
+1,index.php?module=sekilas_yaptik,Y,Sekilas YAPTIK,0
+2,index.php?module=so_yaptik,Y,Struktur Organisasi YAPTIK,0
+3,index.php?module=tupoksi_yaptik,Y,Tugas Pokok dan Fungsi,7
+4,index.php?module=progiat_yaptik,Y,Program Kegiatan,8
+5,index.php?module=yanum,Y,Layanan Umum,9
+6,index.php?module=news_yaptik,Y,Berita,10
+7,index.php?module=YAPTIK&ar_id=14,Y,Informasi Penting,12
+8,index.php?module=contact_us&ref=yaptik,Y,Hubungi Kami,13
+

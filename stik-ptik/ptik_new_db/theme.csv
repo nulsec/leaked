@@ -1,0 +1,5 @@
+id,aktif,judul,opacity,pembuat,theme_file,background,header_file
+1,N,GreenLand,0.7,suy@yahoo.co.id,templates/greenland,#faba3a,bg1.jpg
+2,Y,Gold,0.8,suys@yahoo.co.id,templates/golden,#faba3a,background.png
+7,N,SkyBlue,0.8,suy_be@yahoo.co.id,templates/skyblue,#70FFFF,hi.jpg
+

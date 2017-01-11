@@ -1,0 +1,9 @@
+id,url,aktif,judul,menu_order
+1,index.php?module=sekilas_minwa,Y,Sekilas Bidang Minwa,0
+2,index.php?module=so_minwa,Y,Struktur Organisasi Minwa,1
+3,index.php?module=tupoksi_minwa,Y,Tugas Pokok dan Fungsi,3
+4,index.php?module=progiat_minwa,Y,Program Kegiatan,5
+5,index.php?module=berita_minwa,Y,Berita,7
+6,index.php?module=informasi_minwa,Y,Informasi Penting,8
+7,index.php?module=contact_us&ref=minwa,Y,Hubungi Kami,9
+

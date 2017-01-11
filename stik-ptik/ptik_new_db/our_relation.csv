@@ -1,0 +1,7 @@
+id,url,isi,icon,aktif,title
+1,http://www.polri.go.id,<html>\r\n\t<head>\r\n\t\t<title></title>\r\n\t</head>\r\n\t<body>\r\n\t\t<p>\r\n\t\t\tKepolisian Republik Indonesia</p>\r\n\t</body>\r\n</html>\r\n,bank-bri.png,Y,POLRI
+2,http://www.tmcmetro.com,<html>\r\n\t<head>\r\n\t\t<title></title>\r\n\t</head>\r\n\t<body>\r\n\t\t<p>\r\n\t\t\tDITLANTAS Polda Metro</p>\r\n\t</body>\r\n</html>\r\n,cimb.png,Y,DITLANTAS Polda Metro
+3,http://www.senkom.or.id/,<html>\r\n\t<head>\r\n\t\t<title></title>\r\n\t</head>\r\n\t<body>\r\n\t\t<br />\r\n\t</body>\r\n</html>\r\n,,Y,SENKOM Mitra Polri
+4,http://www.interpol.go.id,<html>\r\n\t<head>\r\n\t\t<title></title>\r\n\t</head>\r\n\t<body>\r\n\t\t<br />\r\n\t</body>\r\n</html>\r\n,,Y,NCB Interpol Indonesia
+5,http://www.lodaya.web.id/,<html>\r\n\t<head>\r\n\t\t<title></title>\r\n\t</head>\r\n\t<body>\r\n\t\t<br />\r\n\t</body>\r\n</html>\r\n,,Y,POLDA JABAR
+

@@ -1,0 +1,9 @@
+id,url,aktif,judul,menu_order
+1,index.php?module=sekilas_ppitk,Y,Sekilas Bidang PPITK,0
+2,index.php?module=so_ppitk,Y,Struktur Organisasi PPITK,1
+3,index.php?module=tupoksi_ppitk,Y,Tugas Pokok dan Fungsi,3
+4,index.php?module=progiat_ppitk,Y,Program Kegiatan,5
+5,index.php?module=berita_ppitk,Y,Berita,7
+6,index.php?module=informasi_ppitk,Y,Informasi Penting,8
+7,index.php?module=contact_us&ref=ppitk,Y,Hubungi Kami,9
+

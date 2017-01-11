@@ -1,0 +1,15 @@
+id,url,aktif,judul,menu_order
+1,index.php?module=Institusi&ar_id=18,Y,Sejarah Singkat,0
+2,index.php?module=visi_misi,Y,Visi & Misi,1
+3,,Y,Statuta,2
+4,index.php?module=Institusi&ar_id=11,Y,Struktur Organisasi,3
+5,index.php?module=Institusi&ar_id=12,Y,Daftar Pejabat,4
+6,index.php?module=program_pendidikan,Y,Program Pendidikan,5
+7,index.php?module=kurikulum,Y,Kurikulum,6
+8,index.php?module=lecturer,Y,Tenaga Pendidik,7
+9,,Y,Aktifitas Pendidikan,8
+10,,Y,Aktifitas LitBang,9
+11,,Y,Aktivitas DianMas,10
+12,,Y,Kerjasama Pendidikan,11
+13,,Y,Pengembangan,12
+

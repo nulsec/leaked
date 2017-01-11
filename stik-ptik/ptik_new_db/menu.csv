@@ -1,0 +1,23 @@
+id,parent_id,url,aktif,judul,posisi,divisi,menu_order
+2,0,index.php?module=news,Y,Berita,0,00,1
+3,0,index.php?module=sitemap,Y,Sitemap,0,,4
+4,0,index.php?module=contact_us,Y,Hubungi Kami,0,,9
+5,1,index.php?module=sejarah,Y,Sejarah Singkat,0,selected,0
+6,1,index.php?module=visi_misi,Y,Visi & Misi,0,,1
+7,0,index.php?module=galeri,Y,Galeri,0,,3
+8,5,index.php?module=sejarah,Y,STIK,0,,0
+9,5,index.php?module=sejarah,Y,Contoh STIK,0,,2
+1,0,index.php?module=profile,Y,Profil,0,,0
+12,100,index.php?module=sekilas_isppi,Y,Sekilas ISPPI,1,07,0
+13,0,index.php?module=video,Y,Video,0,00,4
+14,7,index.php?module=galeri&ref=Kegiatan,Y,Kegiatan,0,,3
+15,7,index.php?module=galeri&ref=Fasilitas,Y,Fasilitas,0,,6
+16,7,index.php?module=galeri&ref=Dosen,Y,Dosen,0,,9
+17,7,index.php?module=galeri&ref=Pejabat,Y,Pejabat,0,,0
+18,0,index.php?module=chat,Y,Chat,0,00,5
+19,0,index.php?module=guestbook,Y,Buku tamu,0,00,8
+20,0,,Y,PID,0,00,3
+21,20,index.php?module=info_sm,Y,Informasi Serta Merta,0,00,1
+22,20,index.php?module=info_berkala,Y,Informasi Berkala,0,00,2
+23,1,index.php?module=roadmap,Y,RoadMap,0,0,9
+

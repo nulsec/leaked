@@ -1,0 +1,5 @@
+id,url,menu_name
+1,page/manage_application.php,APPLICATION MANAGEMENT
+3,page/manage_menu.php,MENU MANAGEMENT
+4,page/manage_news.php,ARTICLE MANAGEMENT
+
