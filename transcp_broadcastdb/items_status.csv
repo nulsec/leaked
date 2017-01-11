@@ -1,0 +1,5 @@
+id_items_status,items_status_name,items_status_descr
+1,Please Choose,Silahkan Pilih Status Barang
+2,Ada,Barang yang bersangkutan siap untuk digunakan/dipinjamkan.
+3,Dipinjam,Barang tersebut sedang dipinjamkan oleh seseorang.
+

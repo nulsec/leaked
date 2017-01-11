@@ -1,0 +1,7 @@
+items_id,id_reqinventory,user_nik,user_name,updated_by,created_by,user_telpon,date_pinjam,updated_date,date_selesai,nama_program,date_request,created_date,approval_name,kebutuhan_descr
+2,3,324234234,rrrr,-,12345678,345345345,23 July 2014,,31 July 2014,rrrrr,21 July 2014,21 July 2014,Belum Dikonfirmasi,asdasdasddsa
+2,4,0,zzzz,-,12345678,zzzz,23 July 2014,,24 July 2014,,21 July 2014,21 July 2014,Belum Dikonfirmasi,Zzz
+2,5,12435867,blackberry,-,12345678,253654,22 July 2014,,30 July 2014,bukan YKS,21 July 2014,21 July 2014,Belum Dikonfirmasi,Syuting program bukan yks test blackberry
+4,1,101004472,Niel Hakim,120400473,12345678,081908198001,22 July 2014,21 July 2014,25 July 2014,Bukan Showimah,21 July 2014,21 July 2014,Disetujui,untuk syuting 'Bukan Showimah'
+7,2,111004852,Igantius Benny,-,12345678,081908199971,24 July 2014,,30 July 2014,Ngabuburit,21 July 2014,21 July 2014,Belum Dikonfirmasi,"untuk program acara ""Ngabuburit"""
+

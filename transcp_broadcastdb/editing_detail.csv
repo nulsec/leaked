@@ -1,0 +1,14 @@
+tools_id,bagiandetail_id,id_editingdetail,updated_by,created_by,updated_date,solved_descr,created_date,status_ticket,permasalahan_name,permasalahan_descr,picture_editingsize,picture_editingname,picture_editinglocation
+4,3,11,12345678,12345678,22 July 2014,,22 July 2014,Open,Test Send EMail III,Test Send Email From Server,0,,
+4,3,8,12345678,12345678,22 July 2014,,22 July 2014,Open,Test Send Mail 1,Test Send EMail III,0,,
+6,3,4,12345678,12345678,21 July 2014,,21 July 2014,Open,Monitor Error,Mohon Diperbaiki ya,0,,
+6,3,6,12345678,12345678,21 July 2014,,21 July 2014,Open,hahs,Jshsj,0,,
+7,3,1,120400473,12345678,18 July 2014,,17 July 2014,Open,Kerusakan pada Hardware,Mohon Dicarikan Solusinya ya Segera,6435,laptop.jpeg,/dc9144e0ece8bcd25dd3a4dcb7b305a3/editing_img/data_1/
+7,3,9,12345678,12345678,22 July 2014,,22 July 2014,Open,wwwww,bbbbb,0,A,
+7,3,12,12345678,12345678,22 July 2014,,22 July 2014,Open,Test Send Email IV,wwwwww,0,,
+7,3,5,12345678,12345678,21 July 2014,,21 July 2014,Open,bbbb,Test Send Email IV,0,,
+8,3,7,12345678,12345678,21 July 2014,,21 July 2014,Open,test blackberry,Test input daata dari blackberry,0,,
+9,3,3,120400473,12345678,21 July 2014,Ok solved,18 July 2014,Solved,Graphic RC4 Bermasalah,Mohon untuk digantikan Graphic di RC4 ini. terimakasih,0,,
+9,3,10,12345678,12345678,22 July 2014,,22 July 2014,Open,Test Send Email II,Test Send Email II,0,,
+10,2,2,120400473,131101010,18 July 2014,"Mohon ditunggu sebentar, karena RC5 sedang di perbaiki. terimakasih",17 July 2014,Return,Kerusakan di Rough Cut 5,Mohon Bantuannya segera Ya. Terimakasih,30569,IMG-20140721-WA0000.jpg,/dc9144e0ece8bcd25dd3a4dcb7b305a3/editing_img/data_2/
+

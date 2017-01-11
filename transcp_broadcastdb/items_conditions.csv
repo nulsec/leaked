@@ -1,0 +1,6 @@
+id_items_conditions,items_conditions_name,items_conditions_descr
+1,Please Choose,Please Choose Items Conditions Name
+2,Good,Barang yang bersangkutan dalam kondisi baik tidak dalam perbaikkan dan dapat dipinjamkan barang tersebut
+3,Repair,Barang ini dalam kondisi tidak baik harus diperbaiki/masih dalam perbaikkan maka barang tersebut tidak dapat dipinjamkan oleh siapapun.
+4,Broken,"Barang ini tidak dapat diperbaiki sebagaimana halnya, karena sudah dicoba untuk diperbaiki(repair) tidak dapat diperbaiki karena sesuatu hal."
+

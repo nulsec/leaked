@@ -1,0 +1,9 @@
+bagiandetail_id,id_helpdeskdetail,updated_by,created_by,updated_date,created_date,solved_descr,status_ticket,helpdeskdetail_desc,helpdeskdetail_name,helpdeskdetail_telp,picture_helpdesksize,picture_helpdeskname,helpdeskdetail_location,picture_helpdesklocation
+3,1,120400473,12345678,18 July 2014,18 July 2014,Ok akan diperbaiki oleh Vendor AC,Return,Mohon Segera Diperbaiki AC(Air Conditioner) Di Boot12. Terimakasih,AC TIDAK BERFUNGSI,08117234234734,775702,Jellyfish.jpg,Boot12 Lt.2 Gd.TransTV,/dc9144e0ece8bcd25dd3a4dcb7b305a3/broadcast_img/data_1/
+3,2,120400473,12345678,18 July 2014,18 July 2014,"Ok Solved, Lampu di Boot25 sudah diganti dengan yang baru. Terimakasih.",Solved,Mohon Segera Digantikan Secepatnya Lampu Yang Tidak Menyala Di Boot25. Thankyou Ya,LAMPU TIDAK MENYALA,08117234234734,188893,IMG-20140715-WA0000.jpg,Boot25 Lt.2 Gd.TransTV,/dc9144e0ece8bcd25dd3a4dcb7b305a3/broadcast_img/data_2/
+3,3,12345678,12345678,18 July 2014,18 July 2014,,Open,Mohon Digantikan Dengan Yang Baru RC12 Ya. Terimakasih,RC12 MATI,08117234234734,0,,Boot11 Lt.2 Gd.TransTV,
+3,4,12345678,12345678,21 July 2014,21 July 2014,,Open,Xxxx,XXXX,08117234234734,0,,xxxx,
+3,5,12345678,12345678,21 July 2014,21 July 2014,,Open,Ffff,FFFFF,08117234234734,0,,ffff,
+3,6,12345678,12345678,21 July 2014,21 July 2014,,Open,Zzzz,ZZZ,08117234234734,0,,Zzz,
+3,7,12345678,12345678,21 July 2014,21 July 2014,,Open,Blackberry Testing,BLACKBERRY TEST,08117234234734,0,,Tangerang selatan,
+

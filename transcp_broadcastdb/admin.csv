@@ -1,0 +1,6 @@
+id_admin,bagiandetail_id,nik,email,telpon,password,show_pass,updated_by,created_by,updated_date,created_date,user_realname
+3,3,12345678,nadim@transtv.co.id,08117234234734,25d55ad283aa400af464c76d713c07ad (12345678),12345678,,,0000-00-00,0000-00-00,Nadim
+4,4,101004460,dadan@transtv.co.id,081908199858,7bf138c8b06affa1a0dc1921930c14f6,101004460,,,0000-00-00,0000-00-00,Dadan Yannoer.S
+1,4,120400473,panduga@transtv.co.id,081908199000,acf282d39edd5fabe183449521b64e2d (230785),230785,panduga,panduga,2014-06-02,2014-06-02,Pandu Angga P
+2,2,131101010,nur.azizah@transtv.co.id,081908198000,2d68c28d153f4ac50066ac25ae9d179e,131101010,,,0000-00-00,0000-00-00,Nur Azizah
+
