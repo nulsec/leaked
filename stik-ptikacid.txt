@@ -1,4 +1,3 @@
-[root@frozbit sqlmap]# cat /root/.sqlmap/output/180.250.75.76/files/_etc_passwd
 at:x:25:25:Batch jobs daemon:/var/spool/atjobs:/bin/bash
 bin:x:1:1:bin:/bin:/bin/bash
 daemon:x:2:2:Daemon:/sbin:/bin/bash
