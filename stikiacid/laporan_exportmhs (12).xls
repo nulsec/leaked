@@ -1,0 +1,3013 @@
+<html>
+	<head>
+		<title></title>
+		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+		<style>
+             html{
+                font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+            }
+			td { font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 12px;}
+		</style>
+	</head>
+	<body>
+<table width="100%" >
+    <tr>
+        <td colspan="4">
+        <div id="repHeader" style="width: 100%;">
+            <table width="100%" style="border-bottom-style:double;padding-bottom:20px;margin-bottom:10px;">
+                <tr>
+                    <td align="left">
+                        <div class="repTitle">
+                            <font size="5">
+							<strong>PANGKALAN DATA PENDIDIKAN TINGGI</strong>
+							</font>
+                            <br>
+                            <font size="4"><strong>Direktorat Jenderal Pendidikan Tinggi</strong>
+							</font>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        </td>
+    </tr>
+    <tr>
+        <td align="left" colspan="4">
+        <strong>DAFTAR MAHASISWA PER ANGKATAN</strong>
+        </td>
+    </tr>
+    <tr>
+        <td align="left" width="20%" ><strong>Perguruan Tinggi</strong></td>
+        <td align="left" width="30%" ><strong>:</strong> 073025   - STIKI Malang</td>
+        <td align="left" width="20%" ><strong>Alamat</strong></td>
+        <td align="left" ><strong>:</strong> Jalan Raya Tidar No 100  65146</td>
+    </tr>
+    <tr>
+        <td align="left" ><strong>Program Studi</strong></td>
+        <td align="left" ><strong>:</strong> Semua Program Studi</td>
+        <td align="left" ><strong>Periode</strong></td>
+        <td align="left" ><strong>:</strong> 2004</td>
+    </tr>
+</table><table width="100%" border="1">
+	<tr>
+		<th>No</th>
+		<th>NIM</th>
+		<th>Nama</th>
+		<th>Program Studi</th>
+		<th>Status <br />Mahasiswa</th>
+		<th>Jenis <br />Pendaftaran</th>
+		<th>L/P</th>
+		<th>Tempat,Tanggal Lahir</th>
+		<th>Agama</th>
+	</tr>
+			<tr>
+			<td>1</td>
+			<td>&nbsp;04311960          </td>
+			<td>RONY SETYO WICAKSONO</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BLITAR,09-10-1983</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>2</td>
+			<td>&nbsp;04311999          </td>
+			<td>BAIQ LINA FEBRIANTI</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>PRAYA,09-02-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>3</td>
+			<td>&nbsp;04311963          </td>
+			<td>RUSDIANA IBVA DEWI</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>BANYUWANGI,26-10-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>4</td>
+			<td>&nbsp;04311973          </td>
+			<td>ARDITIA NUSA</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,18-08-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>5</td>
+			<td>&nbsp;04311988          </td>
+			<td>RONALD INDRA SANJAYA</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>TUBAN,23-05-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>6</td>
+			<td>&nbsp;04311983          </td>
+			<td>DIANA ROSALINA</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>KOTABARU,17-01-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>7</td>
+			<td>&nbsp;04311962          </td>
+			<td>HERY SUSANTO</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,15-02-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>8</td>
+			<td>&nbsp;04312000          </td>
+			<td>LUKMAN HAKIM</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>PASURUAN,01-02-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>9</td>
+			<td>&nbsp;04311984          </td>
+			<td>LUH SUMA INTARI</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>MATARAM,16-10-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>10</td>
+			<td>&nbsp;04311992          </td>
+			<td>WAHYU RAHMADI</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MATARAM,25-10-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>11</td>
+			<td>&nbsp;04311981          </td>
+			<td>MISBAKHUL MUNIR</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>PASURUAN,27-05-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>12</td>
+			<td>&nbsp;04311956          </td>
+			<td>FITRON REJEKI MAHAR DIKA</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>GRESIK,10-07-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>13</td>
+			<td>&nbsp;04311976          </td>
+			<td>ANDRIYANTO TRISWANDONO</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>TUBAN,28-01-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>14</td>
+			<td>&nbsp;04311970          </td>
+			<td>I GEDE SUMARTA N</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BANYUWANGI,07-03-1983</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>15</td>
+			<td>&nbsp;04311946          </td>
+			<td>WANGKOT HANGGARASTO AJI</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,21-08-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>16</td>
+			<td>&nbsp;04311991          </td>
+			<td>FAISAL ARIS RETNADI</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,25-03-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>17</td>
+			<td>&nbsp;04311948          </td>
+			<td>NURUL RAHMITA</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>MALANG,24-01-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>18</td>
+			<td>&nbsp;04311955          </td>
+			<td>ANTON STYO LAKSONO</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,16-02-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>19</td>
+			<td>&nbsp;04312004          </td>
+			<td>RAIDA IKA FEBRIANA</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>MALANG,01-01-1989</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>20</td>
+			<td>&nbsp;04311966          </td>
+			<td>YOVIE FABIANTO</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>PALANGKARAYA,25-01-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>21</td>
+			<td>&nbsp;04311958          </td>
+			<td>JOHAN WIHARJA</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,27-08-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>22</td>
+			<td>&nbsp;04311945          </td>
+			<td>RACHMAT HIDAYAT</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>GRESIK,08-06-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>23</td>
+			<td>&nbsp;04311964          </td>
+			<td>SITI NUR AISYAH</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>JEMBER,29-11-1983</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>24</td>
+			<td>&nbsp;04311952          </td>
+			<td>DANIEL NATALO PURWA PUTRA</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>NGANJUK,30-12-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>25</td>
+			<td>&nbsp;04311967          </td>
+			<td>JAYANTI DWI SUHARTINI</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>PASURUAN,24-08-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>26</td>
+			<td>&nbsp;04311995          </td>
+			<td>NOVI TRI MUJAHIDIN</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,28-11-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>27</td>
+			<td>&nbsp;04311996          </td>
+			<td>DWI PRASETIA AGUSTIAWAN</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>GRESIK,20-08-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>28</td>
+			<td>&nbsp;04311957          </td>
+			<td>AGUS DWI INDAWAN</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,14-07-1983</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>29</td>
+			<td>&nbsp;04311989          </td>
+			<td>RAMA SYAHRI ASRIWANTO</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>PASURUAN,21-05-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>30</td>
+			<td>&nbsp;04311975          </td>
+			<td>LEONARDUS DAYUNATA</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BALIKPAPAN,20-10-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>31</td>
+			<td>&nbsp;04311968          </td>
+			<td>ARIE MEIDIANTORO</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>PASURUAN,12-05-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>32</td>
+			<td>&nbsp;04311985          </td>
+			<td>RATNA EKA HARTANTI</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>RANTAU,27-09-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>33</td>
+			<td>&nbsp;04311947          </td>
+			<td>LEONNY GUNAWAN</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>SINGARAJA,27-01-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>34</td>
+			<td>&nbsp;04311997          </td>
+			<td>PRIHANDOKO MAHADI S</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BLITAR,02-09-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>35</td>
+			<td>&nbsp;04311993          </td>
+			<td>ANDRI EKO PRASETYO</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>PROBOLINGGO,28-02-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>36</td>
+			<td>&nbsp;04312003          </td>
+			<td>SANCA DWI ANGGORO</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>PASURUAN,14-12-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>37</td>
+			<td>&nbsp;04311998          </td>
+			<td>DARUSMAN SIREGAR</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,20-07-1983</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>38</td>
+			<td>&nbsp;04311959          </td>
+			<td>AYU WULANDARI</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>JOMBANG,29-10-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>39</td>
+			<td>&nbsp;04311949          </td>
+			<td>SASTIA</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>MALANG,28-09-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>40</td>
+			<td>&nbsp;04311990          </td>
+			<td>DILAWATI</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>MOJOKERTO,26-08-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>41</td>
+			<td>&nbsp;04311953          </td>
+			<td>ONE ARIF SETIAWAN</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>KEDIRI,12-04-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>42</td>
+			<td>&nbsp;04311954          </td>
+			<td>ANNISA FEBRI MARJITO</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,21-02-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>43</td>
+			<td>&nbsp;04311979          </td>
+			<td>EKA DIAN MUYASSAROH</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>BLITAR,13-04-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>44</td>
+			<td>&nbsp;04311971          </td>
+			<td>AHMAD SOBIRIN</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BANDUNG,19-07-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>45</td>
+			<td>&nbsp;04311950          </td>
+			<td>YULIAN TRI WARDHANA</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,24-07-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>46</td>
+			<td>&nbsp;04311974          </td>
+			<td>CHANDRA EKO YUDHISTIRA</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BONDOWOSO,12-02-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>47</td>
+			<td>&nbsp;04311994          </td>
+			<td>EDY SELAMET</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,28-06-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>48</td>
+			<td>&nbsp;04311972          </td>
+			<td>FRENDY BAGUS TAILEND</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,10-12-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>49</td>
+			<td>&nbsp;04311961          </td>
+			<td>NANDA YUDINUGROHO</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,27-07-1983</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>50</td>
+			<td>&nbsp;04311977          </td>
+			<td>IRMANITA</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>MALANG,20-01-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>51</td>
+			<td>&nbsp;04311986          </td>
+			<td>DINI DWI RAKHMAWATI</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>NGANJUK,04-08-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>52</td>
+			<td>&nbsp;04311980          </td>
+			<td>IHSAN INDRA BEKTI</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,06-02-1983</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>53</td>
+			<td>&nbsp;04311978          </td>
+			<td>NURMAKHMUDI</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BLITAR,19-09-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>54</td>
+			<td>&nbsp;04311987          </td>
+			<td>ANGGA MARFIANSYAH</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>JAKARTA,25-05-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>55</td>
+			<td>&nbsp;04311969          </td>
+			<td>ANTON TRI MARYONO</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>PROBOLINGGO,04-04-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>56</td>
+			<td>&nbsp;04311951          </td>
+			<td>ASHADI CAHYADI</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,13-05-1983</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>57</td>
+			<td>&nbsp;04311965          </td>
+			<td>LANDUNG UDI WICAKSONO</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MADIUN,21-08-1981</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>58</td>
+			<td>&nbsp;04312001          </td>
+			<td>RIA AYU HAPSARI</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>CILACAP,16-01-1987</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>59</td>
+			<td>&nbsp;04311982          </td>
+			<td>HENDRI</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>SAMARINDA,06-10-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>60</td>
+			<td>&nbsp;04113605          </td>
+			<td>SONNY SETIAWAN</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,03-10-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>61</td>
+			<td>&nbsp;04113650          </td>
+			<td>BUDI WIJAYANTO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>JEMBER,20-05-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>62</td>
+			<td>&nbsp;04113761          </td>
+			<td>MUHAMMAD DEDDY SISWANTO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,18-05-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>63</td>
+			<td>&nbsp;04113621          </td>
+			<td>AYUB BUDIMAN</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,18-04-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>64</td>
+			<td>&nbsp;04113620          </td>
+			<td>LISTYA DWIYANTI ADJI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>BANJARMASIN,21-02-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>65</td>
+			<td>&nbsp;04113700          </td>
+			<td>AFDHI FAUZAN</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BANJARMASIN,30-08-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>66</td>
+			<td>&nbsp;04113618          </td>
+			<td>LUSIANI WIBISONO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>BONDOWOSO,24-06-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>67</td>
+			<td>&nbsp;04113672          </td>
+			<td>DEDDY WAHYU KUNCORO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BANGKALAN,07-01-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>68</td>
+			<td>&nbsp;04113624          </td>
+			<td>AGNI AMERTA LAZUARDI W.</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>KEDIRI,05-08-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>69</td>
+			<td>&nbsp;04113751          </td>
+			<td>SITI RATNANINGSIH</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>TUBAN,26-01-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>70</td>
+			<td>&nbsp;04113723          </td>
+			<td>RIO ADETYA RIZKY</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BANGKALAN,21-10-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>71</td>
+			<td>&nbsp;04113778          </td>
+			<td>RR SETYORINI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>MALANG,31-07-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>72</td>
+			<td>&nbsp;04113738          </td>
+			<td>ZALDY</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,25-05-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>73</td>
+			<td>&nbsp;04113612          </td>
+			<td>ARIFIN WIBOWO PUTRA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,19-11-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>74</td>
+			<td>&nbsp;04113692          </td>
+			<td>SIGIT PUTRO AGUNG</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,02-06-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>75</td>
+			<td>&nbsp;04113673          </td>
+			<td>HELMY FATHURRAZY</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>DENPASAR,12-08-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>76</td>
+			<td>&nbsp;04113764          </td>
+			<td>AMRULLAH</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>JAKARTA,17-05-1981</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>77</td>
+			<td>&nbsp;04113627          </td>
+			<td>KRISTIAWAN EKO SUSILO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,25-12-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>78</td>
+			<td>&nbsp;04113783          </td>
+			<td>DESANGGA ROYANA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>JOMBANG,21-12-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>79</td>
+			<td>&nbsp;04113744          </td>
+			<td>ADRIAN SAPUTRA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>KOTABARU,31-05-1987</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>80</td>
+			<td>&nbsp;04113663          </td>
+			<td>JAKIROH</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>BANJARMASIN,09-02-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>81</td>
+			<td>&nbsp;04113639          </td>
+			<td>MAYA NUZULUL PUTRI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>PASURUAN,26-05-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>82</td>
+			<td>&nbsp;04113753          </td>
+			<td>ROH WIDIONO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>GROBOGAN,16-06-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>83</td>
+			<td>&nbsp;04113701          </td>
+			<td>NURKHALISH SHALIHIN</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>RANTAU,10-09-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>84</td>
+			<td>&nbsp;04113708          </td>
+			<td>MUHAMMAD RIFQI FIRDAUS</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MARTAPURA,08-09-1988</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>85</td>
+			<td>&nbsp;04113645          </td>
+			<td>SR THERESIA CIJ</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>ENDE,01-09-1974</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>86</td>
+			<td>&nbsp;04113755          </td>
+			<td>HADI SUPRIANTO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Mengundurkan diri</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MATARAM,12-12-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>87</td>
+			<td>&nbsp;04113759          </td>
+			<td>YUSTEJA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>KUALA TUNGKAL,23-12-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>88</td>
+			<td>&nbsp;04113636          </td>
+			<td>ROSYANY VERONICA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>MALANG,19-02-1987</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>89</td>
+			<td>&nbsp;04113648          </td>
+			<td>EKO KURNIAWAN</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,19-05-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>90</td>
+			<td>&nbsp;04180069          </td>
+			<td>MUHAMAD MIFTAH FARIZ</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>SAMPIT,13-12-1981</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>91</td>
+			<td>&nbsp;04113711          </td>
+			<td>WIDAYAT HARI SANTOSO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>PROBOLINGGO,10-06-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>92</td>
+			<td>&nbsp;04113630          </td>
+			<td>RETI VERI ANITA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>BLITAR,06-03-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>93</td>
+			<td>&nbsp;04113629          </td>
+			<td>LUCKY SUHARTONO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MOJOKERTO,19-03-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>94</td>
+			<td>&nbsp;04113609          </td>
+			<td>ARIEA BUDIMAN</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BANJARMASIN,31-03-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>95</td>
+			<td>&nbsp;04113615          </td>
+			<td>ARFIKA GITA BUDIARTO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BANYUWANGI,26-04-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>96</td>
+			<td>&nbsp;04113638          </td>
+			<td>ABRAHAM KRISTIANTO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,19-04-1983</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>97</td>
+			<td>&nbsp;04113752          </td>
+			<td>MICHAEL SANDY LAUWRENZ</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>AMBON,28-02-1988</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>98</td>
+			<td>&nbsp;04113660          </td>
+			<td>ANGGA KURNIA ADI KUSUMO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MADIUN,14-02-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>99</td>
+			<td>&nbsp;04180045          </td>
+			<td>TITO WISNU MURTI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>KEDIRI,29-01-1982</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>100</td>
+			<td>&nbsp;04113626          </td>
+			<td>CHRISTIANTO POERNOMO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,03-05-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>101</td>
+			<td>&nbsp;04113736          </td>
+			<td>AJI SURYO WICAKSONO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MADIUN,06-03-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>102</td>
+			<td>&nbsp;04113710          </td>
+			<td>FERNANDO THEODORUS</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BIAK,20-09-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>103</td>
+			<td>&nbsp;04113743          </td>
+			<td>ISMAIL ASGAFF</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BALIKPAPAN,16-05-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>104</td>
+			<td>&nbsp;04113760          </td>
+			<td>NOVA PRAWIRAHADI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BANYUWANGI,07-11-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>105</td>
+			<td>&nbsp;04113729          </td>
+			<td>WAHYU JAUHAR NOVIANTY</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>PASURUAN,03-11-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>106</td>
+			<td>&nbsp;04113769          </td>
+			<td>PRIYO WIDI WICAKSONO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BLITAR,06-05-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>107</td>
+			<td>&nbsp;04113667          </td>
+			<td>NETTY SILVIA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>BATU,14-02-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>108</td>
+			<td>&nbsp;04113712          </td>
+			<td>NOERA WIDYASTANTI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>PANGKALAN BUN,20-03-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>109</td>
+			<td>&nbsp;04113617          </td>
+			<td>ADHITYA ARYPRASETIO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,13-09-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>110</td>
+			<td>&nbsp;04113745          </td>
+			<td>NOVRIANTO ROSADI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BANJARMASIN,30-11-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>111</td>
+			<td>&nbsp;04113643          </td>
+			<td>BUDI SANTOSO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,19-02-1988</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>112</td>
+			<td>&nbsp;04113748          </td>
+			<td>ERICKSON FILMON DAVID SARIMIN</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>ENDE,07-06-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>113</td>
+			<td>&nbsp;04113654          </td>
+			<td>DODY CAHYADI KOSASIH</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BANJARMASIN,09-09-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>114</td>
+			<td>&nbsp;04113662          </td>
+			<td>ANDRE ARDIAN SUGIANTO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,26-09-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>115</td>
+			<td>&nbsp;04113716          </td>
+			<td>HJ. HERFIENA KARTIKA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>BANJARMASIN,04-04-1987</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>116</td>
+			<td>&nbsp;04180054          </td>
+			<td>EVAN SETYO AMBARA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>SURAKARTA,10-08-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>117</td>
+			<td>&nbsp;04180084          </td>
+			<td>ONNY DWI KURNIAWAN</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>LAMONGAN,07-09-1981</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>118</td>
+			<td>&nbsp;04113619          </td>
+			<td>FEBRILIAN SANDY KURNIAHU</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>KEDIRI,14-02-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>119</td>
+			<td>&nbsp;04113632          </td>
+			<td>FARID NOVRIANSYAH</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,10-11-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>120</td>
+			<td>&nbsp;04113642          </td>
+			<td>ANAK AGUNG PUTRA MARONA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BANYUWANGI,09-03-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>121</td>
+			<td>&nbsp;04113634          </td>
+			<td>RONALD SANJAYA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,15-07-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>122</td>
+			<td>&nbsp;04113722          </td>
+			<td>PETER ADI KURNIAWAN</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,24-08-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>123</td>
+			<td>&nbsp;04113691          </td>
+			<td>SALEH ABDULLAH</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>KEFAMENANU,18-12-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>124</td>
+			<td>&nbsp;04180091          </td>
+			<td>RICKY SIREGAR</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,07-02-1982</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>125</td>
+			<td>&nbsp;04113721          </td>
+			<td>SONY OKTAVIANUS</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>JEMBER,10-10-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>126</td>
+			<td>&nbsp;04113714          </td>
+			<td>ARUM NOVMASARI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>MALANG,11-11-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>127</td>
+			<td>&nbsp;04113674          </td>
+			<td>NANANG LUTFILLAH</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>JOMBANG,23-03-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>128</td>
+			<td>&nbsp;04113758          </td>
+			<td>DODY FRENDY HODMAN'S SE'U</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>KUPANG,08-05-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>129</td>
+			<td>&nbsp;04113688          </td>
+			<td>AVRIO RIZZALI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>TARAKAN,17-04-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>130</td>
+			<td>&nbsp;04113683          </td>
+			<td>NU'MAN HABIBUDDIN</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>PASURUAN,13-07-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>131</td>
+			<td>&nbsp;04113678          </td>
+			<td>NURAINI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>BATAM,11-09-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>132</td>
+			<td>&nbsp;04113728          </td>
+			<td>CHAIRAT SYAMSUL</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>KENDARI,05-04-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>133</td>
+			<td>&nbsp;04113677          </td>
+			<td>DHIMAS ADITYA INDRASWARA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Mengundurkan diri</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>KUPANG,15-04-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>134</td>
+			<td>&nbsp;04113602          </td>
+			<td>YUSUF PRABOWO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,17-11-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>135</td>
+			<td>&nbsp;04113772          </td>
+			<td>TRIADI BAGUS NUGROHO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>SIDOARJO,11-05-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>136</td>
+			<td>&nbsp;04180081          </td>
+			<td>BASKORO WICAKSONO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>TULUNGAGUNG,20-07-1983</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>137</td>
+			<td>&nbsp;04113641          </td>
+			<td>DIDIK SETIYONO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>TRENGGALEK,24-06-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>138</td>
+			<td>&nbsp;04180109          </td>
+			<td>ARDIANTO RAMADHANI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,02-06-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>139</td>
+			<td>&nbsp;04113777          </td>
+			<td>HILMI TAUFANI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>TUREN MALANG,13-07-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>140</td>
+			<td>&nbsp;04113666          </td>
+			<td>WAHYU WIDIANTORO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>PASURUAN,18-10-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>141</td>
+			<td>&nbsp;04113706          </td>
+			<td>DIAN CRISTINA AYUNINGRUM</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>BALIKPAPAN,20-06-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>142</td>
+			<td>&nbsp;04113715          </td>
+			<td>IKA MULYASARI MUSTAFA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>KENDARI,25-08-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>143</td>
+			<td>&nbsp;04113749          </td>
+			<td>RIEKE WIJAYA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>DENPASAR,18-01-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>144</td>
+			<td>&nbsp;04180058          </td>
+			<td>WALUYO HENDRI PURWANTO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,05-10-1981</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>145</td>
+			<td>&nbsp;04113720          </td>
+			<td>DELVY ADRIAN MEDELLU</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>SIDOARJO,16-03-1989</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>146</td>
+			<td>&nbsp;04180059          </td>
+			<td>I GEDE AGUS HARTANA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>SINGARAJA,25-08-1981</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>147</td>
+			<td>&nbsp;04113616          </td>
+			<td>MUFID ADRIANATA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,21-03-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>148</td>
+			<td>&nbsp;04113601          </td>
+			<td>ARTHUR ADYTIA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>JAKARTA,28-09-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>149</td>
+			<td>&nbsp;04113665          </td>
+			<td>CHANDRA SIA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>SAMPIT,13-03-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>150</td>
+			<td>&nbsp;04113669          </td>
+			<td>SANDRA SETIAWAN</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>KEDIRI,22-03-1981</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>151</td>
+			<td>&nbsp;04113656          </td>
+			<td>JONNI YUNI LIEM</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>SAMPIT,03-08-1987</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>152</td>
+			<td>&nbsp;04113649          </td>
+			<td>INDRA IRAWAN</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BANJARBARU,29-07-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>153</td>
+			<td>&nbsp;04113637          </td>
+			<td>KETUT ADHI WIRAGUNA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>DENPASAR,22-07-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>154</td>
+			<td>&nbsp;04180083          </td>
+			<td>RITA SUTOMO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>SIDOARJO,04-06-1981</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>155</td>
+			<td>&nbsp;04180099          </td>
+			<td>MAHLAD</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,24-06-1981</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>156</td>
+			<td>&nbsp;04113763          </td>
+			<td>ANDRE YANUAR SUTANTO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,14-01-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>157</td>
+			<td>&nbsp;04113606          </td>
+			<td>EKO ANGGORO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>SUMBAWA BESAR,03-12-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>158</td>
+			<td>&nbsp;04113767          </td>
+			<td>AMRU MUNANDAR</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BANDA ACEH,10-10-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>159</td>
+			<td>&nbsp;04180082          </td>
+			<td>FEBRYAN YUDHISTIRA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,10-02-1983</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>160</td>
+			<td>&nbsp;04113726          </td>
+			<td>FINTEN BAGUS WICAKSONO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,01-08-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>161</td>
+			<td>&nbsp;04113776          </td>
+			<td>BAGUS RAMADHAN SUSETYO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MEDAN,20-05-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>162</td>
+			<td>&nbsp;04180098          </td>
+			<td>MOKHMMAD RIFAI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>SIDOARJO,11-11-1980</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>163</td>
+			<td>&nbsp;04180104          </td>
+			<td>PUJIONO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>TULUNGAGUNG,18-03-1983</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>164</td>
+			<td>&nbsp;04113788          </td>
+			<td>KOMARU SAMSI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>PASURUAN,25-09-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>165</td>
+			<td>&nbsp;04180079          </td>
+			<td>WAHYU TRI PAMUNGKAS</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>NGANJUK,23-04-1976</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>166</td>
+			<td>&nbsp;04113694          </td>
+			<td>YUSDA RIZALDI NOOR</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MARTAPURA,04-11-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>167</td>
+			<td>&nbsp;04113676          </td>
+			<td>I WAYAN YUDHI LESMANA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>TABANAN,13-09-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>168</td>
+			<td>&nbsp;04113640          </td>
+			<td>ANTONIUS MICHAEL</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BANYUWANGI,16-08-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>169</td>
+			<td>&nbsp;04113604          </td>
+			<td>IRFAN HARTONO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>SURABAYA,12-09-1980</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>170</td>
+			<td>&nbsp;04113727          </td>
+			<td>WAHYU SUSENO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>TRENGGALEK,04-02-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>171</td>
+			<td>&nbsp;04180095          </td>
+			<td>WAHYU WIJAYA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>PASURUAN,12-05-1981</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>172</td>
+			<td>&nbsp;04113742          </td>
+			<td>SYAIFURRIZALI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BALIKPAPAN,12-09-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>173</td>
+			<td>&nbsp;04113611          </td>
+			<td>YULIA DIASTUTI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>MALANG,28-07-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>174</td>
+			<td>&nbsp;04180112          </td>
+			<td>RAHMAT WIDODO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>LUWUK SULTENG,15-02-1983</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>175</td>
+			<td>&nbsp;04180080          </td>
+			<td>VITA YUNI RAHMA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>MALANG,16-06-1982</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>176</td>
+			<td>&nbsp;04113623          </td>
+			<td>YEFFREY SURYA SAPUTRA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>SURAKARTA,28-01-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>177</td>
+			<td>&nbsp;04180060          </td>
+			<td>GANDHI DWI MARDIANTO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,11-03-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>178</td>
+			<td>&nbsp;04180042          </td>
+			<td>ADITYA MARDI KRISTANTO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,17-07-1981</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>179</td>
+			<td>&nbsp;04113610          </td>
+			<td>DENNICE HAPPY KURNIAWAN</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,01-12-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>180</td>
+			<td>&nbsp;04113703          </td>
+			<td>EVANIA TRESNASARI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>BLITAR,05-01-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>181</td>
+			<td>&nbsp;04113733          </td>
+			<td>NORMAYANTI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>SORONG,11-11-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>182</td>
+			<td>&nbsp;04113731          </td>
+			<td>ARNO FIRMAN HARDANA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,23-11-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>183</td>
+			<td>&nbsp;04113651          </td>
+			<td>BRAM IRAWAN KUSUMA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BLITAR,11-09-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>184</td>
+			<td>&nbsp;04113762          </td>
+			<td>ABDUL HARIS</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BANYUWANGI,18-12-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>185</td>
+			<td>&nbsp;04180100          </td>
+			<td>BINTANG ARIO DEVANTO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,23-06-1982</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>186</td>
+			<td>&nbsp;04113613          </td>
+			<td>AULIA MUFTI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MADIUN,20-02-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>187</td>
+			<td>&nbsp;04113684          </td>
+			<td>MUHAMMAD FIRDAUS</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BANJARMASIN,27-09-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>188</td>
+			<td>&nbsp;04113659          </td>
+			<td>DWI NASIYATUL MAARIF</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>SAMARINDA,05-06-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>189</td>
+			<td>&nbsp;04113653          </td>
+			<td>AHMAD MASHUDA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,11-08-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>190</td>
+			<td>&nbsp;04113628          </td>
+			<td>NORA VERONICA KASTELLA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>SURABAYA,24-05-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>191</td>
+			<td>&nbsp;04113784          </td>
+			<td>ADI YANTO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>LUMAJANG,24-06-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>192</td>
+			<td>&nbsp;04113707          </td>
+			<td>SAADAH SURALIA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>MALANG,22-09-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>193</td>
+			<td>&nbsp;04180076          </td>
+			<td>EMANUEL RASMAN ADI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,27-09-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>194</td>
+			<td>&nbsp;04113773          </td>
+			<td>ANGGA WAHYUDI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>TARAKAN,17-04-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>195</td>
+			<td>&nbsp;04113614          </td>
+			<td>LILY MEGA SARI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>SITUBONDO,11-01-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>196</td>
+			<td>&nbsp;04180053          </td>
+			<td>TEGUH ARIS FIANTO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>SIDOARJO,04-06-1983</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>197</td>
+			<td>&nbsp;04113704          </td>
+			<td>ROBERTUS FADLY</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BANYUWANGI,07-11-1989</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>198</td>
+			<td>&nbsp;04113786          </td>
+			<td>GUNTUR SETYO PUTRO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>PROBOLINGGO,31-10-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>199</td>
+			<td>&nbsp;04113756          </td>
+			<td>MUHAMMAD ADI WASISTO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>PEKANBARU,06-07-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>200</td>
+			<td>&nbsp;04113622          </td>
+			<td>SELVI DWI HARTIYANI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>MALANG,05-03-1983</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>201</td>
+			<td>&nbsp;04113750          </td>
+			<td>UMBU NDAKU NAU</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>DILI,17-07-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>202</td>
+			<td>&nbsp;04113697          </td>
+			<td>YOHANES D. PERRY MAN</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>DILLI,28-06-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>203</td>
+			<td>&nbsp;04113690          </td>
+			<td>SALEH SALIM MAHFUD</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>JEMBER,22-04-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>204</td>
+			<td>&nbsp;04113735          </td>
+			<td>REZZA AGUSFIAN</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>LHOKSEUMAWE,19-06-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>205</td>
+			<td>&nbsp;04113774          </td>
+			<td>AGUS SUJATKO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>LAMONGAN,10-08-1977</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>206</td>
+			<td>&nbsp;04180075          </td>
+			<td>RENDRA ARMANSYAH S.</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,07-09-1981</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>207</td>
+			<td>&nbsp;04113724          </td>
+			<td>RULY FATKHUR RAHMAN</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MOJOKERTO,07-08-1981</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>208</td>
+			<td>&nbsp;04113770          </td>
+			<td>TAUFIK HIDAYAT</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Mengundurkan diri</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BALIKPAPAN,19-12-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>209</td>
+			<td>&nbsp;04113631          </td>
+			<td>MERI KURNIAWATY</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>JAKARTA,25-05-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>210</td>
+			<td>&nbsp;04180078          </td>
+			<td>HARIS MUNI SAPUTRA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,27-09-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>211</td>
+			<td>&nbsp;04113603          </td>
+			<td>PWA AGUS TRIANDY</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,31-08-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>212</td>
+			<td>&nbsp;04113633          </td>
+			<td>AGUS SULISTIANTO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>PASURUAN,05-09-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>213</td>
+			<td>&nbsp;04113671          </td>
+			<td>LALU MUHAMMAD FAHRURROZI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MATARAM,28-08-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>214</td>
+			<td>&nbsp;04113781          </td>
+			<td>RENO WAHYU SUHARDI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>SIDOARJO,08-06-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>215</td>
+			<td>&nbsp;04180046          </td>
+			<td>ROSDIYANA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>MANADO,06-11-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>216</td>
+			<td>&nbsp;04113689          </td>
+			<td>ERNI PUSPITASARI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>PALANGKARAYA,11-09-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>217</td>
+			<td>&nbsp;04113652          </td>
+			<td>NORMA DIAH</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>TENGGARONG,24-03-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>218</td>
+			<td>&nbsp;04180041          </td>
+			<td>FIRDAYANA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>BALIKPAPAN,24-03-1979</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>219</td>
+			<td>&nbsp;04113635          </td>
+			<td>EVANGELISTA DELA ROSA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>MALANG,02-02-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>220</td>
+			<td>&nbsp;04113765          </td>
+			<td>DEDENG MIZWAR</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>GRESIK,15-06-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>221</td>
+			<td>&nbsp;04113670          </td>
+			<td>ARIS KRISBIYANTO.</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BANYUWANGI,25-05-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>222</td>
+			<td>&nbsp;04180066          </td>
+			<td>MUHAMMAD QOMARUDDIN Z.</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,27-09-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>223</td>
+			<td>&nbsp;04113680          </td>
+			<td>FRIDAYANTI LESTARI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>SAMPANG,28-11-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>224</td>
+			<td>&nbsp;04113787          </td>
+			<td>HASAN BASRI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,08-08-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>225</td>
+			<td>&nbsp;04113747          </td>
+			<td>CONRADUS HELLYWAN SO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>ENDE FLORES,21-03-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>226</td>
+			<td>&nbsp;04113685          </td>
+			<td>PUTRA PRATAMA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BALIKPAPAN,17-08-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>227</td>
+			<td>&nbsp;04113687          </td>
+			<td>ABDUL KADIR</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>LAWANG,26-04-1987</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>228</td>
+			<td>&nbsp;04113746          </td>
+			<td>RIFKY APRIYANDI PUTRA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BANJARMASIN,10-04-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>229</td>
+			<td>&nbsp;04180092          </td>
+			<td>IHWAN JAMZURI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>JEMBER,22-10-1979</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>230</td>
+			<td>&nbsp;04113696          </td>
+			<td>ELITA ENDAR PRATIWI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>BONDOWOSO,07-02-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>231</td>
+			<td>&nbsp;04113732          </td>
+			<td>EKO FIAT PRIHANDI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BANYUWANGI,14-03-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>232</td>
+			<td>&nbsp;04113608          </td>
+			<td>AKHMAD DZULFIKAR</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>GRESIK,06-10-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>233</td>
+			<td>&nbsp;04113719          </td>
+			<td>LUQMAN HAKIM</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BONDOWOSO,03-08-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>234</td>
+			<td>&nbsp;04180068          </td>
+			<td>WAWAN PRASETYO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BANYUWANGI,04-07-1983</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>235</td>
+			<td>&nbsp;04113661          </td>
+			<td>ANDY WIJAYA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,27-06-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>236</td>
+			<td>&nbsp;04113698          </td>
+			<td>ARIS BUDIONO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>TUBAN,13-12-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>237</td>
+			<td>&nbsp;04113682          </td>
+			<td>ADY SUSILO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>ATAMBUA,15-01-1987</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>238</td>
+			<td>&nbsp;04113739          </td>
+			<td>RIDO KURNIAWAN</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Mengundurkan diri</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,07-07-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>239</td>
+			<td>&nbsp;04180055          </td>
+			<td>INDRA WIJANARKO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,27-09-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>240</td>
+			<td>&nbsp;04113779          </td>
+			<td>AGUS MUNTAHA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,09-08-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>241</td>
+			<td>&nbsp;04113664          </td>
+			<td>SAMIR BALBEID</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>DENPASAR,05-03-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>242</td>
+			<td>&nbsp;04113607          </td>
+			<td>TITO SHOLEH RUSFENDI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>GRESIK,03-03-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>243</td>
+			<td>&nbsp;04113766          </td>
+			<td>PRASATRIYA CANDRA KUSUMA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BANYUWANGI,15-12-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>244</td>
+			<td>&nbsp;04113717          </td>
+			<td>RIDHIANTO TRI PAMUNGKAS</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BALIKPAPAN,19-10-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>245</td>
+			<td>&nbsp;04113734          </td>
+			<td>SAID FIRMAN</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BANDA ACEH,26-05-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>246</td>
+			<td>&nbsp;04113658          </td>
+			<td>NAYA OCVIYANTI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>BALIKPAPAN,02-01-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>247</td>
+			<td>&nbsp;04113754          </td>
+			<td>TRI KUSNIA SARI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>PASURUAN,06-08-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>248</td>
+			<td>&nbsp;04180074          </td>
+			<td>YUSRAN HERLAMBANG</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,27-09-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>249</td>
+			<td>&nbsp;04113768          </td>
+			<td>DANANG PRIYO ATMOJO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>SURABAYA,26-05-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>250</td>
+			<td>&nbsp;04113782          </td>
+			<td>YULI SETIA BAKTI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>METRO,27-07-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>251</td>
+			<td>&nbsp;04180071          </td>
+			<td>YOHANES SIGIT NUGRAHADI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>SIDOARJO,18-03-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>252</td>
+			<td>&nbsp;04113695          </td>
+			<td>RIO WIDYASNA PUTRA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,02-07-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>253</td>
+			<td>&nbsp;04113757          </td>
+			<td>SULANDRI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,26-06-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>254</td>
+			<td>&nbsp;04113737          </td>
+			<td>FAJAR BUDIMAN</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>SAMPIT,02-02-1987</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>255</td>
+			<td>&nbsp;04113693          </td>
+			<td>ARIS PRASETYA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BALIKPAPAN,10-08-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>256</td>
+			<td>&nbsp;04113657          </td>
+			<td>AGUNG RAMA PRASETYO PUTRA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BALIKPAPAN,07-10-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>257</td>
+			<td>&nbsp;04113655          </td>
+			<td>MIA MEGAWATI PUTRI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>KEDIRI,09-10-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>258</td>
+			<td>&nbsp;04113686          </td>
+			<td>I MADE SURYA DARMA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MENGWI,07-02-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>259</td>
+			<td>&nbsp;04113681          </td>
+			<td>RICHI FIRMANSYAH</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>JAKARTA,15-10-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>260</td>
+			<td>&nbsp;04113699          </td>
+			<td>YESSY CITRANINGTYAS W.</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>SEMARANG,07-10-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>261</td>
+			<td>&nbsp;04113668          </td>
+			<td>MIRA RAHMIDA HALIM</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>PROBOLINGO,14-12-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>262</td>
+			<td>&nbsp;04113702          </td>
+			<td>IKA YASMAYANTI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>BANYUWANGI,15-09-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>263</td>
+			<td>&nbsp;04113771          </td>
+			<td>ADIB KUSTRIYANTO W.</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>KULONPROGO,26-04-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>264</td>
+			<td>&nbsp;04113675          </td>
+			<td>AGUNG SETYA ARIFIN</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>TRENGGALEK,19-05-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>265</td>
+			<td>&nbsp;04180097          </td>
+			<td>JIMMY MARTHA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>PASURUAN,30-03-1983</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>266</td>
+			<td>&nbsp;04113775          </td>
+			<td>MOHAMMAD FATIH QADAFI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,18-09-1986</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>267</td>
+			<td>&nbsp;04180108          </td>
+			<td>FRANSISKA HENDRA S</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Dikeluarkan</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG-,31-01-1985</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>268</td>
+			<td>&nbsp;04113725          </td>
+			<td>ARI WIDIYANTI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>TRENGGALEK,22-02-1987</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+		</table>
+</body>
+</html>

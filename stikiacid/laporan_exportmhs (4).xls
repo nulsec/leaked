@@ -1,0 +1,1847 @@
+<html>
+	<head>
+		<title></title>
+		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+		<style>
+             html{
+                font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+            }
+			td { font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 12px;}
+		</style>
+	</head>
+	<body>
+<table width="100%" >
+    <tr>
+        <td colspan="4">
+        <div id="repHeader" style="width: 100%;">
+            <table width="100%" style="border-bottom-style:double;padding-bottom:20px;margin-bottom:10px;">
+                <tr>
+                    <td align="left">
+                        <div class="repTitle">
+                            <font size="5">
+							<strong>PANGKALAN DATA PENDIDIKAN TINGGI</strong>
+							</font>
+                            <br>
+                            <font size="4"><strong>Direktorat Jenderal Pendidikan Tinggi</strong>
+							</font>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        </td>
+    </tr>
+    <tr>
+        <td align="left" colspan="4">
+        <strong>DAFTAR MAHASISWA PER ANGKATAN</strong>
+        </td>
+    </tr>
+    <tr>
+        <td align="left" width="20%" ><strong>Perguruan Tinggi</strong></td>
+        <td align="left" width="30%" ><strong>:</strong> 073025   - STIKI Malang</td>
+        <td align="left" width="20%" ><strong>Alamat</strong></td>
+        <td align="left" ><strong>:</strong> Jalan Raya Tidar No 100  65146</td>
+    </tr>
+    <tr>
+        <td align="left" ><strong>Program Studi</strong></td>
+        <td align="left" ><strong>:</strong> Semua Program Studi</td>
+        <td align="left" ><strong>Periode</strong></td>
+        <td align="left" ><strong>:</strong> 2012</td>
+    </tr>
+</table><table width="100%" border="1">
+	<tr>
+		<th>No</th>
+		<th>NIM</th>
+		<th>Nama</th>
+		<th>Program Studi</th>
+		<th>Status <br />Mahasiswa</th>
+		<th>Jenis <br />Pendaftaran</th>
+		<th>L/P</th>
+		<th>Tempat,Tanggal Lahir</th>
+		<th>Agama</th>
+	</tr>
+			<tr>
+			<td>1</td>
+			<td>&nbsp;122210090         </td>
+			<td>GALIH SETIA BUDI</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Mengundurkan diri</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BLITAR,18-01-1994</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>2</td>
+			<td>&nbsp;122210096         </td>
+			<td>PUTRI WINA MEI DIANA</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>MALANG,12-05-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>3</td>
+			<td>&nbsp;122210104         </td>
+			<td>LUKYTA YUDHITAMA</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Mengundurkan diri</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,21-11-1992</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>4</td>
+			<td>&nbsp;122210097         </td>
+			<td>M SAMHAN GIOVANNI</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,20-09-1991</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>5</td>
+			<td>&nbsp;122210093         </td>
+			<td>KHOIRUL ANAM</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BANYUWANGI,13-10-1992</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>6</td>
+			<td>&nbsp;122210105         </td>
+			<td>MUHAMMAD YANUAR ABDILAH R</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Mengundurkan diri</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>SIDOARJO,29-01-1993</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>7</td>
+			<td>&nbsp;122210100         </td>
+			<td>LUTFI WAHYU FIRMANZAH</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,02-04-1994</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>8</td>
+			<td>&nbsp;122210102         </td>
+			<td>RETNO TIYANINGSIH</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>BLITAR,05-08-1993</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>9</td>
+			<td>&nbsp;122210091         </td>
+			<td>MUHAMMAD AMIRUL MUSLIH</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BLITAR,04-12-1993</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>10</td>
+			<td>&nbsp;122210088         </td>
+			<td>JONATHAN</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>JAKARTA,13-09-1992</td>
+			<td align="center">Kristen</td>
+		</tr>
+			<tr>
+			<td>11</td>
+			<td>&nbsp;122210103         </td>
+			<td>BAGUS PRATAMA ABDI DARMAWAN</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BATU,18-12-1992</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>12</td>
+			<td>&nbsp;122210094         </td>
+			<td>ANGGA SUMARDI PUTRO</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>DENPASAR,17-04-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>13</td>
+			<td>&nbsp;122210098         </td>
+			<td>ALVIAN WIDHAYANA</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MAGETAN,14-11-1985</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>14</td>
+			<td>&nbsp;122210099         </td>
+			<td>SILVI ANDRIANI</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>BANYUWANGI,31-12-1993</td>
+			<td align="center">Kristen</td>
+		</tr>
+			<tr>
+			<td>15</td>
+			<td>&nbsp;122210101         </td>
+			<td>ALIFIO WIRYA NUGRAHA</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,08-02-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>16</td>
+			<td>&nbsp;122210092         </td>
+			<td>ALVARO PUTRA SAMANTA</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Mengundurkan diri</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,06-05-1993</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>17</td>
+			<td>&nbsp;122210089         </td>
+			<td>ANTONIO WIJAYA</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,12-05-1992</td>
+			<td align="center">Budha</td>
+		</tr>
+			<tr>
+			<td>18</td>
+			<td>&nbsp;122210095         </td>
+			<td>MEKIDIAN NOOR</td>
+			<td>D3 Manajemen Informatika                                                           </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>KUALA KUAYAN,07-05-1993</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>19</td>
+			<td>&nbsp;121110567         </td>
+			<td>DAWANG MAHENDRA SUDIRMAN P.</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,30-11-1993</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>20</td>
+			<td>&nbsp;121110549         </td>
+			<td>BONEFASIUS TAOLIN</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>KEFAMENANU,17-09-1985</td>
+			<td align="center">Katholik</td>
+		</tr>
+			<tr>
+			<td>21</td>
+			<td>&nbsp;121110602         </td>
+			<td>FARIK ARIYANTO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MOJOKERTO,07-11-1993</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>22</td>
+			<td>&nbsp;121110532         </td>
+			<td>ERWIN EKA ARDIANSYAH</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,16-05-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>23</td>
+			<td>&nbsp;121110531         </td>
+			<td>MUHAMMAD ASHPIHANI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>TANAH GROGOT,06-10-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>24</td>
+			<td>&nbsp;121110538         </td>
+			<td>LALU HARYADI GUNI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>LOMBOK TIMUR,08-05-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>25</td>
+			<td>&nbsp;121110571         </td>
+			<td>SEPHIRA ELIANDINI WIDODO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>TALIWANG,27-09-1993</td>
+			<td align="center">Kristen</td>
+		</tr>
+			<tr>
+			<td>26</td>
+			<td>&nbsp;121110545         </td>
+			<td>RIZKA SEPTIANDOYO NUGROHO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,11-09-1993</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>27</td>
+			<td>&nbsp;121110599         </td>
+			<td>ANDRIANSYAH DWI WARDANA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>LUMAJANG,02-06-1993</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>28</td>
+			<td>&nbsp;121110506         </td>
+			<td>FERY SANJAYA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>REMBANG,04-07-1994</td>
+			<td align="center">Kristen</td>
+		</tr>
+			<tr>
+			<td>29</td>
+			<td>&nbsp;121110500         </td>
+			<td>ALBERT FERENTO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,04-03-1994</td>
+			<td align="center">Katholik</td>
+		</tr>
+			<tr>
+			<td>30</td>
+			<td>&nbsp;121110514         </td>
+			<td>MARSHEL CALVIN HARIYANTHO RIWU</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>KUPANG,29-03-1995</td>
+			<td align="center">Kristen</td>
+		</tr>
+			<tr>
+			<td>31</td>
+			<td>&nbsp;121110528         </td>
+			<td>RONALD AGUSTINUS L.WATOR</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Mengundurkan diri</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MOANEMANI,28-08-1994</td>
+			<td align="center">Katholik</td>
+		</tr>
+			<tr>
+			<td>32</td>
+			<td>&nbsp;121110589         </td>
+			<td>BIJAHIKA MAULANA KOHRI RIJAL</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>JAYAPURA,07-10-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>33</td>
+			<td>&nbsp;121110505         </td>
+			<td>AJI FITRIONO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,26-03-1993</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>34</td>
+			<td>&nbsp;121110498         </td>
+			<td>RYAN SANTOSO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,03-09-1994</td>
+			<td align="center">Kristen</td>
+		</tr>
+			<tr>
+			<td>35</td>
+			<td>&nbsp;121110546         </td>
+			<td>ARIA TABITA FATMA MAWARNI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>BLITAR,06-11-1994</td>
+			<td align="center">Kristen</td>
+		</tr>
+			<tr>
+			<td>36</td>
+			<td>&nbsp;121110493         </td>
+			<td>AHMAD AZHAR KADIM</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>GORONTALO,05-09-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>37</td>
+			<td>&nbsp;121110605         </td>
+			<td>DEVI TRI WAHYUNINGTYAS</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>BLITAR,30-12-1993</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>38</td>
+			<td>&nbsp;121110592         </td>
+			<td>DIONISIUS CHANDRA ENDRIANTO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,11-09-1993</td>
+			<td align="center">Katholik</td>
+		</tr>
+			<tr>
+			<td>39</td>
+			<td>&nbsp;121110503         </td>
+			<td>AKHMAD MAFTUKHIN</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>PASURUAN,05-06-1993</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>40</td>
+			<td>&nbsp;12190074          </td>
+			<td>FANI RIZKY ARAFAT</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,21-03-1988</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>41</td>
+			<td>&nbsp;121110570         </td>
+			<td>NOVA DWI PRASETIYO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>SURABAYA,07-11-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>42</td>
+			<td>&nbsp;121110562         </td>
+			<td>BENNY EKA ATMOJO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BOJONEGORO,31-10-1992</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>43</td>
+			<td>&nbsp;121110548         </td>
+			<td>MAX MILIAN BENGNGU</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>KUPANG,12-03-1994</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>44</td>
+			<td>&nbsp;121110552         </td>
+			<td>AKHMAD ISNADI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,07-11-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>45</td>
+			<td>&nbsp;12170027          </td>
+			<td>HERY KUSWANDI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,14-07-1993</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>46</td>
+			<td>&nbsp;121110578         </td>
+			<td>AKHMAD YUSUF RIZAL</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>PASURUAN,21-09-1994</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>47</td>
+			<td>&nbsp;121110521         </td>
+			<td>EUFRONIUS WENSY</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>LABUAN BAJO,03-08-1994</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>48</td>
+			<td>&nbsp;121110499         </td>
+			<td>MAHARTIN HENDRA SUKMAWAN</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>LUMAJANG,02-06-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>49</td>
+			<td>&nbsp;121110502         </td>
+			<td>DELIS SETYO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>PATI,19-02-1992</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>50</td>
+			<td>&nbsp;121110593         </td>
+			<td>ADHITYA INDRA AKHADIYAN</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>TULUNGAGUNG,26-06-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>51</td>
+			<td>&nbsp;121110507         </td>
+			<td>OGIK PUTRA NURDIYANTO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BANYUWANGI,30-12-1992</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>52</td>
+			<td>&nbsp;121110504         </td>
+			<td>ALEXANDER SUTANTO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>TULUNGAGUNG,25-08-1992</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>53</td>
+			<td>&nbsp;121110568         </td>
+			<td>ERWIN KRISTANTO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BANYUWANGI,16-12-1993</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>54</td>
+			<td>&nbsp;121110581         </td>
+			<td>RIO ANDRIANTO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>PASURUAN,29-04-1994</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>55</td>
+			<td>&nbsp;121110543         </td>
+			<td>SHENTA NADYA DESTAWATI HOPPY</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>MALANG,01-12-1994</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>56</td>
+			<td>&nbsp;121110610         </td>
+			<td>BISMA ADITIA PUTRA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>SURABAYA,28-08-1994</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>57</td>
+			<td>&nbsp;121110572         </td>
+			<td>RACHMANIA INDAH PERMATA SARI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>MALANG,29-10-1993</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>58</td>
+			<td>&nbsp;121110607         </td>
+			<td>CRYSTYANTO OCHARLTON L</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>DILI,02-10-1994</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>59</td>
+			<td>&nbsp;121110611         </td>
+			<td>FAJAR WAHYU PIDEGSO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>TULUNGAGUNG,04-01-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>60</td>
+			<td>&nbsp;121110588         </td>
+			<td>AKHMAD FARID</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,24-11-1989</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>61</td>
+			<td>&nbsp;121110579         </td>
+			<td>GILANG AKBAR RAMADHAN</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>TULUNGAGUNG,07-03-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>62</td>
+			<td>&nbsp;121110594         </td>
+			<td>FUAD HASAN PERDANA PUTRA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>LAMONGAN,09-07-1993</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>63</td>
+			<td>&nbsp;121110574         </td>
+			<td>AHMAD SIDDIQ NUR FADILLAH</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,29-09-1993</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>64</td>
+			<td>&nbsp;121110519         </td>
+			<td>IAN MUHLISIN</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,27-08-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>65</td>
+			<td>&nbsp;121110496         </td>
+			<td>CHRISTOPHER YUDIONO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,06-04-1995</td>
+			<td align="center">Kristen</td>
+		</tr>
+			<tr>
+			<td>66</td>
+			<td>&nbsp;121110560         </td>
+			<td>ARGA STEFIAN DANI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,23-09-1993</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>67</td>
+			<td>&nbsp;121110576         </td>
+			<td>ANASTASYA PUTRI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>MALANG,04-10-1993</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>68</td>
+			<td>&nbsp;121110510         </td>
+			<td>FAJAR SINATRYA UTAMA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>JOMBANG,28-04-1992</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>69</td>
+			<td>&nbsp;121110597         </td>
+			<td>YOSUA CHRISTYAN SUYANTO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,04-06-1994</td>
+			<td align="center">Kristen</td>
+		</tr>
+			<tr>
+			<td>70</td>
+			<td>&nbsp;121110596         </td>
+			<td>MUHAMMAD BAYU KURNIA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,30-09-1993</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>71</td>
+			<td>&nbsp;12160006          </td>
+			<td>ADHITA PURWITASARI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>PONOROGO,11-02-1988</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>72</td>
+			<td>&nbsp;121110608         </td>
+			<td>RESTU MULYA ANGGARA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>TELUK BETUNG,08-11-1993</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>73</td>
+			<td>&nbsp;121110501         </td>
+			<td>JOHAN WAHYUDI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>TULUNGAGUNG,20-10-1993</td>
+			<td align="center">Kristen</td>
+		</tr>
+			<tr>
+			<td>74</td>
+			<td>&nbsp;121110565         </td>
+			<td>UMAR THALIB</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,01-03-1993</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>75</td>
+			<td>&nbsp;121110558         </td>
+			<td>NABILADIKA NAUFAL RAFIF</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BATU,27-03-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>76</td>
+			<td>&nbsp;12170026          </td>
+			<td>ROMY ARDIAN</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>JAKARTA,29-07-1984</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>77</td>
+			<td>&nbsp;121110559         </td>
+			<td>TRI MAHARDI KURNIAWAN</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,02-05-1993</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>78</td>
+			<td>&nbsp;121110517         </td>
+			<td>FITRI DAYANTI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>BALIKPAPAN,10-03-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>79</td>
+			<td>&nbsp;121110515         </td>
+			<td>R AREZI SYIRAJI R</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BANGKALAN,07-03-1993</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>80</td>
+			<td>&nbsp;121110615         </td>
+			<td>LEWI AGNES WIJANARKO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,12-12-1994</td>
+			<td align="center">Kristen</td>
+		</tr>
+			<tr>
+			<td>81</td>
+			<td>&nbsp;12170017          </td>
+			<td>ADRIAN RAMADHAN</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,01-03-1993</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>82</td>
+			<td>&nbsp;121110587         </td>
+			<td>YOEL JONES POLII</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>JAKARTA,24-11-1992</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>83</td>
+			<td>&nbsp;12170028          </td>
+			<td>YUDHA OLIMPIANA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>TUBAN,19-09-1988</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>84</td>
+			<td>&nbsp;121110582         </td>
+			<td>SIGIT TEGUH PRAKOSO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>TANAH LAUT,26-04-1995</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>85</td>
+			<td>&nbsp;121110527         </td>
+			<td>ANDREAS OKTAVIANUS SUWITO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BONDOWOSO,07-10-1993</td>
+			<td align="center">Kristen</td>
+		</tr>
+			<tr>
+			<td>86</td>
+			<td>&nbsp;121110606         </td>
+			<td>DANANG PAMBUDI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>TULUNGAGUNG,22-06-1994</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>87</td>
+			<td>&nbsp;121110614         </td>
+			<td>JURIS VASSA IVANDRO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,22-02-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>88</td>
+			<td>&nbsp;121110561         </td>
+			<td>GUSTI PEBRIANSYAH</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,02-02-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>89</td>
+			<td>&nbsp;121110612         </td>
+			<td>RINALDY ASPIRAN</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BALIKPAPAN,31-05-1993</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>90</td>
+			<td>&nbsp;121110564         </td>
+			<td>MOECHAMMAD ARIEFIANTO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,26-12-1993</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>91</td>
+			<td>&nbsp;121110547         </td>
+			<td>JULIO MENAHEMI PSALMOI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BATU,04-07-1994</td>
+			<td align="center">Kristen</td>
+		</tr>
+			<tr>
+			<td>92</td>
+			<td>&nbsp;12170029          </td>
+			<td>AGUM AHMAD LANGGA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BANYUWANGI,14-07-1990</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>93</td>
+			<td>&nbsp;121110601         </td>
+			<td>NISRINA ZEIN</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>PAMEKASAN,10-07-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>94</td>
+			<td>&nbsp;121110584         </td>
+			<td>ANDRI SAPUTRO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MAGETAN,22-06-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>95</td>
+			<td>&nbsp;121110566         </td>
+			<td>MAGDALENA DIAN ANGGRAINI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>MAGETAN,30-09-1993</td>
+			<td align="center">Kristen</td>
+		</tr>
+			<tr>
+			<td>96</td>
+			<td>&nbsp;12170020          </td>
+			<td>YOHANES SETIADI NATA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,12-08-1988</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>97</td>
+			<td>&nbsp;12190075          </td>
+			<td>ZULKIFLI MULYANDI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BLITAR,10-11-1994</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>98</td>
+			<td>&nbsp;121110598         </td>
+			<td>DIMAS ADITYA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,09-01-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>99</td>
+			<td>&nbsp;121110537         </td>
+			<td>NUSA ASHARI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,01-12-1993</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>100</td>
+			<td>&nbsp;12190068          </td>
+			<td>AKHMAD JUNAIDI REDHA B</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Pindahan</td>
+			<td align="center">L</td>
+			<td>MALANG,15-06-1989</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>101</td>
+			<td>&nbsp;121110580         </td>
+			<td>MUHAMMAD HANIFUDIN</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,16-03-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>102</td>
+			<td>&nbsp;121110604         </td>
+			<td>ISA SUARTI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>LUMAJANG,02-09-1993</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>103</td>
+			<td>&nbsp;121110591         </td>
+			<td>AGUNG DWI RAHMANTO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>PASURUAN,03-12-1994</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>104</td>
+			<td>&nbsp;121110563         </td>
+			<td>HARMAN TUNGGORONO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>PASURUAN,16-06-1994</td>
+			<td align="center">Katholik</td>
+		</tr>
+			<tr>
+			<td>105</td>
+			<td>&nbsp;121110495         </td>
+			<td>GESAFITO TANDIANUS</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,17-04-1994</td>
+			<td align="center">Kristen</td>
+		</tr>
+			<tr>
+			<td>106</td>
+			<td>&nbsp;121110535         </td>
+			<td>BENEDICTUS RIZKY VERNANDO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>SURABAYA,12-04-1994</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>107</td>
+			<td>&nbsp;121110556         </td>
+			<td>ROHMATAN ROMADONI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,25-02-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>108</td>
+			<td>&nbsp;121110553         </td>
+			<td>DANY AWIDIYA PUTRA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,14-01-1994</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>109</td>
+			<td>&nbsp;121110540         </td>
+			<td>M. ALFAHRUZIANOOR</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>CEMPAGA,02-09-1994</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>110</td>
+			<td>&nbsp;121110525         </td>
+			<td>AFRI RINALDI PRAKOSO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>SAMARINDA,08-04-1994</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>111</td>
+			<td>&nbsp;121110595         </td>
+			<td>MUHAMMAD ZAIDI EFENDI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>GRESIK,31-07-1993</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>112</td>
+			<td>&nbsp;121110529         </td>
+			<td>ADI HARTONO RAMADHAN</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Mengundurkan diri</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>TARAKAN,27-02-1995</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>113</td>
+			<td>&nbsp;121110508         </td>
+			<td>ANDYKA BIMA AJI SAMODRA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,15-05-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>114</td>
+			<td>&nbsp;121110609         </td>
+			<td>MUHAMMAD SYAIFULLAH</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>TULUNGAGUNG,19-09-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>115</td>
+			<td>&nbsp;121110590         </td>
+			<td>NOVANDA BAYHAKKY</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,01-11-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>116</td>
+			<td>&nbsp;12190071          </td>
+			<td>WIDA AFIF EL KHOIRO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Pindahan</td>
+			<td align="center">P</td>
+			<td>MALANG,25-10-1990</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>117</td>
+			<td>&nbsp;121110613         </td>
+			<td>NOAK YOUW</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Mengundurkan diri</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MAWENA,04-11-1993</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>118</td>
+			<td>&nbsp;121110520         </td>
+			<td>ABDUL HAFIDZ THALIB</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,31-03-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>119</td>
+			<td>&nbsp;121110577         </td>
+			<td>FICKY ANDREARI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>JEMBER,05-01-1993</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>120</td>
+			<td>&nbsp;121110542         </td>
+			<td>DIMAS GANISA NURWIBOWO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>SUMENEP,09-08-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>121</td>
+			<td>&nbsp;121110539         </td>
+			<td>EKA DEWI SUSANTI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>KUTAI,18-06-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>122</td>
+			<td>&nbsp;121110512         </td>
+			<td>NELSON RC. HORNAI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>PADIAE,03-05-1984</td>
+			<td align="center">Katholik</td>
+		</tr>
+			<tr>
+			<td>123</td>
+			<td>&nbsp;121110600         </td>
+			<td>AAN SATRIAWAN</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>DOMPU,04-09-1991</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>124</td>
+			<td>&nbsp;121110551         </td>
+			<td>FIDA WIJI LESTARI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>MALANG,22-07-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>125</td>
+			<td>&nbsp;12190073          </td>
+			<td>ARY FADIAN</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>PASURUAN,25-10-1990</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>126</td>
+			<td>&nbsp;12170025          </td>
+			<td>TYAS ARI DITA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>BLITAR,13-02-1993</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>127</td>
+			<td>&nbsp;121110557         </td>
+			<td>YOSAFAT RAVELDO DWIKY F</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,09-06-1994</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>128</td>
+			<td>&nbsp;121110544         </td>
+			<td>KAUTSAR ALIF WAKID</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,05-10-1992</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>129</td>
+			<td>&nbsp;121110555         </td>
+			<td>M. RIZKY ARDIANSYAH</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MOJOKERTO,05-08-1993</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>130</td>
+			<td>&nbsp;121110550         </td>
+			<td>YUVENTUS ROGARIO SILASURI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MAMUJU,14-07-1994</td>
+			<td align="center">Katholik</td>
+		</tr>
+			<tr>
+			<td>131</td>
+			<td>&nbsp;12190072          </td>
+			<td>CANDRA KURNIA VIRGANANTA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,11-09-1990</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>132</td>
+			<td>&nbsp;121110497         </td>
+			<td>REGINA RAGIL ARUM</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>ATAMBUA,27-07-1994</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>133</td>
+			<td>&nbsp;121110569         </td>
+			<td>CANDRA EKA WAHYUDI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>LUMAJANG,14-03-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>134</td>
+			<td>&nbsp;121110585         </td>
+			<td>MOHAMMAD KURDIYADI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>PAMEKASAN,03-06-1993</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>135</td>
+			<td>&nbsp;121110536         </td>
+			<td>SHINTA PURNAMA SARI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>MALANG,01-09-1993</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>136</td>
+			<td>&nbsp;121110518         </td>
+			<td>RIDHO VALENTIN</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>SUMENEP,02-08-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>137</td>
+			<td>&nbsp;12190070          </td>
+			<td>DWI ADI HARDIANTO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Lulus</td>
+			<td align="center">Pindahan</td>
+			<td align="center">L</td>
+			<td>PASURUAN,30-07-1990</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>138</td>
+			<td>&nbsp;121110509         </td>
+			<td>PRISKA INEZ ZAMZAMI OKTARIA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>BONDOWOSO,18-10-1993</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>139</td>
+			<td>&nbsp;12190069          </td>
+			<td>MAS AGUNG TRISUPONO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>PAMEKASAN,29-08-1990</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>140</td>
+			<td>&nbsp;121110516         </td>
+			<td>MUKHAMMAD SHOLIKHUL ROZIN</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,06-06-1992</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>141</td>
+			<td>&nbsp;121110603         </td>
+			<td>VINCENT PUTRA GUNAWAN</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>PASURUAN,20-01-1994</td>
+			<td align="center">Kristen</td>
+		</tr>
+			<tr>
+			<td>142</td>
+			<td>&nbsp;121110534         </td>
+			<td>SENDI KURNIAWATY</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>PASURUAN,17-10-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>143</td>
+			<td>&nbsp;121110575         </td>
+			<td>SHERLY YUNIA RARASATI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>JEMBER,23-06-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>144</td>
+			<td>&nbsp;12170022          </td>
+			<td>FARID ABIDIN</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,27-12-1978</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>145</td>
+			<td>&nbsp;121110524         </td>
+			<td>MOCH. NUR RANDI RACHMADANI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>SURABAYA,11-02-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>146</td>
+			<td>&nbsp;121110526         </td>
+			<td>ITA KUMALA WARDHANI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>MALANG,23-07-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>147</td>
+			<td>&nbsp;121110586         </td>
+			<td>RIKO ANDREAS NASUTION</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>JAKARTA,05-07-1994</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>148</td>
+			<td>&nbsp;12170024          </td>
+			<td>ARIEF TRI WICAKSONO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">Putus Sekolah</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>PROBOLINGGO,13-02-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>149</td>
+			<td>&nbsp;121110511         </td>
+			<td>ARIEF YUWONO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>KEPANJEN,31-12-1990</td>
+			<td align="center">Budha</td>
+		</tr>
+			<tr>
+			<td>150</td>
+			<td>&nbsp;121110494         </td>
+			<td>MUHAMMAD YUGO UTOMO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>TANJUNGPINANG,02-10-1993</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>151</td>
+			<td>&nbsp;12170021          </td>
+			<td>JIBRIL AKBAR YULIADI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,20-07-1993</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>152</td>
+			<td>&nbsp;121110523         </td>
+			<td>SUHARI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,15-06-1993</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>153</td>
+			<td>&nbsp;121110583         </td>
+			<td>SITI ANDRIANI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">P</td>
+			<td>WAIKABUBAK,09-04-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>154</td>
+			<td>&nbsp;121110541         </td>
+			<td>EKO ARDIAN PRANATA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MUKO-MUKO,07-11-1992</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>155</td>
+			<td>&nbsp;121110554         </td>
+			<td>YOSIA PRABOWO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>KARAWANG,22-01-1994</td>
+			<td align="center">Kristen</td>
+		</tr>
+			<tr>
+			<td>156</td>
+			<td>&nbsp;121110513         </td>
+			<td>ZIMMI AL BAYHAQI</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,13-11-1991</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>157</td>
+			<td>&nbsp;121110530         </td>
+			<td>FARID</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,08-02-1992</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>158</td>
+			<td>&nbsp;121110533         </td>
+			<td>HALIM PERDANA KUSUMAH</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>DOMPU,14-10-1992</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>159</td>
+			<td>&nbsp;121110522         </td>
+			<td>RIZAL HIDAYAT</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,18-02-1992</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+			<tr>
+			<td>160</td>
+			<td>&nbsp;121110573         </td>
+			<td>RINDANG RAHARJO ROZAK</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BANYUWANGI,16-06-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>161</td>
+			<td>&nbsp;12170023          </td>
+			<td>MIFTAKHUL HUDA</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>BATU,13-04-1994</td>
+			<td align="center">Islam</td>
+		</tr>
+			<tr>
+			<td>162</td>
+			<td>&nbsp;12170019          </td>
+			<td>AGUS EKO PRASETYO</td>
+			<td>S1 Teknik Informatika                                                              </td>
+			<td align="center">AKTIF</td>
+			<td align="center">Peserta didik baru</td>
+			<td align="center">L</td>
+			<td>MALANG,27-08-1983</td>
+			<td align="center">Tidak diisi</td>
+		</tr>
+		</table>
+</body>
+</html>
