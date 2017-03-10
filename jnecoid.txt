@@ -1,7 +1,7 @@
-web server operating system: Windows or Linux XP or 2000 or NT 4.0 or Debian 6.0 (squeeze)
-web application technology: PHP 5.3.3, Apache 2.2.16
-back-end DBMS: Oracle
-banner:    'Oracle Database 10g Express Edition Release 10.2.0.1.0 - Product'
+web server : Windows or Linux XP or 2000 or NT 4.0 or Debian 6.0 (squeeze)
+web application : PHP 5.3.3, Apache 2.2.16
+DBMS: Oracle
+'Oracle Database 10g Express Edition Release 10.2.0.1.0 - Product'
 
 USER JNE 
 PASS EDBDB51A1666D693
