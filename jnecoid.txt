@@ -7,3 +7,54 @@ DB USER JNE
 DB PASS EDBDB51A1666D693
 DB : JNE
 TABLES : 98
+
+database management system users password hashes:
+[*] ANONYMOUS [1]:
+    password hash: anonymous
+[*] APEX [1]:
+    password hash: 59CD0F165EC91943
+    clear-text password: APEX
+[*] APEX_040200 [1]:
+    password hash: D2C7266803F1F4BA
+[*] APEX_PUBLIC_USER [1]:
+    password hash: 4BD3F44BFA561391
+[*] CTXSYS [1]:
+    password hash: D1D21CA56994CAB6
+    clear-text password: ORACLE
+[*] DBSNMP [1]:
+    password hash: E066D214D5421CCC
+    clear-text password: DBSNMP
+[*] DEPHUB [1]:
+    password hash: 2595E37EE00BBAAB
+    clear-text password: DEPHUB
+[*] DIP [1]:
+    password hash: CE4A36B8E06CA59C
+    clear-text password: DIP
+[*] FLOWS_020100 [1]:
+    password hash: 16E4C012E98710D0
+    clear-text password: ORACLE
+[*] FLOWS_FILES [1]:
+    password hash: 364B78B9EABB9E56
+    clear-text password: ORACLE
+[*] HR [1]:
+    password hash: 4C6D73C3E8B0F0DA
+    clear-text password: HR
+[*] JNE [1]:
+    password hash: EDBDB51A1666D693
+    clear-text password: JNE
+[*] MDSYS [1]:
+    password hash: 72979A94BAD2AF80
+    clear-text password: MDSYS
+[*] OUTLN [1]:
+    password hash: 4A3BA55E08595C81
+    clear-text password: OUTLN
+[*] SYS [1]:
+    password hash: 1652382A3B06708F
+[*] SYSTEM [1]:
+    password hash: 0A0FF9713AA89A21
+[*] TSMSYS [1]:
+    password hash: 3DF26A8B17D0F29F
+    clear-text password: TSMSYS
+[*] XDB [1]:
+    password hash: E76A6BD999EF9FF1
+    clear-text password: ORACLE
