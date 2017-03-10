@@ -3,5 +3,7 @@ web application : PHP 5.3.3, Apache 2.2.16
 DBMS: Oracle
 'Oracle Database 10g Express Edition Release 10.2.0.1.0 - Product'
 
-USER JNE 
-PASS EDBDB51A1666D693
+DB USER JNE 
+DB PASS EDBDB51A1666D693
+DB : JNE
+TABLES : 98
