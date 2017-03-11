@@ -145,3 +145,47 @@ database management system users password hashes:
 | WEBAPI                         |
 | WMS_AWB                        |
 +--------------------------------+
+
+36.66.74.152 - jne.co.id
+36.66.74.152 - www.jne.co.id
+36.66.74.148 - ftp.jne.co.id
+36.66.74.150 - mail.jne.co.id
+36.66.74.151 - smtp.jne.co.id
+40.101.49.88 - autodiscover.jne.co.id
+40.101.54.184 - autodiscover.jne.co.id
+40.96.15.216 - autodiscover.jne.co.id
+40.101.18.40 - autodiscover.jne.co.id
+132.245.229.136 - autodiscover.jne.co.id
+40.101.0.168 - autodiscover.jne.co.id
+132.245.193.136 - autodiscover.jne.co.id
+40.101.72.120 - autodiscover.jne.co.id
+40.101.125.216 - autodiscover.jne.co.id
+40.101.43.200 - autodiscover.jne.co.id
+36.66.74.146 - vpn.jne.co.id
+36.66.74.147 - api.jne.co.id
+proxy.jne.co.id                              d
+52.112.194.75 - sip.jne.co.id
+202.180.51.168 - cms.jne.co.id
+52.112.192.14 - lyncdiscover.jne.co.id
+202.180.51.170 - smtp2.jne.co.id
+202.180.51.164 - cacti.jne.co.id
+202.180.51.173 - vpn2.jne.co.id
+104.45.0.17 - msoid.jne.co.id
+104.45.0.18 - msoid.jne.co.id
+104.40.240.48 - msoid.jne.co.id
+104.40.240.49 - msoid.jne.co.id
+104.45.0.24 - msoid.jne.co.id
+104.40.240.50 - msoid.jne.co.id
+104.45.0.25 - msoid.jne.co.id
+104.45.0.26 - msoid.jne.co.id
+202.180.51.165 - finance.jne.co.id
+202.180.51.168 - booking.jne.co.id
+36.66.74.158 - vpn3.jne.co.id
+202.180.51.190 - vpn3.jne.co.id
+36.66.74.152 - ipv6.jne.co.id
+202.180.51.170 - prtg.jne.co.id
+36.66.74.158 - dummy.jne.co.id
+202.180.51.190 - ovpn.jne.co.id
+36.66.74.158 - ovpn.jne.co.id
+36.66.74.157 - hybrid.jne.co.id
+202.180.51.168 - cs3.jne.co.id
